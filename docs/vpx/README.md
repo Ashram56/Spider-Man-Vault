@@ -51,27 +51,32 @@ playfield once levels are lifted. It was selected with `--image VLM.Nestmap0` an
   Switches with no playfield object in the script (start/tournament buttons, flipper buttons,
   coin-door/mech switches, trough, motor position switches 52/53/56/57, shooter lane 22, goblin BOT 0,
   sandman VUK 58, doc opto 62) are on the cabinet strip along the bottom (`--cabinet`).
-- **74 lamps**: ROM lamp numbers 3-72, 74-78 with objects; 1/2 (start/tournament buttons) and the high
-  nFozzy lamp numbers (73, 75-130) sit below the playfield / on the strip.
+- **74 lamps**: ROM lamp numbers 3-72 and 74-78 with objects, placed on their inserts; 1/2 (start/
+  tournament button lamps) below the playfield; the high nFozzy numbers 123/125/126/128/131 are the
+  flasher-as-lamp insert lights (coils 23/25/26/28/31), on the playfield. The remaining high numbers
+  (73, 75-130 minus those) have no VPX object and carry no position.
 - **4 flasher domes** as `coil:` (solenoids): 21 (Doc Ock), 27 (Sandman), 29/30 (back panel left/right),
   placed at the `Flasherlight4/3/1/2` dome positions. See the Agent B learnings below.
 - Device names are **slugs of the ROM English names** from Agent A's `io/*.csv` (e.g. `s_goblin_2`,
   `l_battle_royale`, `c_sandman_dome_flasher`). The machine config (Agent C) names them properly.
 
-## Agent B learnings to feed back to Stern-SAM-Decryption
+## Agent B learnings fed back to Stern-SAM-Decryption
 
 1. **Primitive-mesh playfield**: when the playfield is a baked VLM mesh, `pick_playfield` picks a black
-   placeholder. The fix is `--image`; the docs already say to pass it, but worth making the "why" explicit:
-   check the mean brightness of the picked image and warn when it is near-black.
+   placeholder (mean brightness ~3). The fix is `--image VLM.Nestmap0`; the docs already say to pass the
+   image, but the near-black case is worth an explicit warning in `vpx_extract.py`.
 2. **Flasher-as-light domes**: Spidey drives its 4 domes with
    `SolModCallBack(n) = "FlashSoln"` where the `FlashSoln` sub sets a **Light object's state directly**
-   (`Flasherlight1.state = pwm`), not `ModFlashFlasher`/`FlashFlasher`. `vpx_map.py` does not recognize this
-   pattern, so it reported **0 flashers**. The domes were added by hand as `coil:`.
+   (`Flasherlight1.state = pwm`), not `ModFlashFlasher`/`FlashFlasher`. `vpx_map.py` did not recognize this
+   pattern and reported **0 flashers**. It has been **added to `vpx_map.py`** (with a test): a
+   `Sol[Mod]Callback(n) = "<sub>"` whose sub body assigns `Flasherlight<k>.state =` now maps solenoid n →
+   that light as a `coil:`. The 4 domes (21/27/29/30) are now auto-discovered.
 3. **nFozzy flashers**: the other flasher coils (23, 25, 26, 28, 31) are driven by
    `SolModCallBack(n) = "SetModLamp n,"` → `Lampz.state(n)`, i.e. they are the arrow/insert lamps
-   themselves (flasher-as-lamp), so they already appear in the lamp mapping. No separate device needed.
+   themselves (flasher-as-lamp), and they appear in the lamp mapping as lamps 123/125/126/128/131. No
+   separate device needed.
 
-These belong in `agents/vpx_extraction.md` and/or a `vpx_map.py` enhancement in Stern-SAM-Decryption.
+These were folded into `agents/vpx_extraction.md` and `tools/vpx/vpx_map.py` in Stern-SAM-Decryption.
 
 ## Handoff to Agent C (strict recreation)
 

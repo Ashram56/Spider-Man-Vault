@@ -1,8 +1,22 @@
 # MPF Monitor layout (x/y: fractions of playfield.jpg) from vpx_extract.py + vpx_map.py
 # Playfield image: VLM.Nestmap0 (4352x8192) from the VPX table's baked lightmap via --image.
 # Switch/lamp names are slugs of the ROM English names (see docs/vpx README); Agent C renames to
-# the machine config's devices. Flasher domes (coils 21/27/29/30) are the coil: section.
+# the machine config's devices. Flasher domes (coils 21/27/29/30) are auto-discovered coil: entries.
+# Lamps 123/125/126/128/131 are the nFozzy flasher-as-lamp insert lights (coils 23/25/26/28/31).
 device_size: 0.035
+coil:
+  c_doc_ock_flasher:   # coil 21 (Flasherlight4)
+    x: 0.7038
+    y: 0.282
+  c_sandman_dome_flasher:   # coil 27 (Flasherlight3)
+    x: 0.4916
+    y: 0.0598
+  c_back_panel_l_flasher:   # coil 29 (Flasherlight1)
+    x: 0.1765
+    y: 0.0418
+  c_back_panel_r_flasher:   # coil 30 (Flasherlight2)
+    x: 0.7626
+    y: 0.0371
 light:
   l_shoot_again:   # light 3 (l3)
     x: 0.4555
@@ -226,19 +240,6 @@ light:
   l_131_flasherbumpers:   # light 131 (FlasherBumpers)
     x: 0.9382
     y: 0.2229
-coil:   # flasher domes mapped from FlashSol<sol> subs -> Flasherlight1..4 (ROM coils 21/27/29/30)
-  c_doc_ock_flasher:   # flasher coil 21 -> Flasherlight4
-    x: 0.7038
-    y: 0.282
-  c_sandman_dome_flasher:   # flasher coil 27 -> Flasherlight3
-    x: 0.4916
-    y: 0.0598
-  c_back_panel_l_flasher:   # flasher coil 29 -> Flasherlight1
-    x: 0.1765
-    y: 0.0418
-  c_back_panel_r_flasher:   # flasher coil 30 -> Flasherlight2
-    x: 0.7626
-    y: 0.0371
 switch:
   s_goblin_2:   # switch 1 (sw1)
     x: 0.1415

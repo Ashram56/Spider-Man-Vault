@@ -73,3 +73,7 @@ number,mpf_name,vpx,kind,type,x,y,nx,ny,note
 126,l_126_f26,F26,lamp,Light,465.4,458.9,0.5067,0.2168,
 128,l_128_flashergoblin,FlasherGoblin,lamp,Flasher,78.2,1253.8,0.0821,0.5928,
 131,l_131_flasherbumpers,FlasherBumpers,lamp,Flasher,893.2,471.4,0.9382,0.2229,
+21,c_doc_ock_flasher,Flasherlight4,flasher,Light,670.0,596.5,0.7038,0.282,
+27,c_sandman_dome_flasher,Flasherlight3,flasher,Light,468.0,126.5,0.4916,0.0598,
+29,c_back_panel_l_flasher,Flasherlight1,flasher,Light,168.0,88.5,0.1765,0.0418,
+30,c_back_panel_r_flasher,Flasherlight2,flasher,Light,726.0,78.5,0.7626,0.0371,
