@@ -1,0 +1,5433 @@
+{
+ "switches": [
+  {
+   "switch": 0,
+   "name_en": "GOBLIN #1 (BOT)",
+   "langs": {
+    "DE": "INVALID",
+    "FR": "INVALID",
+    "ES": "INVALID",
+    "EN": "INVALID",
+    "IT": "",
+    "X": "GOBLIN #1 (BOT)"
+   },
+   "addr": "0x0e31d0"
+  },
+  {
+   "switch": 1,
+   "name_en": "GOBLIN #2",
+   "langs": {
+    "DE": "GOBLIN #1 (UNTEN)",
+    "FR": "GOBLIN #1 (BAS)",
+    "ES": "GOBLIN #1 (INF)",
+    "EN": "GOBLIN #1 (BAS)",
+    "IT": "",
+    "X": "GOBLIN #2"
+   },
+   "addr": "0x0e31e8"
+  },
+  {
+   "switch": 2,
+   "name_en": "GOBLIN #3",
+   "langs": {
+    "DE": "GOBLIN #2",
+    "FR": "GOBLIN #2",
+    "ES": "GOBLIN #2",
+    "EN": "GOBLIN #2",
+    "IT": "",
+    "X": "GOBLIN #3"
+   },
+   "addr": "0x0e3200"
+  },
+  {
+   "switch": 3,
+   "name_en": "GOBLIN #4",
+   "langs": {
+    "DE": "GOBLIN #3",
+    "FR": "GOBLIN #3",
+    "ES": "GOBLIN #3",
+    "EN": "GOBLIN #3",
+    "IT": "",
+    "X": "GOBLIN #4"
+   },
+   "addr": "0x0e3218"
+  },
+  {
+   "switch": 4,
+   "name_en": "GOBLIN #5 (TOP)",
+   "langs": {
+    "DE": "GOBLIN #4",
+    "FR": "GOBLIN #4",
+    "ES": "GOBLIN #4",
+    "EN": "GOBLIN #4",
+    "IT": "",
+    "X": "GOBLIN #5 (TOP)"
+   },
+   "addr": "0x0e3230"
+  },
+  {
+   "switch": 5,
+   "name_en": "LEFT STANDUP",
+   "langs": {
+    "DE": "GOBLIN #5 (OBEN)",
+    "FR": "GOBLIN #5 (HAUT)",
+    "ES": "GOBLIN #5 (SUP)",
+    "EN": "GOBLIN #5 (ALT)",
+    "IT": "",
+    "X": "LEFT STANDUP"
+   },
+   "addr": "0x0e3248"
+  },
+  {
+   "switch": 6,
+   "name_en": "L. LOOP SPINNER",
+   "langs": {
+    "DE": "L. STANDZIEL",
+    "FR": "VERTICALE GAUCHE",
+    "ES": "DIANA VER. IZQ",
+    "EN": "STANDUP SX",
+    "IT": "",
+    "X": "L. LOOP SPINNER"
+   },
+   "addr": "0x0e3260"
+  },
+  {
+   "switch": 7,
+   "name_en": "LEFT LOOP",
+   "langs": {
+    "DE": "L. LOOP-SPINNER",
+    "FR": "BOBINE BOUCLE G.",
+    "ES": "REMOLINO BUC. IZQ",
+    "EN": "SPINNER ANELLO SX",
+    "IT": "",
+    "X": "LEFT LOOP"
+   },
+   "addr": "0x0e3278"
+  },
+  {
+   "switch": 8,
+   "name_en": "SANDMAN 3-BANK (L)",
+   "langs": {
+    "DE": "L. LOOP",
+    "FR": "BOUCLE GAUCHE",
+    "ES": "BUCLE IZQ",
+    "EN": "ANELLO SX",
+    "IT": "",
+    "X": "SANDMAN 3-BANK (L)"
+   },
+   "addr": "0x0e3290"
+  },
+  {
+   "switch": 9,
+   "name_en": "SANDMAN 3-BANK (C)",
+   "langs": {
+    "DE": "SANDMAN-3ERZIEL L",
+    "FR": "3 BANQ. SANDMAN (G)",
+    "ES": "BANC.3 SANDMAN IZQ",
+    "EN": "3 BERSAG. SANDMAN-S",
+    "IT": "",
+    "X": "SANDMAN 3-BANK (C)"
+   },
+   "addr": "0x0e32a8"
+  },
+  {
+   "switch": 10,
+   "name_en": "SANDMAN 3-BANK (R)",
+   "langs": {
+    "DE": "SANDMAN-3ERZIEL M",
+    "FR": "3 BANQ. SANDMAN (C)",
+    "ES": "BANC.3 SANDMAN CEN",
+    "EN": "3 BERSAG. SANDMAN-C",
+    "IT": "",
+    "X": "SANDMAN 3-BANK (R)"
+   },
+   "addr": "0x0e32c0"
+  },
+  {
+   "switch": 11,
+   "name_en": "SANDMAN S.U. (L)",
+   "langs": {
+    "DE": "SANDMAN-3ERZIEL R",
+    "FR": "3 BANQ. SANDMAN (D)",
+    "ES": "BANC.3 SANDMAN DCH",
+    "EN": "3 BERSAG. SANDMAN-D",
+    "IT": "",
+    "X": "SANDMAN S.U. (L)"
+   },
+   "addr": "0x0e32d8"
+  },
+  {
+   "switch": 12,
+   "name_en": "SANDMAN S.U. (R)",
+   "langs": {
+    "DE": "SANDMAN SZ. (L)",
+    "FR": "VERT. SANDMAN (G)",
+    "ES": "D.V. SANDMAN IZQ",
+    "EN": "ST. U. SANDMAN (SX)",
+    "IT": "",
+    "X": "SANDMAN S.U. (R)"
+   },
+   "addr": "0x0e32f0"
+  },
+  {
+   "switch": 13,
+   "name_en": "LOWER L. 10-POINT",
+   "langs": {
+    "DE": "SANDMAN SZ. (R)",
+    "FR": "VERT. SANDMAN (D)",
+    "ES": "D.V. SANDMAN DCH",
+    "EN": "ST. U. SANDMAN (DX)",
+    "IT": "",
+    "X": "LOWER L. 10-POINT"
+   },
+   "addr": "0x0e3308"
+  },
+  {
+   "switch": 14,
+   "name_en": "TOURNAMENT START",
+   "langs": {
+    "DE": "U. LINKS 10 PUNKTE",
+    "FR": "INF. G. A 10 POINTS",
+    "ES": "10 PTS INF. IZQ.",
+    "EN": "10 PUNTI IN BAS A SX",
+    "IT": "",
+    "X": "TOURNAMENT START"
+   },
+   "addr": "0x0e3320"
+  },
+  {
+   "switch": 15,
+   "name_en": "START BUTTON",
+   "langs": {
+    "DE": "TURNIERSTART",
+    "FR": "DEBUT DU TOURNOI",
+    "ES": "INICIAR TORNEO",
+    "EN": "AVVIO TORNEO",
+    "IT": "",
+    "X": "START BUTTON"
+   },
+   "addr": "0x0e3338"
+  },
+  {
+   "switch": 16,
+   "name_en": "SWITCH #17",
+   "langs": {
+    "DE": "START KNOPF",
+    "FR": "BOUTON START",
+    "ES": "BOTON START",
+    "EN": "PULSANTE START",
+    "IT": "",
+    "X": "SWITCH #17"
+   },
+   "addr": "0x0e3350"
+  },
+  {
+   "switch": 17,
+   "name_en": "TROUGH #4 (L)",
+   "langs": {
+    "DE": "KONTAKT NR. 17",
+    "FR": "COMMUTATEUR 17",
+    "ES": "TECLA #17",
+    "EN": "SWITCH N.17",
+    "IT": "",
+    "X": "TROUGH #4 (L)"
+   },
+   "addr": "0x0e3368"
+  },
+  {
+   "switch": 18,
+   "name_en": "TROUGH #3",
+   "langs": {
+    "DE": "WANNE NR. 4 (L)",
+    "FR": "AUGET 4 (G)",
+    "ES": "HOYO #4 (I)",
+    "EN": "BUCA N.4 (S)",
+    "IT": "",
+    "X": "TROUGH #3"
+   },
+   "addr": "0x0e3380"
+  },
+  {
+   "switch": 19,
+   "name_en": "TROUGH #2",
+   "langs": {
+    "DE": "WANNE NR. 3",
+    "FR": "AUGET 3",
+    "ES": "HOYO #3",
+    "EN": "BUCA N.3",
+    "IT": "",
+    "X": "TROUGH #2"
+   },
+   "addr": "0x0e3398"
+  },
+  {
+   "switch": 20,
+   "name_en": "TROUGH #1 (R)",
+   "langs": {
+    "DE": "WANNE NR. 2",
+    "FR": "AUGET 2",
+    "ES": "HOYO #2",
+    "EN": "BUCA N.2",
+    "IT": "",
+    "X": "TROUGH #1 (R)"
+   },
+   "addr": "0x0e33b0"
+  },
+  {
+   "switch": 21,
+   "name_en": "TROUGH JAM",
+   "langs": {
+    "DE": "WANNE NR. 1 (R)",
+    "FR": "AUGET 1 (D)",
+    "ES": "HOYO #1 (D)",
+    "EN": "BUCA N.1 (D)",
+    "IT": "",
+    "X": "TROUGH JAM"
+   },
+   "addr": "0x0e33c8"
+  },
+  {
+   "switch": 22,
+   "name_en": "SHOOTER LANE",
+   "langs": {
+    "DE": "WANNENSTAU",
+    "FR": "BLOCAGE AUGET",
+    "ES": "ATASCO/HOYO",
+    "EN": "BUCA INCEPPATA",
+    "IT": "",
+    "X": "SHOOTER LANE"
+   },
+   "addr": "0x0e33e0"
+  },
+  {
+   "switch": 23,
+   "name_en": "LEFT OUTLANE",
+   "langs": {
+    "DE": "EINSCHUSSRAMPE",
+    "FR": "COULOIR LANCE BILLE",
+    "ES": "PASILLO DE DISPARO",
+    "EN": "CANALE LANCIO PAL.",
+    "IT": "",
+    "X": "LEFT OUTLANE"
+   },
+   "addr": "0x0e33f8"
+  },
+  {
+   "switch": 24,
+   "name_en": "LEFT RETURN LANE",
+   "langs": {
+    "DE": "LINKS AUSSENBAHN",
+    "FR": "COULOIR SORTIE G.",
+    "ES": "PASILLO SALIDA IZQ",
+    "EN": "CANALE ESTERNO SX",
+    "IT": "",
+    "X": "LEFT RETURN LANE"
+   },
+   "addr": "0x0e3410"
+  },
+  {
+   "switch": 25,
+   "name_en": "LEFT SLINGSHOT",
+   "langs": {
+    "DE": "L. RUECKFUEHRBAHN",
+    "FR": "RETOUR GAUCHE",
+    "ES": "PAS. RETORNO IZQ",
+    "EN": "CANALE INTERNO SX",
+    "IT": "",
+    "X": "LEFT SLINGSHOT"
+   },
+   "addr": "0x0e3428"
+  },
+  {
+   "switch": 26,
+   "name_en": "RIGHT SLINGSHOT",
+   "langs": {
+    "DE": "LINKE SCHLEUDER",
+    "FR": "CATAPULTE GAUCHE",
+    "ES": "ONDA IZQ",
+    "EN": "FLAP SX",
+    "IT": "",
+    "X": "RIGHT SLINGSHOT"
+   },
+   "addr": "0x0e3440"
+  },
+  {
+   "switch": 27,
+   "name_en": "RIGHT RETURN LANE",
+   "langs": {
+    "DE": "RECHTE SCHLEUDER",
+    "FR": "CATAPULTE DROITE",
+    "ES": "ONDA DER",
+    "EN": "FLAP DX",
+    "IT": "",
+    "X": "RIGHT RETURN LANE"
+   },
+   "addr": "0x0e3458"
+  },
+  {
+   "switch": 28,
+   "name_en": "RIGHT OUTLANE",
+   "langs": {
+    "DE": "R. RUECKFUEHRBAHN",
+    "FR": "RETOUR DROITE",
+    "ES": "PAS. RETORNO DER",
+    "EN": "CANALE INTERNO DX",
+    "IT": "",
+    "X": "RIGHT OUTLANE"
+   },
+   "addr": "0x0e3470"
+  },
+  {
+   "switch": 29,
+   "name_en": "LEFT BUMPER",
+   "langs": {
+    "DE": "RECHTE AUSSENBAHN",
+    "FR": "COULOIR SORTIE D.",
+    "ES": "PASILLO SALIDA DER",
+    "EN": "CANALE ESTERNO DX",
+    "IT": "",
+    "X": "LEFT BUMPER"
+   },
+   "addr": "0x0e3488"
+  },
+  {
+   "switch": 30,
+   "name_en": "RIGHT BUMPER",
+   "langs": {
+    "DE": "LINKE BUMPER",
+    "FR": "BUMPER GAUCHE",
+    "ES": "BUMPER IZQ",
+    "EN": "BUMPER SX",
+    "IT": "",
+    "X": "RIGHT BUMPER"
+   },
+   "addr": "0x0e34a0"
+  },
+  {
+   "switch": 31,
+   "name_en": "BOTTOM BUMPER",
+   "langs": {
+    "DE": "RECHTES BUMPER",
+    "FR": "BUMPER DROITE",
+    "ES": "BUMPER DCHO.",
+    "EN": "BUMPER DX",
+    "IT": "",
+    "X": "BOTTOM BUMPER"
+   },
+   "addr": "0x0e34b8"
+  },
+  {
+   "switch": 32,
+   "name_en": "LEFT TOP LANE",
+   "langs": {
+    "DE": "UNTEN BUMPER",
+    "FR": "BUMPER BAS",
+    "ES": "BUMPER INF",
+    "EN": "BUMPER BASSO",
+    "IT": "",
+    "X": "LEFT TOP LANE"
+   },
+   "addr": "0x0e34d0"
+  },
+  {
+   "switch": 33,
+   "name_en": "CENTER TOP LANE",
+   "langs": {
+    "DE": "LINKE OBEN BAHN",
+    "FR": "COULOIR HAUT GAUCHE",
+    "ES": "LINEA SUPERIOR IZQ.",
+    "EN": "CANALE ALTO SX.",
+    "IT": "",
+    "X": "CENTER TOP LANE"
+   },
+   "addr": "0x0e34e8"
+  },
+  {
+   "switch": 34,
+   "name_en": "RIGHT TOP LANE",
+   "langs": {
+    "DE": "MITTLERE OBERE BAHN",
+    "FR": "COULOIR CENTRAL SUP",
+    "ES": "LINEA SUPERIOR CENTRO",
+    "EN": "CORSIA IN ALTO CENT.",
+    "IT": "",
+    "X": "RIGHT TOP LANE"
+   },
+   "addr": "0x0e3500"
+  },
+  {
+   "switch": 35,
+   "name_en": "DOC OCK VUK",
+   "langs": {
+    "DE": "RECHTE OBEN BAHN",
+    "FR": "COULOIR HAUT DROITE",
+    "ES": "LINEA SUPERIOR DER.",
+    "EN": "CANALE ALTO DX.",
+    "IT": "",
+    "X": "DOC OCK VUK"
+   },
+   "addr": "0x0e3518"
+  },
+  {
+   "switch": 36,
+   "name_en": "RIGHT LOOP (HIGH)",
+   "langs": {
+    "DE": "DOC OCK-VERT.",
+    "FR": "LAN. VERT DOC OCK",
+    "ES": "VUK DOC OCK",
+    "EN": "ESP. VERT. DOC OCK",
+    "IT": "",
+    "X": "RIGHT LOOP (HIGH)"
+   },
+   "addr": "0x0e3530"
+  },
+  {
+   "switch": 37,
+   "name_en": "RIGHT LOOP (LOW)",
+   "langs": {
+    "DE": "R. LOOP (HOCH)",
+    "FR": "BOUCLE D. (HAUT)",
+    "ES": "BUCLE DCH (ALTO)",
+    "EN": "ANELLO DX (ALTO)",
+    "IT": "",
+    "X": "RIGHT LOOP (LOW)"
+   },
+   "addr": "0x0e3548"
+  },
+  {
+   "switch": 38,
+   "name_en": "R. 3-BANK (TOP)",
+   "langs": {
+    "DE": "R. LOOP (NIEDR.)",
+    "FR": "BOUCLE D. (BAS)",
+    "ES": "BUCLE DCH (BAJO)",
+    "EN": "ANELLO DX (BASSO)",
+    "IT": "",
+    "X": "R. 3-BANK (TOP)"
+   },
+   "addr": "0x0e3560"
+  },
+  {
+   "switch": 39,
+   "name_en": "R. 3-BANK (MID)",
+   "langs": {
+    "DE": "R. 3ERZIEL (O)",
+    "FR": "3 BANQUES D. (HAUT)",
+    "ES": "BANC.3 DCH (SUP)",
+    "EN": "3 BERSAGLI DX (ALTO)",
+    "IT": "",
+    "X": "R. 3-BANK (MID)"
+   },
+   "addr": "0x0e3578"
+  },
+  {
+   "switch": 40,
+   "name_en": "R. 3-BANK (BOT)",
+   "langs": {
+    "DE": "R. 3ERZIEL (M)",
+    "FR": "3 BANQUES D. (MIL)",
+    "ES": "BANC.3 DCH (MED)",
+    "EN": "3 BERSAGLI DX (CEN)",
+    "IT": "",
+    "X": "R. 3-BANK (BOT)"
+   },
+   "addr": "0x0e3590"
+  },
+  {
+   "switch": 41,
+   "name_en": "SANDMAN OPTO",
+   "langs": {
+    "DE": "R. 3ERZIEL (U)",
+    "FR": "3 BANQUES D. (BAS)",
+    "ES": "BANC.3 DCH (INF)",
+    "EN": "3 BERSAGLI DX (BAS)",
+    "IT": "",
+    "X": "SANDMAN OPTO"
+   },
+   "addr": "0x0e35a8"
+  },
+  {
+   "switch": 42,
+   "name_en": "L. RAMP OPTO",
+   "langs": {
+    "DE": "SANDMAN OPT.",
+    "FR": "OPTO SANDMAN",
+    "ES": "OPTO SANDMAN",
+    "EN": "OTTICO SANDMAN",
+    "IT": "",
+    "X": "L. RAMP OPTO"
+   },
+   "addr": "0x0e35c0"
+  },
+  {
+   "switch": 43,
+   "name_en": "R. RAMP ENTRANCE",
+   "langs": {
+    "DE": "L. RAMP OPT.",
+    "FR": "RAMPE G. OPTO",
+    "ES": "OPTO RAMP IZQ",
+    "EN": "OTTICO RAMPA SX",
+    "IT": "",
+    "X": "R. RAMP ENTRANCE"
+   },
+   "addr": "0x0e35d8"
+  },
+  {
+   "switch": 44,
+   "name_en": "R. RAMP EXIT",
+   "langs": {
+    "DE": "R. RAMPE EINGANG",
+    "FR": "ENTREE RAMPE D.",
+    "ES": "ENTRADA RAMP. DCH",
+    "EN": "ENTRATA RAMPA DX",
+    "IT": "",
+    "X": "R. RAMP EXIT"
+   },
+   "addr": "0x0e35f0"
+  },
+  {
+   "switch": 45,
+   "name_en": "U. FLIPPER LANE",
+   "langs": {
+    "DE": "R. RAMPE AUSGANG",
+    "FR": "SORTIE RAMPE D.",
+    "ES": "SALID.RAMP DCH",
+    "EN": "USCITA RAMPA DX",
+    "IT": "",
+    "X": "U. FLIPPER LANE"
+   },
+   "addr": "0x0e3608"
+  },
+  {
+   "switch": 46,
+   "name_en": "C. RAMP ENTRANCE",
+   "langs": {
+    "DE": "U. FLIPPERBAHN",
+    "FR": "VOIE FLIPPER SUP.",
+    "ES": "CARRIL FLIPPER SUP",
+    "EN": "CORSIA FLIP. IN ALTO",
+    "IT": "",
+    "X": "C. RAMP ENTRANCE"
+   },
+   "addr": "0x0e3620"
+  },
+  {
+   "switch": 47,
+   "name_en": "C. RAMP EXIT",
+   "langs": {
+    "DE": "M. RAMPE EINGANG",
+    "FR": "ENTREE RAMPE C.",
+    "ES": "ENTRADA RAMPA CEN",
+    "EN": "ENTRATA RAMPA CEN",
+    "IT": "",
+    "X": "C. RAMP EXIT"
+   },
+   "addr": "0x0e3638"
+  },
+  {
+   "switch": 48,
+   "name_en": "3-BANK MOTOR (DN)",
+   "langs": {
+    "DE": "M. RAMPE AUSGANG",
+    "FR": "SORTIE RAMPE C.",
+    "ES": "SALID.RAMP CEN",
+    "EN": "USCITA RAMPA CEN",
+    "IT": "",
+    "X": "3-BANK MOTOR (DN)"
+   },
+   "addr": "0x0e3650"
+  },
+  {
+   "switch": 49,
+   "name_en": "3-BANK MOTOR (UP)",
+   "langs": {
+    "DE": "3ERZIEL-MOTOR (U)",
+    "FR": "MOTEUR 3 BANQ. (BAS)",
+    "ES": "MOTOR BANC.3 ABJ",
+    "EN": "MOT. 3 BERSAG. (GIU)",
+    "IT": "",
+    "X": "3-BANK MOTOR (UP)"
+   },
+   "addr": "0x0e3668"
+  },
+  {
+   "switch": 50,
+   "name_en": "SWITCH #51",
+   "langs": {
+    "DE": "3ERZIEL-MOTOR (O)",
+    "FR": "MOTEUR 3 BANQ. (HT)",
+    "ES": "MOTOR BANC.3 ARR",
+    "EN": "MOT. 3 BERSAGLI (SU)",
+    "IT": "",
+    "X": "SWITCH #51"
+   },
+   "addr": "0x0e3680"
+  },
+  {
+   "switch": 51,
+   "name_en": "SWITCH #52",
+   "langs": {
+    "DE": "KONTAKT NR. 51",
+    "FR": "COMMUTATEUR 51",
+    "ES": "TECLA #51",
+    "EN": "SWITCH N.51",
+    "IT": "",
+    "X": "SWITCH #52"
+   },
+   "addr": "0x0e3698"
+  },
+  {
+   "switch": 52,
+   "name_en": "SANDMAN MOTOR (DN)",
+   "langs": {
+    "DE": "KONTAKT NR. 52",
+    "FR": "COMMUTATEUR 52",
+    "ES": "TECLA #52",
+    "EN": "SWITCH N.52",
+    "IT": "",
+    "X": "SANDMAN MOTOR (DN)"
+   },
+   "addr": "0x0e36b0"
+  },
+  {
+   "switch": 53,
+   "name_en": "SANDMAN MOTOR (UP)",
+   "langs": {
+    "DE": "SANDMAN-MOTOR (U)",
+    "FR": "MOT. SANDMAN (BAS)",
+    "ES": "MOTOR SANDMAN ABJ",
+    "EN": "MOT. SANDMAN (GIU)",
+    "IT": "",
+    "X": "SANDMAN MOTOR (UP)"
+   },
+   "addr": "0x0e36c8"
+  },
+  {
+   "switch": 54,
+   "name_en": "SWITCH #55",
+   "langs": {
+    "DE": "SANDMAN-MOTOR (O)",
+    "FR": "MOT. SANDMAN (HT)",
+    "ES": "MOTOR SANDMAN ARR",
+    "EN": "MOT. SANDMAN (SU)",
+    "IT": "",
+    "X": "SWITCH #55"
+   },
+   "addr": "0x0e36e0"
+  },
+  {
+   "switch": 55,
+   "name_en": "SWITCH #56",
+   "langs": {
+    "DE": "KONTAKT NR. 55",
+    "FR": "COMMUTATEUR 55",
+    "ES": "TECLA #55",
+    "EN": "SWITCH N.55",
+    "IT": "",
+    "X": "SWITCH #56"
+   },
+   "addr": "0x0e36f8"
+  },
+  {
+   "switch": 56,
+   "name_en": "DOC OCK MOTOR (DN)",
+   "langs": {
+    "DE": "KONTAKT NR. 56",
+    "FR": "COMMUTATEUR 56",
+    "ES": "TECLA #56",
+    "EN": "SWITCH N.56",
+    "IT": "",
+    "X": "DOC OCK MOTOR (DN)"
+   },
+   "addr": "0x0e3710"
+  },
+  {
+   "switch": 57,
+   "name_en": "DOC OCK MOTOR (UP)",
+   "langs": {
+    "DE": "DOC OCK-MOTOR (U)",
+    "FR": "MOT. DOC OCK (BAS)",
+    "ES": "MOTOR DOC OCK ABJ",
+    "EN": "MOT. DOC OCK (GIU)",
+    "IT": "",
+    "X": "DOC OCK MOTOR (UP)"
+   },
+   "addr": "0x0e3728"
+  },
+  {
+   "switch": 58,
+   "name_en": "SANDMAN VUK",
+   "langs": {
+    "DE": "DOC OCK-MOTOR (O)",
+    "FR": "MOT. DOC OCK (HT)",
+    "ES": "MOTOR DOC OCK ARR",
+    "EN": "MOT. DOC OCK (SU)",
+    "IT": "",
+    "X": "SANDMAN VUK"
+   },
+   "addr": "0x0e3740"
+  },
+  {
+   "switch": 59,
+   "name_en": "SWITCH #60",
+   "langs": {
+    "DE": "SANDMAN-VERT.",
+    "FR": "LAN. VERT. SANDMAN",
+    "ES": "VUK SANDMAN",
+    "EN": "ESP. VERT. SANDMAN",
+    "IT": "",
+    "X": "SWITCH #60"
+   },
+   "addr": "0x0e3758"
+  },
+  {
+   "switch": 60,
+   "name_en": "SWITCH #61",
+   "langs": {
+    "DE": "KONTAKT NR. 60",
+    "FR": "COMMUTATEUR 60",
+    "ES": "TECLA #60",
+    "EN": "SWITCH N.60",
+    "IT": "",
+    "X": "SWITCH #61"
+   },
+   "addr": "0x0e3770"
+  },
+  {
+   "switch": 61,
+   "name_en": "SWITCH #62",
+   "langs": {
+    "DE": "KONTAKT NR. 61",
+    "FR": "COMMUTATEUR 61",
+    "ES": "TECLA #61",
+    "EN": "SWITCH N.61",
+    "IT": "",
+    "X": "SWITCH #62"
+   },
+   "addr": "0x0e3788"
+  },
+  {
+   "switch": 62,
+   "name_en": "DOC OCK OPTO",
+   "langs": {
+    "DE": "KONTAKT NR. 62",
+    "FR": "COMMUTATEUR 62",
+    "ES": "TECLA #62",
+    "EN": "SWITCH N.62",
+    "IT": "",
+    "X": "DOC OCK OPTO"
+   },
+   "addr": "0x0e37a0"
+  },
+  {
+   "switch": 63,
+   "name_en": "SWITCH #64",
+   "langs": {
+    "DE": "DOC OCK-OPT.",
+    "FR": "OPTO DOC OCK",
+    "ES": "OPTO DOC OCK",
+    "EN": "OTTICO DOC OCK",
+    "IT": "",
+    "X": "SWITCH #64"
+   },
+   "addr": "0x0e37b8"
+  },
+  {
+   "switch": 64,
+   "name_en": "KONTAKT NR. 64",
+   "langs": {
+    "DE": "KONTAKT NR. 64",
+    "FR": "COMMUTATEUR 64",
+    "ES": "TECLA #64",
+    "EN": "SWITCH N.64",
+    "IT": "",
+    "X": ""
+   },
+   "addr": "0x0e37d0"
+  }
+ ],
+ "coils": [
+  {
+   "coil": 0,
+   "name_en": "INVALID",
+   "langs": {
+    "DE": "INVALID",
+    "FR": "INVALID",
+    "ES": "INVALID",
+    "EN": "INVALID",
+    "IT": "INVALID",
+    "X": ""
+   },
+   "addr": "0x0ce6a8"
+  },
+  {
+   "coil": 1,
+   "name_en": "TROUGH UP-KICKER",
+   "langs": {
+    "DE": "TROUGH UP-KICKER",
+    "FR": "MAGAZIN VUK",
+    "ES": "VUK RIGOLE",
+    "EN": "VUK CANAL",
+    "IT": "4-PALLA VUK",
+    "X": ""
+   },
+   "addr": "0x0ce6c0"
+  },
+  {
+   "coil": 2,
+   "name_en": "AUTO LAUNCH",
+   "langs": {
+    "DE": "AUTO LAUNCH",
+    "FR": "GESCH. ABSCHUSS",
+    "ES": "EJECTEUR TIR D'ADRESSE",
+    "EN": "DISPARADOR TIRO HABIL",
+    "IT": "LANCIO AUTO. DEL PALLA",
+    "X": ""
+   },
+   "addr": "0x0ce6d8"
+  },
+  {
+   "coil": 3,
+   "name_en": "DOC OCK MAGNET",
+   "langs": {
+    "DE": "DOC OCK MAGNET",
+    "FR": "DOC OCK-MAGNET",
+    "ES": "AIMANT DOC OCK",
+    "EN": "IMAN DOC OCK",
+    "IT": "MAGNETE DOC OCK",
+    "X": ""
+   },
+   "addr": "0x0ce6f0"
+  },
+  {
+   "coil": 4,
+   "name_en": "DOC OCK VUK",
+   "langs": {
+    "DE": "DOC OCK VUK",
+    "FR": "DOC OCK-VERT.",
+    "ES": "LAN. VERT DOC OCK",
+    "EN": "VUK DOC OCK",
+    "IT": "ESP. VERT. DOC OCK",
+    "X": ""
+   },
+   "addr": "0x0ce708"
+  },
+  {
+   "coil": 5,
+   "name_en": "DOC OCK MOTOR/RELAY",
+   "langs": {
+    "DE": "DOC OCK MOTOR/RELAY",
+    "FR": "DOC OCK-MOTOR",
+    "ES": "MOTEUR DOC OCK",
+    "EN": "MOTOR DOC OCK",
+    "IT": "MOTORE DOC OCK",
+    "X": ""
+   },
+   "addr": "0x0ce720"
+  },
+  {
+   "coil": 6,
+   "name_en": "SHAKER MOTOR (OPTIONAL)",
+   "langs": {
+    "DE": "SHAKER MOTOR (OPTIONAL)",
+    "FR": "SCHUTTELMOTOR (OPTIONAL)",
+    "ES": "MOTEUR SECOUEUR (FACULT)",
+    "EN": "MOTOR AGITADOR (OPCION)",
+    "IT": "MOTORE SHAKER (OPZIONALE)",
+    "X": ""
+   },
+   "addr": "0x0ce738"
+  },
+  {
+   "coil": 7,
+   "name_en": "LEFT CONTROL GATE",
+   "langs": {
+    "DE": "LEFT CONTROL GATE",
+    "FR": "L. KONTROLLGATTER",
+    "ES": "PORTE GAUCHE",
+    "EN": "PORTON CONTROL IZQ",
+    "IT": "PORTA CONTROLLO SX",
+    "X": ""
+   },
+   "addr": "0x0ce750"
+  },
+  {
+   "coil": 8,
+   "name_en": "RIGHT CONTROL GATE",
+   "langs": {
+    "DE": "RIGHT CONTROL GATE",
+    "FR": "R. KONTROLLGATTER",
+    "ES": "PORTE DROITE",
+    "EN": "PORTON CONTROL DCH",
+    "IT": "PORTA CONTROLLO DX",
+    "X": ""
+   },
+   "addr": "0x0ce768"
+  },
+  {
+   "coil": 9,
+   "name_en": "LEFT BUMPER",
+   "langs": {
+    "DE": "LEFT BUMPER",
+    "FR": "LINKE BUMPER",
+    "ES": "BUMPER GAUCHE",
+    "EN": "BUMPER IZQ.",
+    "IT": "BUMPER SX",
+    "X": ""
+   },
+   "addr": "0x0ce780"
+  },
+  {
+   "coil": 10,
+   "name_en": "RIGHT BUMPER",
+   "langs": {
+    "DE": "RIGHT BUMPER",
+    "FR": "RECHTES BUMPER",
+    "ES": "BUMPER DROITE",
+    "EN": "BUMPER DERECHA",
+    "IT": "BUMPER DX",
+    "X": ""
+   },
+   "addr": "0x0ce798"
+  },
+  {
+   "coil": 11,
+   "name_en": "BOTTOM BUMPER",
+   "langs": {
+    "DE": "BOTTOM BUMPER",
+    "FR": "UNTEN BUMPER",
+    "ES": "BUMPER BAS",
+    "EN": "BUMPER INF",
+    "IT": "BUMPER BASSO",
+    "X": ""
+   },
+   "addr": "0x0ce7b0"
+  },
+  {
+   "coil": 12,
+   "name_en": "SANDMAN VUK",
+   "langs": {
+    "DE": "SANDMAN VUK",
+    "FR": "SANDMAN-VERT.",
+    "ES": "LAN. VERT SANDMAN",
+    "EN": "VUK SANDMAN",
+    "IT": "ESP. VERT. SANDMAN",
+    "X": ""
+   },
+   "addr": "0x0ce7c8"
+  },
+  {
+   "coil": 13,
+   "name_en": "SANDMAN MOTOR/RELAY",
+   "langs": {
+    "DE": "SANDMAN MOTOR/RELAY",
+    "FR": "SANDMAN-MOTOR",
+    "ES": "MOTEUR SANDMAN",
+    "EN": "MOTOR SANDMAN",
+    "IT": "MOTORE SANDMAN",
+    "X": ""
+   },
+   "addr": "0x0ce7e0"
+  },
+  {
+   "coil": 14,
+   "name_en": "UPPER RIGHT FLIPPER",
+   "langs": {
+    "DE": "UPPER RIGHT FLIPPER",
+    "FR": "OBERER RECHTES FLIPPER",
+    "ES": "FLIPPER SUP. DROITE",
+    "EN": "FLIPPER SUPERIOR DER",
+    "IT": "FLIPPER SUPERIORE DX",
+    "X": ""
+   },
+   "addr": "0x0ce7f8"
+  },
+  {
+   "coil": 15,
+   "name_en": "LEFT FLIPPER",
+   "langs": {
+    "DE": "LEFT FLIPPER",
+    "FR": "LINKER FLIPPER",
+    "ES": "FLIPPER GAUCHE",
+    "EN": "FLIPPER IZQ",
+    "IT": "FLIPPER SX",
+    "X": ""
+   },
+   "addr": "0x0ce810"
+  },
+  {
+   "coil": 16,
+   "name_en": "RIGHT FLIPPER",
+   "langs": {
+    "DE": "RIGHT FLIPPER",
+    "FR": "RECHTES FLIPPER",
+    "ES": "FLIPPER DROITE",
+    "EN": "FLIPPER DER",
+    "IT": "FLIPPER DX",
+    "X": ""
+   },
+   "addr": "0x0ce828"
+  },
+  {
+   "coil": 17,
+   "name_en": "LEFT SLINGSHOT",
+   "langs": {
+    "DE": "LEFT SLINGSHOT",
+    "FR": "LINKE SCHLEUDER",
+    "ES": "CATAPULTE GAUCHE",
+    "EN": "ONDA IZQ",
+    "IT": "FLAP SX",
+    "X": ""
+   },
+   "addr": "0x0ce840"
+  },
+  {
+   "coil": 18,
+   "name_en": "RIGHT SLINGSHOT",
+   "langs": {
+    "DE": "RIGHT SLINGSHOT",
+    "FR": "RECHTE SCHLEUDER",
+    "ES": "CATAPULTE DROITE",
+    "EN": "ONDA DER",
+    "IT": "FLAP DX",
+    "X": ""
+   },
+   "addr": "0x0ce858"
+  },
+  {
+   "coil": 19,
+   "name_en": "COIL #19",
+   "langs": {
+    "DE": "COIL #19",
+    "FR": "COIL #19",
+    "ES": "COIL #19",
+    "EN": "COIL #19",
+    "IT": "COIL #19",
+    "X": ""
+   },
+   "addr": "0x0ce870"
+  },
+  {
+   "coil": 20,
+   "name_en": "SANDMAN 3-BANK MOTOR/RELAY",
+   "langs": {
+    "DE": "SANDMAN 3-BANK MOTOR/RELAY",
+    "FR": "SANDMAN 3ERZIEL-MOTOR",
+    "ES": "MOTEUR 3 BANQUES SANDMAN",
+    "EN": "MOTOR BANC.3 SANDMAN",
+    "IT": "MOTORE 3 BERSAGLI SANDMAN",
+    "X": ""
+   },
+   "addr": "0x0ce888"
+  },
+  {
+   "coil": 21,
+   "name_en": "DOC OCK FLASHER",
+   "langs": {
+    "DE": "DOC OCK FLASHER",
+    "FR": "BLITZ: DOC OCK",
+    "ES": "FLASH: DOC OCK",
+    "EN": "LAMPARA: DOC OCK",
+    "IT": "LUCE: DOC OCK",
+    "X": ""
+   },
+   "addr": "0x0ce8a0"
+  },
+  {
+   "coil": 22,
+   "name_en": "LOOP DIVERTER",
+   "langs": {
+    "DE": "LOOP DIVERTER",
+    "FR": "LOOP-WEICHE",
+    "ES": "DEVIAT. BOUCLE",
+    "EN": "DESVIADOR BUC",
+    "IT": "DEVIATORE ANELLO",
+    "X": ""
+   },
+   "addr": "0x0ce8b8"
+  },
+  {
+   "coil": 23,
+   "name_en": "SANDMAN FLASHER",
+   "langs": {
+    "DE": "SANDMAN FLASHER",
+    "FR": "BLITZ: SANDMAN",
+    "ES": "FLASH: SANDMAN",
+    "EN": "LAMPARA: SANDMAN",
+    "IT": "LUCE: SANDMAN",
+    "X": ""
+   },
+   "addr": "0x0ce8d0"
+  },
+  {
+   "coil": 24,
+   "name_en": "OPTIONAL COIL",
+   "langs": {
+    "DE": "OPTIONAL COIL",
+    "FR": "WAHL DER SPULE",
+    "ES": "BOBINE D'OPTION",
+    "EN": "OPCION DE BOBINA",
+    "IT": "BOBINA DI OPZIONE",
+    "X": ""
+   },
+   "addr": "0x0ce8e8"
+  },
+  {
+   "coil": 25,
+   "name_en": "VENOM FLASHER",
+   "langs": {
+    "DE": "VENOM FLASHER",
+    "FR": "BLITZ: VENOM",
+    "ES": "FLASH: VENOM",
+    "EN": "LAMPARA: VENOM",
+    "IT": "LUCE: VENOM",
+    "X": ""
+   },
+   "addr": "0x0ce900"
+  },
+  {
+   "coil": 26,
+   "name_en": "SANDMAN ARROW FLASHER",
+   "langs": {
+    "DE": "SANDMAN ARROW FLASHER",
+    "FR": "BLITZ: SANDMAN PFEIL",
+    "ES": "CLIGNOTANT FLECHE SANDMAN",
+    "EN": "LAMPARA: FLECH.SANDMAN",
+    "IT": "LUCE: FRECCIA SANDMAN",
+    "X": ""
+   },
+   "addr": "0x0ce918"
+  },
+  {
+   "coil": 27,
+   "name_en": "SANDMAN DOME FLASHER",
+   "langs": {
+    "DE": "SANDMAN DOME FLASHER",
+    "FR": "BLITZ: SANDMAN KUPPEL",
+    "ES": "CLIGNOTANT DOME SANDMAN",
+    "EN": "LAMPARA: CUPULA SANDMAN",
+    "IT": "LUCE: CUPOLA SANDMAN",
+    "X": ""
+   },
+   "addr": "0x0ce930"
+  },
+  {
+   "coil": 28,
+   "name_en": "GREEN GOBLIN FLASHER",
+   "langs": {
+    "DE": "GREEN GOBLIN FLASHER",
+    "FR": "BLITZ: GREEN GOBLIN",
+    "ES": "FLASH: GREEN GOBLIN",
+    "EN": "LAMPARA: GREEN GOBLIN",
+    "IT": "LUCE: GREEN GOBLIN",
+    "X": ""
+   },
+   "addr": "0x0ce948"
+  },
+  {
+   "coil": 29,
+   "name_en": "BACK PANEL (L) FLASHER",
+   "langs": {
+    "DE": "BACK PANEL (L) FLASHER",
+    "FR": "BLITZ: A. OBERTEIL (L)",
+    "ES": "CLIGNOT.PANNEAU ARR.(G)",
+    "EN": "LAMPARA: PANEL TRAS IZQ",
+    "IT": "LUCE: PANNELLO POST. (SX)",
+    "X": ""
+   },
+   "addr": "0x0ce960"
+  },
+  {
+   "coil": 30,
+   "name_en": "BACK PANEL (R) FLASHER",
+   "langs": {
+    "DE": "BACK PANEL (R) FLASHER",
+    "FR": "BLITZ: A. OBERTEIL (R)",
+    "ES": "CLIGNOT.PANNEAU ARR.(D)",
+    "EN": "LAMPARA: PANEL TRAS DCH",
+    "IT": "LUCE: PANNELLO POST. (DX)",
+    "X": ""
+   },
+   "addr": "0x0ce978"
+  }
+ ],
+ "lamps": [
+  {
+   "lamp": 0,
+   "name_en": "INVALID",
+   "langs": {
+    "DE": "",
+    "FR": "INVALID",
+    "ES": "INVALID",
+    "EN": "INVALID",
+    "IT": "INVALID",
+    "X": "INVALID"
+   },
+   "addr": "0x0d0fc0"
+  },
+  {
+   "lamp": 1,
+   "name_en": "START BUTTON",
+   "langs": {
+    "DE": "",
+    "FR": "START BUTTON",
+    "ES": "START KNOPF",
+    "EN": "BOUTON START",
+    "IT": "BOTON START",
+    "X": "PULSANTE START"
+   },
+   "addr": "0x0d0fd8"
+  },
+  {
+   "lamp": 2,
+   "name_en": "TOURNAMENT START BUTTON",
+   "langs": {
+    "DE": "",
+    "FR": "TOURNAMENT START BUTTON",
+    "ES": "TURNIERSTART",
+    "EN": "DEBUT DU TOURNOI",
+    "IT": "INICIAR TORNEO",
+    "X": "AVVIO TORNEO"
+   },
+   "addr": "0x0d0ff0"
+  },
+  {
+   "lamp": 3,
+   "name_en": "SHOOT AGAIN",
+   "langs": {
+    "DE": "",
+    "FR": "SHOOT AGAIN",
+    "ES": "SHOOT AGAIN",
+    "EN": "SHOOT AGAIN",
+    "IT": "SHOOT AGAIN",
+    "X": "SHOOT AGAIN"
+   },
+   "addr": "0x0d1008"
+  },
+  {
+   "lamp": 4,
+   "name_en": "BATTLE ROYALE",
+   "langs": {
+    "DE": "",
+    "FR": "BATTLE ROYALE",
+    "ES": "BATTLE ROYALE",
+    "EN": "BATTLE ROYALE",
+    "IT": "BATTLE ROYALE",
+    "X": "BATTLE ROYALE"
+   },
+   "addr": "0x0d1020"
+  },
+  {
+   "lamp": 5,
+   "name_en": "JACK O'LANTERN",
+   "langs": {
+    "DE": "",
+    "FR": "JACK O'LANTERN",
+    "ES": "JACK O'LANTERN",
+    "EN": "JACK O'LANTERN",
+    "IT": "JACK O'LANTERN",
+    "X": "JACK O'LANTERN"
+   },
+   "addr": "0x0d1038"
+  },
+  {
+   "lamp": 6,
+   "name_en": "SANDMAN",
+   "langs": {
+    "DE": "",
+    "FR": "SANDMAN",
+    "ES": "SANDMAN",
+    "EN": "SANDMAN",
+    "IT": "SANDMAN",
+    "X": "SANDMAN"
+   },
+   "addr": "0x0d1050"
+  },
+  {
+   "lamp": 7,
+   "name_en": "DAILY BUGLE",
+   "langs": {
+    "DE": "",
+    "FR": "DAILY BUGLE",
+    "ES": "DAILY BUGLE",
+    "EN": "DAILY BUGLE",
+    "IT": "DAILY BUGLE",
+    "X": "DAILY BUGLE"
+   },
+   "addr": "0x0d1068"
+  },
+  {
+   "lamp": 8,
+   "name_en": "DOC OCK",
+   "langs": {
+    "DE": "",
+    "FR": "DOC OCK",
+    "ES": "DOC OCK",
+    "EN": "DOC OCK",
+    "IT": "DOC OCK",
+    "X": "DOC OCK"
+   },
+   "addr": "0x0d1080"
+  },
+  {
+   "lamp": 9,
+   "name_en": "THE AMAZING SPIDER-MAN",
+   "langs": {
+    "DE": "",
+    "FR": "THE AMAZING SPIDER-MAN",
+    "ES": "THE AMAZING SPIDER-MAN",
+    "EN": "THE AMAZING SPIDER-MAN",
+    "IT": "THE AMAZING SPIDER-MAN",
+    "X": "THE AMAZING SPIDER-MAN"
+   },
+   "addr": "0x0d1098"
+  },
+  {
+   "lamp": 10,
+   "name_en": "GREEN GOBLIN",
+   "langs": {
+    "DE": "",
+    "FR": "GREEN GOBLIN",
+    "ES": "GREEN GOBLIN",
+    "EN": "GREEN GOBLIN",
+    "IT": "GREEN GOBLIN",
+    "X": "GREEN GOBLIN"
+   },
+   "addr": "0x0d10b0"
+  },
+  {
+   "lamp": 11,
+   "name_en": "ELECTRO",
+   "langs": {
+    "DE": "",
+    "FR": "ELECTRO",
+    "ES": "ELECTRO",
+    "EN": "ELECTRO",
+    "IT": "ELECTRO",
+    "X": "ELECTRO"
+   },
+   "addr": "0x0d10c8"
+  },
+  {
+   "lamp": 12,
+   "name_en": "VENOM",
+   "langs": {
+    "DE": "",
+    "FR": "VENOM",
+    "ES": "VENOM",
+    "EN": "VENOM",
+    "IT": "VENOM",
+    "X": "VENOM"
+   },
+   "addr": "0x0d10e0"
+  },
+  {
+   "lamp": 13,
+   "name_en": "TELL MJ",
+   "langs": {
+    "DE": "",
+    "FR": "TELL MJ",
+    "ES": "TELL MJ",
+    "EN": "TELL MJ",
+    "IT": "TELL MJ",
+    "X": "TELL MJ"
+   },
+   "addr": "0x0d10f8"
+  },
+  {
+   "lamp": 14,
+   "name_en": "SUPER HERO",
+   "langs": {
+    "DE": "",
+    "FR": "SUPER HERO",
+    "ES": "SUPER HERO",
+    "EN": "SUPER HERO",
+    "IT": "SUPER HERO",
+    "X": "SUPER HERO"
+   },
+   "addr": "0x0d1110"
+  },
+  {
+   "lamp": 15,
+   "name_en": "LOCK (R. LOOP)",
+   "langs": {
+    "DE": "",
+    "FR": "LOCK (R. LOOP)",
+    "ES": "LOCK (R. LOOP)",
+    "EN": "LOCK (BOUCLE D.)",
+    "IT": "LOCK (FLEC.BUCLE DCH)",
+    "X": "LOCK (ANELLO DX)"
+   },
+   "addr": "0x0d1128"
+  },
+  {
+   "lamp": 16,
+   "name_en": "R. LOOP ARROW (WHT, MID)",
+   "langs": {
+    "DE": "",
+    "FR": "R. LOOP ARROW (WHT, MID)",
+    "ES": "R. LOOP-PFEIL (WE, M)",
+    "EN": "FLECHE BOUCLE D. (BLANC)",
+    "IT": "FLEC.BUCLE DCH (BLA, MED)",
+    "X": "FREC. ANELLO DX (BIA, CEN)"
+   },
+   "addr": "0x0d1140"
+  },
+  {
+   "lamp": 17,
+   "name_en": "GOBLIN #5 (TOP)",
+   "langs": {
+    "DE": "",
+    "FR": "GOBLIN #5 (TOP)",
+    "ES": "GOBLIN #5 (OBEN)",
+    "EN": "GOBLIN #5 (HAUT)",
+    "IT": "GOBLIN #5 (SUP)",
+    "X": "GOBLIN #5 (ALT)"
+   },
+   "addr": "0x0d1158"
+  },
+  {
+   "lamp": 18,
+   "name_en": "GOBLIN #4",
+   "langs": {
+    "DE": "",
+    "FR": "GOBLIN #4",
+    "ES": "GOBLIN #4",
+    "EN": "GOBLIN #4",
+    "IT": "GOBLIN #4",
+    "X": "GOBLIN #4"
+   },
+   "addr": "0x0d1170"
+  },
+  {
+   "lamp": 19,
+   "name_en": "GOBLIN #3",
+   "langs": {
+    "DE": "",
+    "FR": "GOBLIN #3",
+    "ES": "GOBLIN #3",
+    "EN": "GOBLIN #3",
+    "IT": "GOBLIN #3",
+    "X": "GOBLIN #3"
+   },
+   "addr": "0x0d1188"
+  },
+  {
+   "lamp": 20,
+   "name_en": "GOBLIN #2",
+   "langs": {
+    "DE": "",
+    "FR": "GOBLIN #2",
+    "ES": "GOBLIN #2",
+    "EN": "GOBLIN #2",
+    "IT": "GOBLIN #2",
+    "X": "GOBLIN #2"
+   },
+   "addr": "0x0d11a0"
+  },
+  {
+   "lamp": 21,
+   "name_en": "GOBLIN #1 (BOT)",
+   "langs": {
+    "DE": "",
+    "FR": "GOBLIN #1 (BOT)",
+    "ES": "GOBLIN #1 (UNTEN)",
+    "EN": "GOBLIN #1 (BAS)",
+    "IT": "GOBLIN #1 (INF)",
+    "X": "GOBLIN #1 (BAS)"
+   },
+   "addr": "0x0d11b8"
+  },
+  {
+   "lamp": 22,
+   "name_en": "SPIDEY FALLS FOR MJ",
+   "langs": {
+    "DE": "",
+    "FR": "SPIDEY FALLS FOR MJ",
+    "ES": "SPIDEY FALLS FOR MJ",
+    "EN": "SPIDEY FALLS FOR MJ",
+    "IT": "SPIDEY FALLS FOR MJ",
+    "X": "SPIDEY FALLS FOR MJ"
+   },
+   "addr": "0x0d11d0"
+  },
+  {
+   "lamp": 23,
+   "name_en": "FIRE FIGHTING",
+   "langs": {
+    "DE": "",
+    "FR": "FIRE FIGHTING",
+    "ES": "FIRE FIGHTING",
+    "EN": "FIRE FIGHTING",
+    "IT": "FIRE FIGHTING",
+    "X": "FIRE FIGHTING"
+   },
+   "addr": "0x0d11e8"
+  },
+  {
+   "lamp": 24,
+   "name_en": "GREEN WITH ENVY",
+   "langs": {
+    "DE": "",
+    "FR": "GREEN WITH ENVY",
+    "ES": "GREEN WITH ENVY",
+    "EN": "GREEN WITH ENVY",
+    "IT": "GREEN WITH ENVY",
+    "X": "GREEN WITH ENVY"
+   },
+   "addr": "0x0d1200"
+  },
+  {
+   "lamp": 25,
+   "name_en": "L. LOOP ARROW (RED, TOP)",
+   "langs": {
+    "DE": "",
+    "FR": "L. LOOP ARROW (RED, TOP)",
+    "ES": "L. LOOP-PFEIL (RO, O)",
+    "EN": "FLECHE BOUCLE G. (ROUGE)",
+    "IT": "FLEC.BUCLE IZQ (ROJ, SUP)",
+    "X": "FREC. ANELLO SX (ROS, ALT)"
+   },
+   "addr": "0x0d1218"
+  },
+  {
+   "lamp": 26,
+   "name_en": "L. LOOP ARROW (WHT, MID)",
+   "langs": {
+    "DE": "",
+    "FR": "L. LOOP ARROW (WHT, MID)",
+    "ES": "L. LOOP-PFEIL (WE, M)",
+    "EN": "FLECHE BOUCLE G. (BLANC)",
+    "IT": "FLEC.BUCLE IZQ (BLA, MED)",
+    "X": "FREC. ANELLO SX (BIA, CEN)"
+   },
+   "addr": "0x0d1230"
+  },
+  {
+   "lamp": 27,
+   "name_en": "LOCK (L. LOOP)",
+   "langs": {
+    "DE": "",
+    "FR": "LOCK (L. LOOP)",
+    "ES": "LOCK (L. LOOP)",
+    "EN": "LOCK (BOUCLE G.)",
+    "IT": "LOCK (FLEC.BUCLE IZQ)",
+    "X": "LOCK (ANELLO SX)"
+   },
+   "addr": "0x0d1248"
+  },
+  {
+   "lamp": 28,
+   "name_en": "LIGHT LOCK",
+   "langs": {
+    "DE": "",
+    "FR": "LIGHT LOCK",
+    "ES": "LIGHT LOCK",
+    "EN": "LIGHT LOCK",
+    "IT": "LIGHT LOCK",
+    "X": "LIGHT LOCK"
+   },
+   "addr": "0x0d1260"
+  },
+  {
+   "lamp": 29,
+   "name_en": "C. RAMP ARROW (RED, TOP)",
+   "langs": {
+    "DE": "",
+    "FR": "C. RAMP ARROW (RED, TOP)",
+    "ES": "M. RAMPENPFEIL (RO, O)",
+    "EN": "FLECHE RAMPE C. (ROUGE)",
+    "IT": "FLEC.RAMPA CEN (ROJ, SUP)",
+    "X": "FREC. RAMPA CEN. (ROS, ALT)"
+   },
+   "addr": "0x0d1278"
+  },
+  {
+   "lamp": 30,
+   "name_en": "C. RAMP ARROW (WHT, MID)",
+   "langs": {
+    "DE": "",
+    "FR": "C. RAMP ARROW (WHT, MID)",
+    "ES": "M. RAMPENPFEIL (WE, M)",
+    "EN": "FLECHE RAMPE C. (BLANC)",
+    "IT": "FLEC.RAMPA CEN (BLA, MED)",
+    "X": "FREC. RAMPA CEN. (BIA, CEN)"
+   },
+   "addr": "0x0d1290"
+  },
+  {
+   "lamp": 31,
+   "name_en": "VENOM (C. RAMP)",
+   "langs": {
+    "DE": "",
+    "FR": "VENOM (C. RAMP)",
+    "ES": "VENOM M. RAMPENPFEIL",
+    "EN": "VENOM (RAMPE C.)",
+    "IT": "VENOM (FLEC.RAMPA CEN)",
+    "X": "VENOM (RAMPA CEN.)"
+   },
+   "addr": "0x0d12a8"
+  },
+  {
+   "lamp": 32,
+   "name_en": "EXTRA BALL",
+   "langs": {
+    "DE": "",
+    "FR": "EXTRA BALL",
+    "ES": "EXTRA BALL",
+    "EN": "EXTRA BALL",
+    "IT": "EXTRA BALL",
+    "X": "EXTRA BALL"
+   },
+   "addr": "0x0d12c0"
+  },
+  {
+   "lamp": 33,
+   "name_en": "R. RAMP ARROW (RED, TOP)",
+   "langs": {
+    "DE": "",
+    "FR": "R. RAMP ARROW (RED, TOP)",
+    "ES": "R. RAMPENPFEIL (RO, O)",
+    "EN": "FLECHE RAMPE D. (ROUGE)",
+    "IT": "FLEC.RAMPA DCH (ROJ, SUP)",
+    "X": "FREC. RAMPA DX (ROS, ALT)"
+   },
+   "addr": "0x0d12d8"
+  },
+  {
+   "lamp": 34,
+   "name_en": "R. RAMP ARROW (WHT, MID)",
+   "langs": {
+    "DE": "",
+    "FR": "R. RAMP ARROW (WHT, MID)",
+    "ES": "R. RAMPENPFEIL (WE, M)",
+    "EN": "FLECHE RAMPE D. (BLANC)",
+    "IT": "FLEC.RAMPA DCH (BLA, MED)",
+    "X": "FREC. RAMPA DX (BIA, CEN)"
+   },
+   "addr": "0x0d12f0"
+  },
+  {
+   "lamp": 35,
+   "name_en": "ROYALE JACKPOT",
+   "langs": {
+    "DE": "",
+    "FR": "ROYALE JACKPOT",
+    "ES": "ROYALE JACKPOT",
+    "EN": "ROYALE JACKPOT",
+    "IT": "ROYALE JACKPOT",
+    "X": "ROYALE JACKPOT"
+   },
+   "addr": "0x0d1308"
+  },
+  {
+   "lamp": 36,
+   "name_en": "DOC OCK ARROW (RED, TOP)",
+   "langs": {
+    "DE": "",
+    "FR": "DOC OCK ARROW (RED, TOP)",
+    "ES": "DOC OCK-PFEIL (RO, O)",
+    "EN": "FLECHE DOC OCK. (ROUGE)",
+    "IT": "FLEC. DOC OCK (ROJ, SUP)",
+    "X": "FRECCIA DOC OCK (ROS, ALT)"
+   },
+   "addr": "0x0d1320"
+  },
+  {
+   "lamp": 37,
+   "name_en": "DOC OCK ARROW (WHT, BOT)",
+   "langs": {
+    "DE": "",
+    "FR": "DOC OCK ARROW (WHT, BOT)",
+    "ES": "DOC OCK-PFEIL (WE, U)",
+    "EN": "FLECHE DOC OCK. (BLANC)",
+    "IT": "FLEC. DOC OCK (BLA, INF)",
+    "X": "FRECCIA DOC OCK (BIA, BAS)"
+   },
+   "addr": "0x0d1338"
+  },
+  {
+   "lamp": 38,
+   "name_en": "BATTLE ON THE BRIDGE",
+   "langs": {
+    "DE": "",
+    "FR": "BATTLE ON THE BRIDGE",
+    "ES": "BATTLE ON THE BRIDGE",
+    "EN": "BATTLE ON THE BRIDGE",
+    "IT": "BATTLE ON THE BRIDGE",
+    "X": "BATTLE ON THE BRIDGE"
+   },
+   "addr": "0x0d1350"
+  },
+  {
+   "lamp": 39,
+   "name_en": "OCK'S OSCORP OUTING",
+   "langs": {
+    "DE": "",
+    "FR": "OCK'S OSCORP OUTING",
+    "ES": "OCK'S OSCORP OUTING",
+    "EN": "OCK'S OSCORP OUTING",
+    "IT": "OCK'S OSCORP OUTING",
+    "X": "OCK'S OSCORP OUTING"
+   },
+   "addr": "0x0d1368"
+  },
+  {
+   "lamp": 40,
+   "name_en": "LEND ME A HAND",
+   "langs": {
+    "DE": "",
+    "FR": "LEND ME A HAND",
+    "ES": "LEND ME A HAND",
+    "EN": "LEND ME A HAND",
+    "IT": "LEND ME A HAND",
+    "X": "LEND ME A HAND"
+   },
+   "addr": "0x0d1380"
+  },
+  {
+   "lamp": 41,
+   "name_en": "(H)ERO",
+   "langs": {
+    "DE": "",
+    "FR": "(H)ERO",
+    "ES": "(H)ERO",
+    "EN": "(H)ERO",
+    "IT": "(H)ERO",
+    "X": "(H)ERO"
+   },
+   "addr": "0x0d1398"
+  },
+  {
+   "lamp": 42,
+   "name_en": "H(E)RO",
+   "langs": {
+    "DE": "",
+    "FR": "H(E)RO",
+    "ES": "H(E)RO",
+    "EN": "H(E)RO",
+    "IT": "H(E)RO",
+    "X": "H(E)RO"
+   },
+   "addr": "0x0d13b0"
+  },
+  {
+   "lamp": 43,
+   "name_en": "HE(R)O",
+   "langs": {
+    "DE": "",
+    "FR": "HE(R)O",
+    "ES": "HE(R)O",
+    "EN": "HE(R)O",
+    "IT": "HE(R)O",
+    "X": "HE(R)O"
+   },
+   "addr": "0x0d13c8"
+  },
+  {
+   "lamp": 44,
+   "name_en": "HER(O)",
+   "langs": {
+    "DE": "",
+    "FR": "HER(O)",
+    "ES": "HER(O)",
+    "EN": "HER(O)",
+    "IT": "HER(O)",
+    "X": "HER(O)"
+   },
+   "addr": "0x0d13e0"
+  },
+  {
+   "lamp": 45,
+   "name_en": "L. RAMP ARROW (RED, TOP)",
+   "langs": {
+    "DE": "",
+    "FR": "L. RAMP ARROW (RED, TOP)",
+    "ES": "L. RAMPENPFEIL (RO, O)",
+    "EN": "FLECHE RAMPE G. (ROUGE)",
+    "IT": "FLEC.RAMPA IZQ (ROJ, SUP)",
+    "X": "FREC. RAMPA SX (ROS, ALT)"
+   },
+   "addr": "0x0d13f8"
+  },
+  {
+   "lamp": 46,
+   "name_en": "L. RAMP ARROW (WHT, MID)",
+   "langs": {
+    "DE": "",
+    "FR": "L. RAMP ARROW (WHT, MID)",
+    "ES": "L. RAMPENPFEIL (WE, M)",
+    "EN": "FLECHE RAMPE G. (BLANC)",
+    "IT": "FLEC.RAMPA IZQ (BLA, MED)",
+    "X": "FREC. RAMPA SX (BIA, CEN)"
+   },
+   "addr": "0x0d1410"
+  },
+  {
+   "lamp": 47,
+   "name_en": "VENOM (L. RAMP)",
+   "langs": {
+    "DE": "",
+    "FR": "VENOM (L. RAMP)",
+    "ES": "VENOM (L. RAMPENPFEIL)",
+    "EN": "VENOM (RAMPE G.)",
+    "IT": "VENOM (FLEC.RAMPA IZQ)",
+    "X": "VENOM (RAMPA SX)"
+   },
+   "addr": "0x0d1428"
+  },
+  {
+   "lamp": 48,
+   "name_en": "R. 3-BANK #1 (TOP)",
+   "langs": {
+    "DE": "",
+    "FR": "R. 3-BANK #1 (TOP)",
+    "ES": "R. 3ERZIEL NR. 1 (O)",
+    "EN": "3 BANQUES D. #1 (HAUT)",
+    "IT": "BANC.3 #1 DCH (SUP)",
+    "X": "3 BERSAGLI DX #1 (ALTO)"
+   },
+   "addr": "0x0d1440"
+  },
+  {
+   "lamp": 49,
+   "name_en": "SANDMAN ARROW #1 (L)",
+   "langs": {
+    "DE": "",
+    "FR": "SANDMAN ARROW #1 (L)",
+    "ES": "SANDMAN-PFEIL NR.1 (L)",
+    "EN": "FLECHE SANDMAN #1 (G)",
+    "IT": "FLECH.SANDMAN #1 IZQ",
+    "X": "FRECCIA SANDMAN #1 (S)"
+   },
+   "addr": "0x0d1458"
+  },
+  {
+   "lamp": 50,
+   "name_en": "SANDMAN ARROW #2 (C)",
+   "langs": {
+    "DE": "",
+    "FR": "SANDMAN ARROW #2 (C)",
+    "ES": "SANDMAN-PFEIL NR. 2 (M)",
+    "EN": "FLECHE SANDMAN #2 (C)",
+    "IT": "FLECH.SANDMAN #2 CEN",
+    "X": "FRECCIA SANDMAN #2 (C)"
+   },
+   "addr": "0x0d1470"
+  },
+  {
+   "lamp": 51,
+   "name_en": "SANDMAN ARROW #3 (R)",
+   "langs": {
+    "DE": "",
+    "FR": "SANDMAN ARROW #3 (R)",
+    "ES": "SANDMAN-PFEIL NR. 3 (R)",
+    "EN": "FLECHE SANDMAN #3 (D)",
+    "IT": "FLECH.SANDMAN #3 DCH",
+    "X": "FRECCIA SANDMAN #3 (D)"
+   },
+   "addr": "0x0d1488"
+  },
+  {
+   "lamp": 52,
+   "name_en": "SANDMAN 3-BANK #1 (L)",
+   "langs": {
+    "DE": "",
+    "FR": "SANDMAN 3-BANK #1 (L)",
+    "ES": "SANDMAN-3ERZIEL NR. 1 (L)",
+    "EN": "3 BANQUES SANDMAN #1 (G)",
+    "IT": "BANC.3 SANDMAN #1 IZQ",
+    "X": "3 BERSAGLI SANDMAN #1 (S)"
+   },
+   "addr": "0x0d14a0"
+  },
+  {
+   "lamp": 53,
+   "name_en": "SANDMAN 3-BANK #2 (C)",
+   "langs": {
+    "DE": "",
+    "FR": "SANDMAN 3-BANK #2 (C)",
+    "ES": "SANDMAN-3ERZIEL NR. 2 (M)",
+    "EN": "3 BANQUES SANDMAN #2 (C)",
+    "IT": "BANC.3 SANDMAN #2 CEN",
+    "X": "3 BERSAGLI SANDMAN #2 (C)"
+   },
+   "addr": "0x0d14b8"
+  },
+  {
+   "lamp": 54,
+   "name_en": "SANDMAN 3-BANK #3 (R)",
+   "langs": {
+    "DE": "",
+    "FR": "SANDMAN 3-BANK #3 (R)",
+    "ES": "SANDMAN-3ERZIEL NR. 3 (R)",
+    "EN": "3 BANQUES SANDMAN #3 (D)",
+    "IT": "BANC.3 SANDMAN #3 DCH",
+    "X": "3 BERSAGLI SANDMAN #3 (D)"
+   },
+   "addr": "0x0d14d0"
+  },
+  {
+   "lamp": 55,
+   "name_en": "LAMP #55",
+   "langs": {
+    "DE": "",
+    "FR": "LAMP #55",
+    "ES": "LAMP #55",
+    "EN": "LAMP #55",
+    "IT": "LAMP #55",
+    "X": "LAMP #55"
+   },
+   "addr": "0x0d14e8"
+  },
+  {
+   "lamp": 56,
+   "name_en": "LAMP #56",
+   "langs": {
+    "DE": "",
+    "FR": "LAMP #56",
+    "ES": "LAMP #56",
+    "EN": "LAMP #56",
+    "IT": "LAMP #56",
+    "X": "LAMP #56"
+   },
+   "addr": "0x0d1500"
+  },
+  {
+   "lamp": 57,
+   "name_en": "(W)EB",
+   "langs": {
+    "DE": "",
+    "FR": "(W)EB",
+    "ES": "(W)EB",
+    "EN": "(W)EB",
+    "IT": "(W)EB",
+    "X": "(W)EB"
+   },
+   "addr": "0x0d1518"
+  },
+  {
+   "lamp": 58,
+   "name_en": "W(E)B",
+   "langs": {
+    "DE": "",
+    "FR": "W(E)B",
+    "ES": "W(E)B",
+    "EN": "W(E)B",
+    "IT": "W(E)B",
+    "X": "W(E)B"
+   },
+   "addr": "0x0d1530"
+  },
+  {
+   "lamp": 59,
+   "name_en": "WE(B)",
+   "langs": {
+    "DE": "",
+    "FR": "WE(B)",
+    "ES": "WE(B)",
+    "EN": "WE(B)",
+    "IT": "WE(B)",
+    "X": "WE(B)"
+   },
+   "addr": "0x0d1548"
+  },
+  {
+   "lamp": 60,
+   "name_en": "LEFT BUMPER",
+   "langs": {
+    "DE": "",
+    "FR": "LEFT BUMPER",
+    "ES": "LINKE BUMPER",
+    "EN": "BUMPER GAUCHE",
+    "IT": "BUMPER IZQ",
+    "X": "BUMPER SX"
+   },
+   "addr": "0x0d1560"
+  },
+  {
+   "lamp": 61,
+   "name_en": "RIGHT BUMPER",
+   "langs": {
+    "DE": "",
+    "FR": "RIGHT BUMPER",
+    "ES": "RECHTES BUMPER",
+    "EN": "BUMPER DROITE",
+    "IT": "BUMPER DCHO.",
+    "X": "BUMPER DX"
+   },
+   "addr": "0x0d1578"
+  },
+  {
+   "lamp": 62,
+   "name_en": "BOTTOM BUMPER",
+   "langs": {
+    "DE": "",
+    "FR": "BOTTOM BUMPER",
+    "ES": "UNTEN BUMPER",
+    "EN": "BUMPER BAS",
+    "IT": "BUMPER INF",
+    "X": "BUMPER BASSO"
+   },
+   "addr": "0x0d1590"
+  },
+  {
+   "lamp": 63,
+   "name_en": "R. 3-BANK #2 (MID)",
+   "langs": {
+    "DE": "",
+    "FR": "R. 3-BANK #2 (MID)",
+    "ES": "R. 3ERZIEL NR. 2 (M)",
+    "EN": "3 BANQUES D. #2 (MIL)",
+    "IT": "BANC.3 #2 DCH (MED)",
+    "X": "3 BERSAGLI DX #2 (CEN)"
+   },
+   "addr": "0x0d15a8"
+  },
+  {
+   "lamp": 64,
+   "name_en": "R. 3-BANK #3 (BOT)",
+   "langs": {
+    "DE": "",
+    "FR": "R. 3-BANK #3 (BOT)",
+    "ES": "R. 3ERZIEL NR. 3 (U)",
+    "EN": "3 BANQUES D. #3 (BAS)",
+    "IT": "BANC.3 #3 DCH (INF)",
+    "X": "3 BERSAGLI DX #3 (BAS)"
+   },
+   "addr": "0x0d15c0"
+  },
+  {
+   "lamp": 65,
+   "name_en": "SPECIAL",
+   "langs": {
+    "DE": "",
+    "FR": "SPECIAL",
+    "ES": "SPECIAL",
+    "EN": "SPECIAL",
+    "IT": "SPECIAL",
+    "X": "SPECIAL"
+   },
+   "addr": "0x0d15d8"
+  },
+  {
+   "lamp": 66,
+   "name_en": "VENOM STRIKES TWICE",
+   "langs": {
+    "DE": "",
+    "FR": "VENOM STRIKES TWICE",
+    "ES": "VENOM STRIKES TWICE",
+    "EN": "VENOM STRIKES TWICE",
+    "IT": "VENOM STRIKES TWICE",
+    "X": "VENOM STRIKES TWICE"
+   },
+   "addr": "0x0d15f0"
+  },
+  {
+   "lamp": 67,
+   "name_en": "SYMBIOTE STALKER",
+   "langs": {
+    "DE": "",
+    "FR": "SYMBIOTE STALKER",
+    "ES": "SYMBIOTE STALKER",
+    "EN": "SYMBIOTE STALKER",
+    "IT": "SYMBIOTE STALKER",
+    "X": "SYMBIOTE STALKER"
+   },
+   "addr": "0x0d1608"
+  },
+  {
+   "lamp": 68,
+   "name_en": "GOO ON YOU",
+   "langs": {
+    "DE": "",
+    "FR": "GOO ON YOU",
+    "ES": "GOO ON YOU",
+    "EN": "GOO ON YOU",
+    "IT": "GOO ON YOU",
+    "X": "GOO ON YOU"
+   },
+   "addr": "0x0d1620"
+  },
+  {
+   "lamp": 69,
+   "name_en": "CONCRETE ENDING",
+   "langs": {
+    "DE": "",
+    "FR": "CONCRETE ENDING",
+    "ES": "CONCRETE ENDING",
+    "EN": "CONCRETE ENDING",
+    "IT": "CONCRETE ENDING",
+    "X": "CONCRETE ENDING"
+   },
+   "addr": "0x0d1638"
+  },
+  {
+   "lamp": 70,
+   "name_en": "TIME IS MONEY",
+   "langs": {
+    "DE": "",
+    "FR": "TIME IS MONEY",
+    "ES": "TIME IS MONEY",
+    "EN": "TIME IS MONEY",
+    "IT": "TIME IS MONEY",
+    "X": "TIME IS MONEY"
+   },
+   "addr": "0x0d1650"
+  },
+  {
+   "lamp": 71,
+   "name_en": "OUT OF THE SLAMMER",
+   "langs": {
+    "DE": "",
+    "FR": "OUT OF THE SLAMMER",
+    "ES": "OUT OF THE SLAMMER",
+    "EN": "OUT OF THE SLAMMER",
+    "IT": "OUT OF THE SLAMMER",
+    "X": "OUT OF THE SLAMMER"
+   },
+   "addr": "0x0d1668"
+  },
+  {
+   "lamp": 72,
+   "name_en": "SPIDER SENSE",
+   "langs": {
+    "DE": "",
+    "FR": "SPIDER SENSE",
+    "ES": "SPIDER SENSE",
+    "EN": "SPIDER SENSE",
+    "IT": "SPIDER SENSE",
+    "X": "SPIDER SENSE"
+   },
+   "addr": "0x0d1680"
+  },
+  {
+   "lamp": 73,
+   "name_en": "LAMP #73",
+   "langs": {
+    "DE": "",
+    "FR": "LAMP #73",
+    "ES": "LAMP #73",
+    "EN": "LAMP #73",
+    "IT": "LAMP #73",
+    "X": "LAMP #73"
+   },
+   "addr": "0x0d1698"
+  },
+  {
+   "lamp": 74,
+   "name_en": "SANDMAN ILLUMINATION",
+   "langs": {
+    "DE": "",
+    "FR": "SANDMAN ILLUMINATION",
+    "ES": "SANDMAN-LEUCHTE",
+    "EN": "ILLUMINATION SANDMAN",
+    "IT": "LUZ DE SANDMAN",
+    "X": "ILLUMINAZIONE SANDMAN"
+   },
+   "addr": "0x0d16b0"
+  },
+  {
+   "lamp": 75,
+   "name_en": "VENOM ILLUMINATION",
+   "langs": {
+    "DE": "",
+    "FR": "VENOM ILLUMINATION",
+    "ES": "VENOM-LEUCHTE",
+    "EN": "ILLUMINATION VENOM",
+    "IT": "LUZ DE VENOM",
+    "X": "ILLUMINAZIONE VENOM"
+   },
+   "addr": "0x0d16c8"
+  },
+  {
+   "lamp": 76,
+   "name_en": "GOBLIN ILLUMINATION",
+   "langs": {
+    "DE": "",
+    "FR": "GOBLIN ILLUMINATION",
+    "ES": "GOBLIN-LEUCHTE",
+    "EN": "ILLUMINATION GOBLIN",
+    "IT": "LUZ DE GOBLIN",
+    "X": "ILLUMINAZIONE GOBLIN"
+   },
+   "addr": "0x0d16e0"
+  },
+  {
+   "lamp": 77,
+   "name_en": "DOC OCK ILLUMINATION",
+   "langs": {
+    "DE": "",
+    "FR": "DOC OCK ILLUMINATION",
+    "ES": "DOC OCK-LEUCHTE",
+    "EN": "ILLUMINATION DOC OCK",
+    "IT": "LUZ DE DOC OCK",
+    "X": "ILLUMINAZIONE DOC OCK"
+   },
+   "addr": "0x0d16f8"
+  },
+  {
+   "lamp": 78,
+   "name_en": "R. LOOP ARROW (RED, TOP)",
+   "langs": {
+    "DE": "",
+    "FR": "R. LOOP ARROW (RED, TOP)",
+    "ES": "R. LOOP-PFEIL (RO. O)",
+    "EN": "FLECHE BOUCLE D. (ROUGE)",
+    "IT": "FLEC.BUCLE DCH (ROJ, SUP)",
+    "X": "FREC. ANELLO DX (ROS, ALT)"
+   },
+   "addr": "0x0d1710"
+  },
+  {
+   "lamp": 79,
+   "name_en": "LAMP #79",
+   "langs": {
+    "DE": "",
+    "FR": "LAMP #79",
+    "ES": "LAMP #79",
+    "EN": "LAMP #79",
+    "IT": "LAMP #79",
+    "X": "LAMP #79"
+   },
+   "addr": "0x0d1728"
+  },
+  {
+   "lamp": 80,
+   "name_en": "LAMP #80",
+   "langs": {
+    "DE": "",
+    "FR": "LAMP #80",
+    "ES": "LAMP #80",
+    "EN": "LAMP #80",
+    "IT": "LAMP #80",
+    "X": "LAMP #80"
+   },
+   "addr": "0x0d1740"
+  }
+ ],
+ "adjustments": [
+  {
+   "adj": 0,
+   "name_en": "INVALID",
+   "langs": [
+    "INVALID",
+    "INVALID",
+    "INVALID",
+    "INVALID",
+    "INVALID",
+    ""
+   ],
+   "addr": "0x0cb1e4"
+  },
+  {
+   "adj": 1,
+   "name_en": "ALIMENTAZ. IMPULSI BOBINA",
+   "langs": [
+    "COIL PULSE POWER",
+    "SPULENSTARKE",
+    "PUISSANCE IMPULSION SELF",
+    "FUERZA PULSACION BOBINA",
+    "ALIMENTAZ. IMPULSI BOBINA",
+    ""
+   ],
+   "addr": "0x0cb1fc"
+  },
+  {
+   "adj": 2,
+   "name_en": "MESSAGE PERSONNALISE",
+   "langs": [
+    "CUSTOM MESSAGE",
+    "TEXT EINGABE",
+    "MESSAGE PERSONNALISE",
+    "MENSAJE AL CLIENTE",
+    "MESSAGGIO PERSONALE.",
+    ""
+   ],
+   "addr": "0x0cb214"
+  },
+  {
+   "adj": 3,
+   "name_en": "TIME FORMAT",
+   "langs": [
+    "TIME FORMAT",
+    "TIME FORMAT",
+    "TIME FORMAT",
+    "TIME FORMAT",
+    "FORMATO ORA",
+    ""
+   ],
+   "addr": "0x0cb22c"
+  },
+  {
+   "adj": 4,
+   "name_en": "REINITIALISATION RAPIDE",
+   "langs": [
+    "FAST BOOT",
+    "SCHNELLER WARMSTART",
+    "REINITIALISATION RAPIDE",
+    "INICIO RAP",
+    "AVVIO RAPIDO",
+    ""
+   ],
+   "addr": "0x0cb244"
+  },
+  {
+   "adj": 5,
+   "name_en": "ALIMENTAZIONE LAMPADINE",
+   "langs": [
+    "FLASH LAMP POWER",
+    "BLITZLAMPENSTARKE",
+    "PUISSANCE LAMPE FLASH",
+    "FUERZA LAMPARAS FLASH",
+    "ALIMENTAZIONE LAMPADINE",
+    ""
+   ],
+   "addr": "0x0cb25c"
+  },
+  {
+   "adj": 6,
+   "name_en": "IDENTIFICATIVO GIOCO",
+   "langs": [
+    "GAME ID",
+    "SPIELKENNUMMER",
+    "NOMBRE ID DU JEU",
+    "NUMERO ID JUEGO",
+    "IDENTIFICATIVO GIOCO",
+    ""
+   ],
+   "addr": "0x0cb274"
+  },
+  {
+   "adj": 7,
+   "name_en": "LANGUAGE",
+   "langs": [
+    "LANGUAGE",
+    "SPRACHE",
+    "LANGUE",
+    "IDIOMA",
+    "LINGUA",
+    ""
+   ],
+   "addr": "0x0cb28c"
+  },
+  {
+   "adj": 8,
+   "name_en": "NOMBRE ID LOCALISATION",
+   "langs": [
+    "LOCATION ID",
+    "STANDORTKENNUMMER",
+    "NOMBRE ID LOCALISATION",
+    "NUMERO ID LOCALIZACION",
+    "IDENTIFICATIVO LOCALE",
+    ""
+   ],
+   "addr": "0x0cb2a4"
+  },
+  {
+   "adj": 9,
+   "name_en": "HINTERGRUNDMUSIK LAUTST.",
+   "langs": [
+    "MUSIC VOLUME",
+    "HINTERGRUNDMUSIK LAUTST.",
+    "VOLUME FOND MUSICAL",
+    "VOLUMEN MUSICA AMBIENTE",
+    "VOLUME MUSICA DI SFONDO",
+    ""
+   ],
+   "addr": "0x0cb2bc"
+  },
+  {
+   "adj": 10,
+   "name_en": "LINGUA SELEZIONABILE DAL GIOCATORE",
+   "langs": [
+    "PLAYER LANGUAGE SELECT",
+    "PLAYER LANGUAGE SELECT",
+    "PLAYER LANGUAGE SELECT",
+    "PLAYER LANGUAGE SELECT",
+    "LINGUA SELEZIONABILE DAL GIOCATORE",
+    ""
+   ],
+   "addr": "0x0cb2d4"
+  },
+  {
+   "adj": 11,
+   "name_en": "TICKET DISPENSE RETRIES",
+   "langs": [
+    "TICKET DISPENSE RETRIES",
+    "TICKET DISPENSE RETRIES",
+    "TICKET DISPENSE RETRIES",
+    "TICKET DISPENSE RETRIES",
+    "TICKET DISPENSE RETRIES",
+    ""
+   ],
+   "addr": "0x0cb2ec"
+  },
+  {
+   "adj": 12,
+   "name_en": "TICKET DISPENSER REST TIME MS",
+   "langs": [
+    "TICKET DISPENSER REST TIME MS",
+    "TICKET DISPENSER REST TIME MS",
+    "TICKET DISPENSER REST TIME MS",
+    "TICKET DISPENSER REST TIME MS",
+    "TICKET DISPENSER REST TIME MS",
+    ""
+   ],
+   "addr": "0x0cb304"
+  },
+  {
+   "adj": 13,
+   "name_en": "ERNEUTESART SPIEL",
+   "langs": [
+    "REPLAY TYPE",
+    "ERNEUTESART SPIEL",
+    "TYPE DE REPLAY",
+    "TIPO REPLAY",
+    "TIPO DI REPLAY",
+    ""
+   ],
+   "addr": "0x0cb31c"
+  },
+  {
+   "adj": 14,
+   "name_en": "POURCENTAGE PARTIES GRAT.",
+   "langs": [
+    "REPLAY PERCENTAGE",
+    "FREISPIELE PROZENTSATZ",
+    "POURCENTAGE PARTIES GRAT.",
+    "PORCENT. GRATUITAS",
+    "PERCENTUALE REPLAY",
+    ""
+   ],
+   "addr": "0x0cb334"
+  },
+  {
+   "adj": 15,
+   "name_en": "PREMIO DE LA PARTIDA",
+   "langs": [
+    "REPLAY AWARD",
+    "SPIEL GIBT",
+    "BONUS DE JEU",
+    "PREMIO DE LA PARTIDA",
+    "PREMIO REPLAY",
+    ""
+   ],
+   "addr": "0x0cb34c"
+  },
+  {
+   "adj": 16,
+   "name_en": "NIVEAUX PARTIES GRATUITES",
+   "langs": [
+    "REPLAY LEVELS",
+    "FREISPIELEWERTE",
+    "NIVEAUX PARTIES GRATUITES",
+    "NIVELES PTD. GRATUITA",
+    "LIVELLI REPLAY",
+    ""
+   ],
+   "addr": "0x0cb364"
+  },
+  {
+   "adj": 17,
+   "name_en": "AUTOM. WIEDERHOLUNGSSPIELSTART",
+   "langs": [
+    "AUTO REPLAY START",
+    "AUTOM. WIEDERHOLUNGSSPIELSTART",
+    "LANCEMENT JEU AUTO.",
+    "INICIO PARTIDA AUTOMATICA",
+    "VAL. INIZIO AUTO REPLAY",
+    ""
+   ],
+   "addr": "0x0cb37c"
+  },
+  {
+   "adj": 18,
+   "name_en": "DYNAM. WIEDERHOLUNGSSPIELSTART",
+   "langs": [
+    "DYNAMIC REPLAY START",
+    "DYNAM. WIEDERHOLUNGSSPIELSTART",
+    "DEMARRAGE JEU DYNAMIQUE",
+    "INICIO PARTIDA DINAMICA",
+    "VAL. INIZIO REPLAY DINAMICO",
+    ""
+   ],
+   "addr": "0x0cb394"
+  },
+  {
+   "adj": 19,
+   "name_en": "WIEDERHOLUNGSSPIEL-NIVEAU NR. 1",
+   "langs": [
+    "REPLAY LEVEL #1",
+    "WIEDERHOLUNGSSPIEL-NIVEAU NR. 1",
+    "REPRISE DE JEU NIVEAU 1",
+    "NIVEL DE PARTIDA #1",
+    "VAL. LIVELLO REPLAY N.1",
+    ""
+   ],
+   "addr": "0x0cb3ac"
+  },
+  {
+   "adj": 20,
+   "name_en": "WIEDERHOLUNGSSPIEL-NIVEAU NR. 2",
+   "langs": [
+    "REPLAY LEVEL #2",
+    "WIEDERHOLUNGSSPIEL-NIVEAU NR. 2",
+    "REPRISE DE JEU NIVEAU 2",
+    "NIVEL DE PARTIDA #2",
+    "VAL. LIVELLO REPLAY N.2",
+    ""
+   ],
+   "addr": "0x0cb3c4"
+  },
+  {
+   "adj": 21,
+   "name_en": "WIEDERHOLUNGSSPIEL-NIVEAU NR. 3",
+   "langs": [
+    "REPLAY LEVEL #3",
+    "WIEDERHOLUNGSSPIEL-NIVEAU NR. 3",
+    "REPRISE DE JEU NIVEAU 3",
+    "NIVEL DE PARTIDA #3",
+    "VAL. LIVELLO REPLAY N.3",
+    ""
+   ],
+   "addr": "0x0cb3dc"
+  },
+  {
+   "adj": 22,
+   "name_en": "WIEDERHOLUNGSSPIEL-NIVEAU NR. 4",
+   "langs": [
+    "REPLAY LEVEL #4",
+    "WIEDERHOLUNGSSPIEL-NIVEAU NR. 4",
+    "REPRISE DE JEU NIVEAU 4",
+    "NIVEL DE PARTIDA #4",
+    "VAL. LIVELLO REPLAY N.4",
+    ""
+   ],
+   "addr": "0x0cb3f4"
+  },
+  {
+   "adj": 23,
+   "name_en": "INCREMENTO DE PART. GRATIS",
+   "langs": [
+    "REPLAY BOOST",
+    "FREISPIELWERTE ERHOHEN",
+    "LIMITE PARTIES GRATUITES",
+    "INCREMENTO DE PART. GRATIS",
+    "VAL. AUMENTO REPLAY",
+    ""
+   ],
+   "addr": "0x0cb40c"
+  },
+  {
+   "adj": 24,
+   "name_en": "LIMITE SPECIAL",
+   "langs": [
+    "SPECIAL LIMIT",
+    "SPECIAL LIMIT",
+    "SPECIAL LIMIT",
+    "SPECIAL LIMIT",
+    "LIMITE SPECIAL",
+    ""
+   ],
+   "addr": "0x0cb424"
+  },
+  {
+   "adj": 25,
+   "name_en": "BONUS DE SPECIAUX",
+   "langs": [
+    "SPECIAL AWARD",
+    "SPEZIAL GIBT",
+    "BONUS DE SPECIAUX",
+    "PREMIO ESPECIAL",
+    "PREMIO SPECIAL",
+    ""
+   ],
+   "addr": "0x0cb43c"
+  },
+  {
+   "adj": 26,
+   "name_en": "POURCENTAGE SPECIAUX",
+   "langs": [
+    "SPECIAL PERCENTAGE",
+    "SPEZIAL PROZENT",
+    "POURCENTAGE SPECIAUX",
+    "PORCENTAJE ESPECIAL",
+    "PERCENTUALE SPECIAL",
+    ""
+   ],
+   "addr": "0x0cb454"
+  },
+  {
+   "adj": 27,
+   "name_en": "LIMITE PARTIDAS GRATIS",
+   "langs": [
+    "FREE GAME LIMIT",
+    "FREISPIEL BEGRENZUNG",
+    "LIMITE JEUX GRATUIT",
+    "LIMITE PARTIDAS GRATIS",
+    "LIMITE PARTITE GRATIS",
+    ""
+   ],
+   "addr": "0x0cb46c"
+  },
+  {
+   "adj": 28,
+   "name_en": "EXTRABALL BEGRENZUNG",
+   "langs": [
+    "EXTRA BALL LIMIT",
+    "EXTRABALL BEGRENZUNG",
+    "LIMITE EXTRA BALL",
+    "LIMITE BOLAS EXTRA",
+    "LIMITE PALLA EXTRA",
+    ""
+   ],
+   "addr": "0x0cb484"
+  },
+  {
+   "adj": 29,
+   "name_en": "PERCENTUALE PALLE EXTRA",
+   "langs": [
+    "EXTRA BALL PERCENTAGE",
+    "EXTRABALLPROZENTSATZ",
+    "POURCENTAGE EXTRABALL",
+    "PORCENT. BOLAS EXTRA",
+    "PERCENTUALE PALLE EXTRA",
+    ""
+   ],
+   "addr": "0x0cb49c"
+  },
+  {
+   "adj": 30,
+   "name_en": "KREDITEINSTELLUNGEN",
+   "langs": [
+    "GAME PRICING",
+    "KREDITEINSTELLUNGEN",
+    "PRIX DE LA PARTIE",
+    "PRECIO PARTIDA",
+    "COSTO PARTITA",
+    ""
+   ],
+   "addr": "0x0cb4b4"
+  },
+  {
+   "adj": 31,
+   "name_en": "PREISE FUR ENDZAHL",
+   "langs": [
+    "MATCH AWARD",
+    "PREISE FUR ENDZAHL",
+    "BONUS DE LOTERIE",
+    "PREMIO DE MATCH",
+    "PREMIO PER MATCH",
+    ""
+   ],
+   "addr": "0x0cb4cc"
+  },
+  {
+   "adj": 32,
+   "name_en": "POURCENTAGE LOTERIE",
+   "langs": [
+    "MATCH PERCENTAGE",
+    "ENDZAHL PROZENT",
+    "POURCENTAGE LOTERIE",
+    "PORCENTAJE MATCH",
+    "PERCENTUALE MATCH",
+    ""
+   ],
+   "addr": "0x0cb4e4"
+  },
+  {
+   "adj": 33,
+   "name_en": "BILLES PAR PARTIE",
+   "langs": [
+    "BALLS PER GAME",
+    "BALLE PRO SPIEL",
+    "BILLES PAR PARTIE",
+    "BOLAS POR JUEGO",
+    "PALLE PER GIOCO",
+    ""
+   ],
+   "addr": "0x0cb4fc"
+  },
+  {
+   "adj": 34,
+   "name_en": "ADVERTENCIA DE FALTA",
+   "langs": [
+    "TILT WARNINGS",
+    "TILT-WARNUNGEN",
+    "AVERTISSEUR DE TILT",
+    "ADVERTENCIA DE FALTA",
+    "AVVERTIMENTI TILT",
+    ""
+   ],
+   "addr": "0x0cb514"
+  },
+  {
+   "adj": 35,
+   "name_en": "LIMITE DE CREDITOS",
+   "langs": [
+    "CREDIT LIMIT",
+    "KREDITLIMIT",
+    "LIMITE DE CREDITS",
+    "LIMITE DE CREDITOS",
+    "LIMITE CREDITI",
+    ""
+   ],
+   "addr": "0x0cb52c"
+  },
+  {
+   "adj": 36,
+   "name_en": "KOSTENLOSES SPIELE",
+   "langs": [
+    "FREE PLAY",
+    "KOSTENLOSES SPIELE",
+    "JEU GRATUIT",
+    "PARTIDA GRATUITA",
+    "GIOCO GRATUITO",
+    ""
+   ],
+   "addr": "0x0cb544"
+  },
+  {
+   "adj": 37,
+   "name_en": "VOLUME CLAQUEUR (KNOCKER)",
+   "langs": [
+    "KNOCKER VOLUME",
+    "KLOPFEN LAUTSTARKE",
+    "VOLUME CLAQUEUR (KNOCKER)",
+    "VOLUMEN DEL KNOCKER",
+    "VOLUME KNOCKER",
+    ""
+   ],
+   "addr": "0x0cb55c"
+  },
+  {
+   "adj": 38,
+   "name_en": "POSS. RIAVVIARE GIOCO",
+   "langs": [
+    "GAME RESTART",
+    "SPIEL ERNEUT STARTEN",
+    "JEU REDEMARRE",
+    "REINICIO JUEGO",
+    "POSS. RIAVVIARE GIOCO",
+    ""
+   ],
+   "addr": "0x0cb574"
+  },
+  {
+   "adj": 39,
+   "name_en": "ACCETTATORE BANCONOTE",
+   "langs": [
+    "BILL VALIDATOR",
+    "AKZEPTOR ANZEIGE",
+    "LECTEUR DE BILLETS",
+    "CONVALIDADOR CUENTAS",
+    "ACCETTATORE BANCONOTE",
+    ""
+   ],
+   "addr": "0x0cb58c"
+  },
+  {
+   "adj": 40,
+   "name_en": "TIEMPO DE BOLA SALVAR",
+   "langs": [
+    "BALL SAVE TIME",
+    "BALL-HALTEZEIT",
+    "BILLE GELEE",
+    "TIEMPO DE BOLA SALVAR",
+    "TEMPO SALVAPALLA",
+    ""
+   ],
+   "addr": "0x0cb5a4"
+  },
+  {
+   "adj": 41,
+   "name_en": "EMBOLO TEMPORIZADOR INTERVALOS",
+   "langs": [
+    "TIMED PLUNGER",
+    "SYNCHRONISIERTER KOLBEN",
+    "PISTON PROGRAMME",
+    "EMBOLO TEMPORIZADOR INTERVALOS",
+    "LANCIAPALLA TEMPORIZZATO",
+    ""
+   ],
+   "addr": "0x0cb5bc"
+  },
+  {
+   "adj": 42,
+   "name_en": "LANZAMIENTO DE BOLA POR FLIPPER",
+   "langs": [
+    "FLIPPER BALL LAUNCH",
+    "ABSCHUSS D. FLIPPER",
+    "LANCEMENT D'BALLE L'FLIPPER",
+    "LANZAMIENTO DE BOLA POR FLIPPER",
+    "LANCIAPALLA CON TASTI FLIPPER",
+    ""
+   ],
+   "addr": "0x0cb5d4"
+  },
+  {
+   "adj": 43,
+   "name_en": "SALVAPALLA CON GETTONIERA APERTA",
+   "langs": [
+    "COINDOOR BALL SAVER",
+    "SPIELFORT. N. MUENZT.",
+    "RECUPERATEUR DE BALLE",
+    "PROTECTOR DE PUERTA DE MONEDA",
+    "SALVAPALLA CON GETTONIERA APERTA",
+    ""
+   ],
+   "addr": "0x0cb5ec"
+  },
+  {
+   "adj": 44,
+   "name_en": "MODALITA' DI COMPETIZIONE",
+   "langs": [
+    "COMPETITION MODE",
+    "WETTBEWERBSMODUS",
+    "MODE COMPETITION",
+    "MODO DE COMPETICION",
+    "MODALITA' DI COMPETIZIONE",
+    ""
+   ],
+   "addr": "0x0cb604"
+  },
+  {
+   "adj": 45,
+   "name_en": "PALLA DI CONSOLAZIONE",
+   "langs": [
+    "CONSOLATION BALL",
+    "TROSTBALL",
+    "BALLE DE CONSOLATION",
+    "BOLA DE CONSOLACION",
+    "PALLA DI CONSOLAZIONE",
+    ""
+   ],
+   "addr": "0x0cb61c"
+  },
+  {
+   "adj": 46,
+   "name_en": "OPZIONE DI Q24",
+   "langs": [
+    "Q24 OPTION",
+    "WAHL VON Q24",
+    "OPTION DE Q24",
+    "OPCION DE Q24",
+    "OPZIONE DI Q24",
+    ""
+   ],
+   "addr": "0x0cb634"
+  },
+  {
+   "adj": 47,
+   "name_en": "DISTRIBUTORE DI BIGLIETTI",
+   "langs": [
+    "TICKET DISPENSER",
+    "TICKETAUSGABE",
+    "DISTR. DE BILLETS",
+    "DISP BOLETOS",
+    "DISTRIBUTORE DI BIGLIETTI",
+    ""
+   ],
+   "addr": "0x0cb64c"
+  },
+  {
+   "adj": 48,
+   "name_en": "WETTBEWERBSMOD.fSPIELERfZULASSEN",
+   "langs": [
+    "PLAYER COMPETITION",
+    "WETTBEWERBSMOD.fSPIELERfZULASSEN",
+    "AUTORISER MODE DE COMPET. JOUEUR",
+    "MODO DE COMPETENCIA",
+    "COMPETIZIONE ATTIVABILE GIOCAT.",
+    ""
+   ],
+   "addr": "0x0cb664"
+  },
+  {
+   "adj": 49,
+   "name_en": "RISULTATI DELLA SQUADRA",
+   "langs": [
+    "TEAM SCORES",
+    "MANNSCHAFTSPUNKTE",
+    "SCORES DES EQUIPES",
+    "PUNTUACION DE EQUIPO",
+    "RISULTATI DELLA SQUADRA",
+    ""
+   ],
+   "addr": "0x0cb67c"
+  },
+  {
+   "adj": 50,
+   "name_en": "PERMITIR PUNTUACION ALTAS",
+   "langs": [
+    "ALLOW HIGH SCORES",
+    "ERLAUBTE HOCHSTWERTE",
+    "ADMETTRE HAUTS SCORES",
+    "PERMITIR PUNTUACION ALTAS",
+    "ATTIVA PUNTEGGI RECORD",
+    ""
+   ],
+   "addr": "0x0cb694"
+  },
+  {
+   "adj": 51,
+   "name_en": "PREISE FUR GRAND CHAMPION",
+   "langs": [
+    "GRAND CHAMPION SCORE",
+    "PREISE FUR GRAND CHAMPION",
+    "BONUS DE GRAND CHAMPION",
+    "PREMIOS A GRAN CAMPEON",
+    "PREMIO PER GRAN CAMPIONE",
+    ""
+   ],
+   "addr": "0x0cb6ac"
+  },
+  {
+   "adj": 52,
+   "name_en": "PUNTEGGIO RECORD #1",
+   "langs": [
+    "HIGH SCORE #1",
+    "HOCHSTE PUNKT. #1",
+    "HAUT SCORE #1",
+    "ANULAR PUNT. #1",
+    "PUNTEGGIO RECORD #1",
+    ""
+   ],
+   "addr": "0x0cb6c4"
+  },
+  {
+   "adj": 53,
+   "name_en": "PUNTEGGIO RECORD #2",
+   "langs": [
+    "HIGH SCORE #2",
+    "HOCHSTE PUNKT. #2",
+    "HAUT SCORE #2",
+    "ANULAR PUNT. #2",
+    "PUNTEGGIO RECORD #2",
+    ""
+   ],
+   "addr": "0x0cb6dc"
+  },
+  {
+   "adj": 54,
+   "name_en": "PUNTEGGIO RECORD #3",
+   "langs": [
+    "HIGH SCORE #3",
+    "HOCHSTE PUNKT. #3",
+    "HAUT SCORE #3",
+    "ANULAR PUNT. #3",
+    "PUNTEGGIO RECORD #3",
+    ""
+   ],
+   "addr": "0x0cb6f4"
+  },
+  {
+   "adj": 55,
+   "name_en": "PUNTEGGIO RECORD #4",
+   "langs": [
+    "HIGH SCORE #4",
+    "HOCHSTE PUNKT. #4",
+    "HAUT SCORE #4",
+    "ANULAR PUNT. #4",
+    "PUNTEGGIO RECORD #4",
+    ""
+   ],
+   "addr": "0x0cb70c"
+  },
+  {
+   "adj": 56,
+   "name_en": "PREISE FUR HOCHSTE PUNKTZAHL",
+   "langs": [
+    "HIGH SCORE AWARD",
+    "PREISE FUR HOCHSTE PUNKTZAHL",
+    "BONUS POUR HAUT SCORE",
+    "PREMIOS DE PUNT. ALTA",
+    "PREMIO PER PUNTEGGIO RECORD",
+    ""
+   ],
+   "addr": "0x0cb724"
+  },
+  {
+   "adj": 57,
+   "name_en": "PREISE FUR GRAND CHAMPION",
+   "langs": [
+    "GRAND CHAMPION AWARDS",
+    "PREISE FUR GRAND CHAMPION",
+    "BONUS DE GRAND CHAMPION",
+    "PREMIOS A GRAN CAMPEON",
+    "PREMIO PER GRAN CAMPIONE",
+    ""
+   ],
+   "addr": "0x0cb73c"
+  },
+  {
+   "adj": 58,
+   "name_en": "PREISE FUR HOCHSTE PUNKTZAHL #1",
+   "langs": [
+    "HIGH SCORE #1 AWARDS",
+    "PREISE FUR HOCHSTE PUNKTZAHL #1",
+    "BONUS POUR HAUT SCORE #1",
+    "PREMIOS #1 DE PUNT. ALTA",
+    "PREMIO PER PUNTEGGIO RECORD #1",
+    ""
+   ],
+   "addr": "0x0cb754"
+  },
+  {
+   "adj": 59,
+   "name_en": "PREISE FUR HOCHSTE PUNKTZAHL #2",
+   "langs": [
+    "HIGH SCORE #2 AWARDS",
+    "PREISE FUR HOCHSTE PUNKTZAHL #2",
+    "BONUS POUR HAUT SCORE #2",
+    "PREMIOS #2 DE PUNT. ALTA",
+    "PREMI PER PUNTEGGIO RECORD #2",
+    ""
+   ],
+   "addr": "0x0cb76c"
+  },
+  {
+   "adj": 60,
+   "name_en": "PREISE FUR HOCHSTE PUNKTZAHL #3",
+   "langs": [
+    "HIGH SCORE #3 AWARDS",
+    "PREISE FUR HOCHSTE PUNKTZAHL #3",
+    "BONUS POUR HAUT SCORE #3",
+    "PREMIOS #3 DE PUNT. ALTA",
+    "PREMI PER PUNTEGGIO RECORD #3",
+    ""
+   ],
+   "addr": "0x0cb784"
+  },
+  {
+   "adj": 61,
+   "name_en": "PREISE FUR HOCHSTE PUNKTZAHL #4",
+   "langs": [
+    "HIGH SCORE #4 AWARDS",
+    "PREISE FUR HOCHSTE PUNKTZAHL #4",
+    "BONUS POUR HAUT SCORE #4",
+    "PREMIOS #4 DE PUNT. ALTA",
+    "PREMI PER PUNTEGGIO RECORD #4",
+    ""
+   ],
+   "addr": "0x0cb79c"
+  },
+  {
+   "adj": 62,
+   "name_en": "INIZIALI PUNTEGGIO RECORD",
+   "langs": [
+    "HSTD INITIALS",
+    "HIGH SCORE INITIALIEN",
+    "INITIALES HAUTS SCORE",
+    "PUNT. ALTA INICIALES",
+    "INIZIALI PUNTEGGIO RECORD",
+    ""
+   ],
+   "addr": "0x0cb7b4"
+  },
+  {
+   "adj": 63,
+   "name_en": "NUM. PARTITE AL RESET DEI RECORD",
+   "langs": [
+    "HSTD RESET COUNT",
+    "HOCHSTE PUNKTZAHL ZURUCKSETZEN",
+    "EFFACER COMPTEUR HSTD",
+    "NUM. DE REIN. DE PUNT. MAX.",
+    "NUM. PARTITE AL RESET DEI RECORD",
+    ""
+   ],
+   "addr": "0x0cb7cc"
+  },
+  {
+   "adj": 64,
+   "name_en": "RITARDO DI INPUT DELLA MONETA",
+   "langs": [
+    "COIN INPUT DELAY",
+    "MUENZEINGABEVERZOEGERUNG",
+    "RETARD D'INSERTION DE PIECE",
+    "RETARDO DE ENTRADA DE MONEDA",
+    "RITARDO DI INPUT DELLA MONETA",
+    ""
+   ],
+   "addr": "0x0cb7e4"
+  },
+  {
+   "adj": 65,
+   "name_en": "RECUPERATION D'UNE BILLE PERDUE",
+   "langs": [
+    "LOST BALL RECOVERY",
+    "KORREKTUR VERLORENER KUGELN",
+    "RECUPERATION D'UNE BILLE PERDUE",
+    "RECUPERAR BOLAS PERDIDAS",
+    "IGNORA PALLA PERSA",
+    ""
+   ],
+   "addr": "0x0cb7fc"
+  },
+  {
+   "adj": 66,
+   "name_en": "COIN DOOR DISABLE TILT",
+   "langs": [
+    "COIN DOOR DISABLE TILT",
+    "COIN DOOR DISABLE TILT",
+    "COIN DOOR DISABLE TILT",
+    "COIN DOOR DISABLE TILT",
+    "COIN DOOR DISABLE TILT",
+    ""
+   ],
+   "addr": "0x0cb814"
+  },
+  {
+   "adj": 67,
+   "name_en": "LIV. DIFFICOLTA POP BUMPER",
+   "langs": [
+    "POP BUMPER DIFFICULTY",
+    "POP BUMPER-SCHWIERIGKEIT",
+    "DIFFICULTE POP BUMPER",
+    "DIFICULTAD POP BUMPER",
+    "LIV. DIFFICOLTA POP BUMPER",
+    ""
+   ],
+   "addr": "0x0cb82c"
+  },
+  {
+   "adj": 68,
+   "name_en": "LIV. DIFFIC. TIRO FRECCIA BIANCA",
+   "langs": [
+    "WHITE ARROW SHOT DIFFICULTY",
+    "SCHWIERIGKEIT B. WEISS. PFEIL",
+    "DIFFICULTE FLECHE BLANCHE",
+    "DIFICULTAD TIRO FLECHA BLANCA",
+    "LIV. DIFFIC. TIRO FRECCIA BIANCA",
+    ""
+   ],
+   "addr": "0x0cb844"
+  },
+  {
+   "adj": 69,
+   "name_en": "EXTRA BALL MEMORY",
+   "langs": [
+    "EXTRA BALL MEMORY",
+    "EXTRA BALL MEMORY",
+    "EXTRA BALL MEMORY",
+    "EXTRA BALL MEMORY",
+    "EXTRA BALL MEMORY",
+    ""
+   ],
+   "addr": "0x0cb85c"
+  },
+  {
+   "adj": 70,
+   "name_en": "LIV. DIFFICOLTA GREEN GOBLIN",
+   "langs": [
+    "GREEN GOBLIN DIFFICULTY",
+    "GREEN GOBLIN-SCHWIERIGKEIT",
+    "DIFFICULTE GREEN GOBLIN",
+    "DIFICULTAD GREEN GOBLIN",
+    "LIV. DIFFICOLTA GREEN GOBLIN",
+    ""
+   ],
+   "addr": "0x0cb874"
+  },
+  {
+   "adj": 71,
+   "name_en": "LIV. DIFFICOLTA DOC OCK",
+   "langs": [
+    "DOC OCK DIFFICULTY",
+    "DOC OCK-SCHWIERIGKEIT",
+    "DIFFICULTE DOC OCK",
+    "DIFICULTAD DOC OCK",
+    "LIV. DIFFICOLTA DOC OCK",
+    ""
+   ],
+   "addr": "0x0cb88c"
+  },
+  {
+   "adj": 72,
+   "name_en": "LIV. DIFFICOLTA SANDMAN",
+   "langs": [
+    "SANDMAN DIFFICULTY",
+    "SANDMAN SCHWIERIGKEIT",
+    "DIFFICULTE SANDMAN",
+    "DIFICULTAD SANDMAN",
+    "LIV. DIFFICOLTA SANDMAN",
+    ""
+   ],
+   "addr": "0x0cb8a4"
+  },
+  {
+   "adj": 73,
+   "name_en": "LIV. DIFFICOLTA VENOM",
+   "langs": [
+    "VENOM DIFFICULTY",
+    "VENOM SCHWIERIGKEIT",
+    "DIFFICULTE VENOM",
+    "DIFICULTAD VENOM",
+    "LIV. DIFFICOLTA VENOM",
+    ""
+   ],
+   "addr": "0x0cb8bc"
+  },
+  {
+   "adj": 74,
+   "name_en": "BATTLE ROYALE DIFFICULTY",
+   "langs": [
+    "BATTLE ROYALE DIFFICULTY",
+    "BATTLE ROYALE DIFFICULTY",
+    "BATTLE ROYALE DIFFICULTY",
+    "BATTLE ROYALE DIFFICULTY",
+    "BATTLE ROYALE DIFFICULTY",
+    ""
+   ],
+   "addr": "0x0cb8d4"
+  },
+  {
+   "adj": 75,
+   "name_en": "RESET VILLAINS AFTER",
+   "langs": [
+    "RESET VILLAINS AFTER",
+    "RESET VILLAINS AFTER",
+    "RESET VILLAINS AFTER",
+    "RESET VILLAINS AFTER",
+    "RESET VILLAINS AFTER",
+    ""
+   ],
+   "addr": "0x0cb8ec"
+  },
+  {
+   "adj": 76,
+   "name_en": "MODE: ELECTRO TIMER",
+   "langs": [
+    "MODE: ELECTRO TIMER",
+    "MODE: ELECTRO TIMER",
+    "MODE: ELECTRO TIMER",
+    "MODE: ELECTRO TIMER",
+    "MODE: ELECTRO TIMER",
+    ""
+   ],
+   "addr": "0x0cb904"
+  },
+  {
+   "adj": 77,
+   "name_en": "MODO: TIEMPO DE BUGLE",
+   "langs": [
+    "MODE: BUGLE TIMER",
+    "MODUS: BUGLE-ZEITM.",
+    "MODE: CHRONO BUGLE",
+    "MODO: TIEMPO DE BUGLE",
+    "MODO: TIMER BUGLE",
+    ""
+   ],
+   "addr": "0x0cb91c"
+  },
+  {
+   "adj": 78,
+   "name_en": "MODO: TIEMPO DE HARRY",
+   "langs": [
+    "MODE: JACK O TIMER",
+    "MODUS: HARRY-ZEITM.",
+    "MODE: CHRONO HARRY",
+    "MODO: TIEMPO DE HARRY",
+    "MODO: TIMER HARRY",
+    ""
+   ],
+   "addr": "0x0cb934"
+  },
+  {
+   "adj": 79,
+   "name_en": "MODE: TELL MJ TIMER",
+   "langs": [
+    "MODE: TELL MJ TIMER",
+    "MODUS: MJ-ZEITM.",
+    "MODE: CHRONO MJ",
+    "MODO: TIEMPO DE MJ",
+    "MODO: TIMER MJ",
+    ""
+   ],
+   "addr": "0x0cb94c"
+  },
+  {
+   "adj": 80,
+   "name_en": "MODO: TIEMPO DE SPIDERMAN",
+   "langs": [
+    "MODE: SPIDERMAN TIMER",
+    "MODUS: SPIDERMAN-ZEITM.",
+    "MODE: CHRONO SPIDERMAN",
+    "MODO: TIEMPO DE SPIDERMAN",
+    "MODO: TIMER SPIDERMAN",
+    ""
+   ],
+   "addr": "0x0cb964"
+  },
+  {
+   "adj": 81,
+   "name_en": "BLACK SUIT MULTIBALL DIFFICULTY",
+   "langs": [
+    "BLACK SUIT MULTIBALL DIFFICULTY",
+    "BLACK SUIT MBALL SCHWIERIGKEIT",
+    "DIFFICULTE BLACK SUIT MULTIBALL",
+    "DIFICULTAD BLACK SUIT MULTIBALL",
+    "LIV. DIFF. BLACK SUIT MULTIBALL",
+    ""
+   ],
+   "addr": "0x0cb97c"
+  },
+  {
+   "adj": 82,
+   "name_en": "LOCKS FROM PLUNGER",
+   "langs": [
+    "LOCKS FROM PLUNGER",
+    "LOCKS FROM PLUNGER",
+    "LOCKS FROM PLUNGER",
+    "LOCKS FROM PLUNGER",
+    "LOCKS FROM PLUNGER",
+    ""
+   ],
+   "addr": "0x0cb994"
+  },
+  {
+   "adj": 83,
+   "name_en": "INSULT LEVEL",
+   "langs": [
+    "INSULT LEVEL",
+    "INSULT LEVEL",
+    "INSULT LEVEL",
+    "INSULT LEVEL",
+    "INSULT LEVEL",
+    ""
+   ],
+   "addr": "0x0cb9ac"
+  },
+  {
+   "adj": 84,
+   "name_en": "CAMPEON DEL COMBO",
+   "langs": [
+    "COMBO CHAMPION",
+    "KOMBO-MEISTER",
+    "CHAMPION COMBO",
+    "CAMPEON DEL COMBO",
+    "CAMPIONE COMBO",
+    ""
+   ],
+   "addr": "0x0cb9c4"
+  },
+  {
+   "adj": 85,
+   "name_en": "PREMIO CAMPEON DEL COMBO",
+   "langs": [
+    "COMBO CHAMPION AWARD",
+    "KOMBO-MEISTERSCHAFT",
+    "PRIX CHAMPION COMBO",
+    "PREMIO CAMPEON DEL COMBO",
+    "PREMIO CAMPIONE COMBO",
+    ""
+   ],
+   "addr": "0x0cb9dc"
+  },
+  {
+   "adj": 86,
+   "name_en": "PREMIOS CAMPEON DEL COMBO",
+   "langs": [
+    "COMBO CHAMPION AWARDS",
+    "KOMBO-MEISTERSCHAFTEN",
+    "PRIX CHAMPION COMBO",
+    "PREMIOS CAMPEON DEL COMBO",
+    "PREMI CAMPIONE COMBO",
+    ""
+   ],
+   "addr": "0x0cb9f4"
+  },
+  {
+   "adj": 87,
+   "name_en": "BEST COMBO CHAMPION",
+   "langs": [
+    "BEST COMBO CHAMPION",
+    "BEST COMBO CHAMPION",
+    "BEST COMBO CHAMPION",
+    "BEST COMBO CHAMPION",
+    "BEST COMBO CHAMPION",
+    ""
+   ],
+   "addr": "0x0cba0c"
+  },
+  {
+   "adj": 88,
+   "name_en": "BEST COMBO CHAMPION AWARD",
+   "langs": [
+    "BEST COMBO CHAMPION AWARD",
+    "BEST COMBO CHAMPION AWARD",
+    "BEST COMBO CHAMPION AWARD",
+    "BEST COMBO CHAMPION AWARD",
+    "BEST COMBO CHAMPION AWARD",
+    ""
+   ],
+   "addr": "0x0cba24"
+  },
+  {
+   "adj": 89,
+   "name_en": "BEST COMBO CHAMPION AWARDS",
+   "langs": [
+    "BEST COMBO CHAMPION AWARDS",
+    "BEST COMBO CHAMPION AWARDS",
+    "BEST COMBO CHAMPION AWARDS",
+    "BEST COMBO CHAMPION AWARDS",
+    "BEST COMBO CHAMPION AWARDS",
+    ""
+   ],
+   "addr": "0x0cba3c"
+  },
+  {
+   "adj": 90,
+   "name_en": "SPIDER CHAMPION",
+   "langs": [
+    "SPIDER CHAMPION",
+    "SPIDER CHAMPION",
+    "SPIDER CHAMPION",
+    "SPIDER CHAMPION",
+    "SPIDER CHAMPION",
+    ""
+   ],
+   "addr": "0x0cba54"
+  },
+  {
+   "adj": 91,
+   "name_en": "SPIDER CHAMPION AWARD",
+   "langs": [
+    "SPIDER CHAMPION AWARD",
+    "SPIDER CHAMPION AWARD",
+    "SPIDER CHAMPION AWARD",
+    "SPIDER CHAMPION AWARD",
+    "SPIDER CHAMPION AWARD",
+    ""
+   ],
+   "addr": "0x0cba6c"
+  },
+  {
+   "adj": 92,
+   "name_en": "SPIDER CHAMPION AWARDS",
+   "langs": [
+    "SPIDER CHAMPION AWARDS",
+    "SPIDER CHAMPION AWARDS",
+    "SPIDER CHAMPION AWARDS",
+    "SPIDER CHAMPION AWARDS",
+    "SPIDER CHAMPION AWARDS",
+    ""
+   ],
+   "addr": "0x0cba84"
+  },
+  {
+   "adj": 93,
+   "name_en": "CAMPEON DE SPIDER SENSE",
+   "langs": [
+    "SPIDER SENSE CHAMPION",
+    "SPIDER SENSE-MEISTER",
+    "CHAMPION SPIDER SENSE",
+    "CAMPEON DE SPIDER SENSE",
+    "CAMPIONE SPIDER SENSE",
+    ""
+   ],
+   "addr": "0x0cba9c"
+  },
+  {
+   "adj": 94,
+   "name_en": "PREMIO DE CAMPEON SPIDER SENSE",
+   "langs": [
+    "SPIDER SENSE CHAMPION AWARD",
+    "SPIDER SENSE-MEISTERSCHAFT",
+    "PRIX CHAMPION SPIDER SENSE",
+    "PREMIO DE CAMPEON SPIDER SENSE",
+    "PREMIO CAMPIONE SPIDER SENSE",
+    ""
+   ],
+   "addr": "0x0cbab4"
+  },
+  {
+   "adj": 95,
+   "name_en": "PREMIOS DE CAMPEON SPIDER SENSE",
+   "langs": [
+    "SPIDER SENSE CHAMPION AWARDS",
+    "SPIDER SENSE-MEISTERSCHAFTEN",
+    "PRIX CHAMPION SPIDER SENSE",
+    "PREMIOS DE CAMPEON SPIDER SENSE",
+    "PREMI CAMPIONE SPIDER SENSE",
+    ""
+   ],
+   "addr": "0x0cbacc"
+  },
+  {
+   "adj": 96,
+   "name_en": "CAMPEON DE BATTLE ROYALE",
+   "langs": [
+    "BATTLE ROYALE CHAMPION",
+    "BATTLE ROYALE-MEISTER",
+    "CHAMPION BATTLE ROYALE",
+    "CAMPEON DE BATTLE ROYALE",
+    "CAMPIONE BATTLE ROYALE",
+    ""
+   ],
+   "addr": "0x0cbae4"
+  },
+  {
+   "adj": 97,
+   "name_en": "PREMIO DE CAMPEON BATTLE ROYALE",
+   "langs": [
+    "BATTLE ROYALE CHAMPION AWARD",
+    "BATTLE ROYALE-MEISTERSCHAFT",
+    "PRIX CHAMPION BATTLE ROYALE",
+    "PREMIO DE CAMPEON BATTLE ROYALE",
+    "PREMIO CAMPIONE BATTLE ROYALE",
+    ""
+   ],
+   "addr": "0x0cbafc"
+  },
+  {
+   "adj": 98,
+   "name_en": "PREMIOS DE CAMPEON BATTLE ROYALE",
+   "langs": [
+    "BATTLE ROYALE CHAMPION AWARDS",
+    "BATTLE ROYALE-MEISTERSCHAFTEN",
+    "PRIX CHAMPION BATTLE ROYALE",
+    "PREMIOS DE CAMPEON BATTLE ROYALE",
+    "PREMI CAMPIONE BATTLE ROYALE",
+    ""
+   ],
+   "addr": "0x0cbb14"
+  },
+  {
+   "adj": 99,
+   "name_en": "SUPER HERO CHAMPION",
+   "langs": [
+    "SUPER HERO CHAMPION",
+    "SUPER HERO-MEISTER",
+    "CHAMPION SUPER HERO",
+    "CAMPEON SUPERHEROE",
+    "CAMPIONE SUPER EROE",
+    ""
+   ],
+   "addr": "0x0cbb2c"
+  },
+  {
+   "adj": 100,
+   "name_en": "PREMIO DE CAMPEON SUPERHEROE",
+   "langs": [
+    "SUPER HERO CHAMPION AWARD",
+    "SUPER HERO-MEISTERSCHAFT",
+    "PRIX CHAMPION SUPER HERO",
+    "PREMIO DE CAMPEON SUPERHEROE",
+    "PREMIO CAMPIONE SUPER EROE",
+    ""
+   ],
+   "addr": "0x0cbb44"
+  },
+  {
+   "adj": 101,
+   "name_en": "PREMIOS DE CAMPEON SUPERHEROE",
+   "langs": [
+    "SUPER HERO CHAMPION AWARDS",
+    "SUPER HERO-MEISTERSCHAFTEN",
+    "PRIX CHAMPION SUPER HERO",
+    "PREMIOS DE CAMPEON SUPERHEROE",
+    "PREMI CAMPIONE SUPER EROE",
+    ""
+   ],
+   "addr": "0x0cbb5c"
+  },
+  {
+   "adj": 102,
+   "name_en": "BEST BONUS CHAMPION",
+   "langs": [
+    "BEST BONUS CHAMPION",
+    "BEST BONUS CHAMPION",
+    "BEST BONUS CHAMPION",
+    "BEST BONUS CHAMPION",
+    "BEST BONUS CHAMPION",
+    ""
+   ],
+   "addr": "0x0cbb74"
+  },
+  {
+   "adj": 103,
+   "name_en": "BEST BONUS CHAMPION AWARD",
+   "langs": [
+    "BEST BONUS CHAMPION AWARD",
+    "BEST BONUS CHAMPION AWARD",
+    "BEST BONUS CHAMPION AWARD",
+    "BEST BONUS CHAMPION AWARD",
+    "BEST BONUS CHAMPION AWARD",
+    ""
+   ],
+   "addr": "0x0cbb8c"
+  },
+  {
+   "adj": 104,
+   "name_en": "BEST BONUS CHAMPION AWARDS",
+   "langs": [
+    "BEST BONUS CHAMPION AWARDS",
+    "BEST BONUS CHAMPION AWARDS",
+    "BEST BONUS CHAMPION AWARDS",
+    "BEST BONUS CHAMPION AWARDS",
+    "BEST BONUS CHAMPION AWARDS",
+    ""
+   ],
+   "addr": "0x0cbba4"
+  },
+  {
+   "adj": 105,
+   "name_en": "DESACTIVER MOTEUR DOC OCK",
+   "langs": [
+    "DISABLE DOC OCK MOTOR",
+    "DOC OCK-MOTOR ABSCHALTEN",
+    "DESACTIVER MOTEUR DOC OCK",
+    "APAGAR MOTOR DOC OCK",
+    "DISABILITA MOTORE DOC OCK",
+    ""
+   ],
+   "addr": "0x0cbbbc"
+  },
+  {
+   "adj": 106,
+   "name_en": "DISABIL. MOT. 3-BERSAGLI SANDMAN",
+   "langs": [
+    "DISABLE SANDMAN 3-BANK MOTOR",
+    "SANDMAN 3ERZIEL-MOT. ABSCHALTEN",
+    "DESACTIVER MOT. 3-BANQ. SANDMAN",
+    "APAGAR MOTOR BANC.3 SANDMAN",
+    "DISABIL. MOT. 3-BERSAGLI SANDMAN",
+    ""
+   ],
+   "addr": "0x0cbbd4"
+  },
+  {
+   "adj": 107,
+   "name_en": "DESACTIVER MOTEUR SANDMAN",
+   "langs": [
+    "DISABLE SANDMAN MOTOR",
+    "SANDMAN MOTOR ABSCHALTEN",
+    "DESACTIVER MOTEUR SANDMAN",
+    "APAGAR MOTOR SANDMAN",
+    "DISABILITA MOTORE SANDMAN",
+    ""
+   ],
+   "addr": "0x0cbbec"
+  },
+  {
+   "adj": 108,
+   "name_en": "DESACTIVAR PORTON CONTROL IZQ",
+   "langs": [
+    "DISABLE LEFT CONTROL GATE",
+    "L. KONTROLLGATTER ABSCH.",
+    "DESACTIVER PORTE GAUCHE",
+    "DESACTIVAR PORTON CONTROL IZQ",
+    "DISABILITA PORTA DI CONTR. SX",
+    ""
+   ],
+   "addr": "0x0cbc04"
+  },
+  {
+   "adj": 109,
+   "name_en": "DESACTIVAR PORTON CONTROL DCH",
+   "langs": [
+    "DISABLE RIGHT CONTROL GATE",
+    "R. KONTROLLGATTER ABSCH.",
+    "DESACTIVER PORTE DROITE",
+    "DESACTIVAR PORTON CONTROL DCH",
+    "DISABILITA PORTA DI CONTR. DX",
+    ""
+   ],
+   "addr": "0x0cbc1c"
+  },
+  {
+   "adj": 110,
+   "name_en": "DESACTIVAR DESVIADOR DE BUCLE",
+   "langs": [
+    "DISABLE LOOP DIVERTER",
+    "LOOP-WEICHE ABSCH.",
+    "DESACTIVER DETOUR BOUCLE",
+    "DESACTIVAR DESVIADOR DE BUCLE",
+    "DISABILITA DEVIATORE ANELLO",
+    ""
+   ],
+   "addr": "0x0cbc34"
+  },
+  {
+   "adj": 111,
+   "name_en": "LOOP AWARDS",
+   "langs": [
+    "LOOP AWARDS",
+    "LOOP AWARDS",
+    "LOOP AWARDS",
+    "LOOP AWARDS",
+    "LOOP AWARDS",
+    ""
+   ],
+   "addr": "0x0cbc4c"
+  },
+  {
+   "adj": 112,
+   "name_en": "SHAKER MOTOR (OPTIONAL)",
+   "langs": [
+    "SHAKER MOTOR (OPTIONAL)",
+    "SCHUTTELMOTOR",
+    "MOTEUR SECOUEUR",
+    "MOTOR AGITADOR",
+    "MOTORE SHAKER",
+    ""
+   ],
+   "addr": "0x0cbc64"
+  },
+  {
+   "adj": 113,
+   "name_en": "ABORT ANIMATIONS",
+   "langs": [
+    "ABORT ANIMATIONS",
+    "ABORT ANIMATIONS",
+    "ABORT ANIMATIONS",
+    "ABORT ANIMATIONS",
+    "ABORT ANIMATIONS",
+    ""
+   ],
+   "addr": "0x0cbc7c"
+  },
+  {
+   "adj": 114,
+   "name_en": "SPIDER SENSE LANE EXIT",
+   "langs": [
+    "SPIDER SENSE LANE EXIT",
+    "SPIDER SENSE LANE EXIT",
+    "SPIDER SENSE LANE EXIT",
+    "SPIDER SENSE LANE EXIT",
+    "SPIDER SENSE LANE EXIT",
+    ""
+   ],
+   "addr": "0x0cbc94"
+  }
+ ],
+ "audits": [
+  {
+   "audit": 0,
+   "name_en": "INVALID",
+   "langs": [
+    "INVALID",
+    "INVALID",
+    "INVALID",
+    "INVALID",
+    "INVALID",
+    ""
+   ],
+   "addr": "0x0cd1f8"
+  },
+  {
+   "audit": 1,
+   "name_en": "INSGESAMT BEZAHLTE KREDITE",
+   "langs": [
+    "TOTAL PAID CREDITS",
+    "INSGESAMT BEZAHLTE KREDITE",
+    "TOTAL PAYE",
+    "TOTAL PAGADO",
+    "TOTALE CREDITI PAGATI",
+    ""
+   ],
+   "addr": "0x0cd210"
+  },
+  {
+   "audit": 2,
+   "name_en": "PERCENTUALE PARTITE GRATIS",
+   "langs": [
+    "FREE GAME PERCENTAGE",
+    "FREISPIELE PROZENTE",
+    "POURCENT. GRATUIT",
+    "PORCENTAJE GRATUITO",
+    "PERCENTUALE PARTITE GRATIS",
+    ""
+   ],
+   "addr": "0x0cd228"
+  },
+  {
+   "audit": 3,
+   "name_en": "BALLZIET-DURCHSCHNITT",
+   "langs": [
+    "AVERAGE BALL TIME",
+    "BALLZIET-DURCHSCHNITT",
+    "TEMPS MOYEN BILLE",
+    "TIEMPO MEDIO POR BOLA",
+    "TEMPO MEDIO PER PALLA",
+    ""
+   ],
+   "addr": "0x0cd240"
+  },
+  {
+   "audit": 4,
+   "name_en": "TEMPO MEDIO PER PARTITIA",
+   "langs": [
+    "AVERAGE GAME TIME",
+    "SPIELZIET-DURCHSCHNITT",
+    "TEMPS MOYEN PARTIE",
+    "TIEMPO MEDIO PARTIDA",
+    "TEMPO MEDIO PER PARTITIA",
+    ""
+   ],
+   "addr": "0x0cd258"
+  },
+  {
+   "audit": 5,
+   "name_en": "MONEDAS DENTRO RANURA IZQ.",
+   "langs": [
+    "COINS THROUGH LEFT SLOT",
+    "MUNZEN LINKS",
+    "NOMBRE PIECES (GAUCHE)",
+    "MONEDAS DENTRO RANURA IZQ.",
+    "MONETE GETTONIERA SINISTRA",
+    ""
+   ],
+   "addr": "0x0cd270"
+  },
+  {
+   "audit": 6,
+   "name_en": "MONEDAS DENTRO RANURA DER.",
+   "langs": [
+    "COINS THROUGH RIGHT SLOT",
+    "MUNZEN RECHTS",
+    "NOMBRE PIECES (DROITE)",
+    "MONEDAS DENTRO RANURA DER.",
+    "MONETE GETTONIERA DESTRA",
+    ""
+   ],
+   "addr": "0x0cd288"
+  },
+  {
+   "audit": 7,
+   "name_en": "MONEDAS DENTRO RANURA CENTRO",
+   "langs": [
+    "COINS THROUGH CENTER SLOT",
+    "MUNZEN MITTE",
+    "NOMBRE PIECES (CENTRE)",
+    "MONEDAS DENTRO RANURA CENTRO",
+    "MONETE GETTONIERA CENTRALE",
+    ""
+   ],
+   "addr": "0x0cd2a0"
+  },
+  {
+   "audit": 8,
+   "name_en": "COINS THROUGH FOURTH SLOT",
+   "langs": [
+    "COINS THROUGH FOURTH SLOT",
+    "MUNZEN 4. SCHLITZ",
+    "NOMBRE PIECES 4EME",
+    "MONEDAS DENTRO RANURA 4.",
+    "MONETE QUARTA GETTONIERA",
+    ""
+   ],
+   "addr": "0x0cd2b8"
+  },
+  {
+   "audit": 9,
+   "name_en": "COINS THROUGH FIFTH SLOT",
+   "langs": [
+    "COINS THROUGH FIFTH SLOT",
+    "MUNZEN 5. SCHLITZ",
+    "NOMBRE PIECES 5EME",
+    "MONEDAS DENTRO RANURA 5.",
+    "MONETE QUINTA GETTONIERA",
+    ""
+   ],
+   "addr": "0x0cd2d0"
+  },
+  {
+   "audit": 10,
+   "name_en": "SUMMER DER MUNZEN",
+   "langs": [
+    "TOTAL COINS",
+    "SUMMER DER MUNZEN",
+    "TOTAL PIECES",
+    "TOTAL MONEDAS",
+    "TOTALE MONETE",
+    ""
+   ],
+   "addr": "0x0cd2e8"
+  },
+  {
+   "audit": 11,
+   "name_en": "TOTAL UTILIDADES",
+   "langs": [
+    "TOTAL EARNINGS",
+    "KASSENINHALT",
+    "TOTAL GAINS",
+    "TOTAL UTILIDADES",
+    "GUADAGNIO TOTALE",
+    ""
+   ],
+   "addr": "0x0cd300"
+  },
+  {
+   "audit": 12,
+   "name_en": "CLICS DU COMPTEUR",
+   "langs": [
+    "METER CLICKS",
+    "ZAHLWERKKLICKS",
+    "CLICS DU COMPTEUR",
+    "CLICKS MEDIDOR",
+    "CONTATORE",
+    ""
+   ],
+   "addr": "0x0cd318"
+  },
+  {
+   "audit": 13,
+   "name_en": "MEDIDOR DE SOFTWARE",
+   "langs": [
+    "SOFTWARE METER",
+    "SOFTWARE-ZAHLER",
+    "METRE DU SOFTWARE",
+    "MEDIDOR DE SOFTWARE",
+    "CONTATORE SOFTWARE",
+    ""
+   ],
+   "addr": "0x0cd330"
+  },
+  {
+   "audit": 14,
+   "name_en": "TOTALE PALLE GIOCATE",
+   "langs": [
+    "TOTAL BALLS PLAYED",
+    "SUMME DER BALLE",
+    "TOTAL BILLES JOUEES",
+    "TOTAL BOLAS JUGADAS",
+    "TOTALE PALLE GIOCATE",
+    ""
+   ],
+   "addr": "0x0cd348"
+  },
+  {
+   "audit": 15,
+   "name_en": "SUMME DER EXTRABALLE",
+   "langs": [
+    "TOTAL EXTRA BALLS",
+    "SUMME DER EXTRABALLE",
+    "TOTAL EXTRABALL",
+    "TOTAL BOLAS EXTRA",
+    "PALLE EXTRA TOTALI",
+    ""
+   ],
+   "addr": "0x0cd360"
+  },
+  {
+   "audit": 16,
+   "name_en": "PERCENTUALE PALLE EXTRA",
+   "langs": [
+    "EXTRA BALL PERCENTAGE",
+    "EXTRABALLE PROZENT",
+    "POURCENT. EXTRABALL",
+    "PORCENTAJO BOLAS EXTRA",
+    "PERCENTUALE PALLE EXTRA",
+    ""
+   ],
+   "addr": "0x0cd378"
+  },
+  {
+   "audit": 17,
+   "name_en": "PARTIES GRATUITES 1",
+   "langs": [
+    "REPLAY 1 AWARDS",
+    "FREISPIEL 1",
+    "PARTIES GRATUITES 1",
+    "1 PARTIDA GRATUITA",
+    "REPLAY 1 RAGGIUNTO",
+    ""
+   ],
+   "addr": "0x0cd390"
+  },
+  {
+   "audit": 18,
+   "name_en": "2 PARTIDAS GRATUITAS",
+   "langs": [
+    "REPLAY 2 AWARDS",
+    "FREISPIEL 2",
+    "PARTIES GRAT. 2",
+    "2 PARTIDAS GRATUITAS",
+    "REPLAY 2 RAGGIUNTO",
+    ""
+   ],
+   "addr": "0x0cd3a8"
+  },
+  {
+   "audit": 19,
+   "name_en": "3 PARTIDAS GRATUITAS",
+   "langs": [
+    "REPLAY 3 AWARDS",
+    "FREISPIEL 3",
+    "PARTIES GRAT. 3",
+    "3 PARTIDAS GRATUITAS",
+    "REPLAY 3 RAGGIUNTO",
+    ""
+   ],
+   "addr": "0x0cd3c0"
+  },
+  {
+   "audit": 20,
+   "name_en": "4 PARTIDAS GRATUITAS",
+   "langs": [
+    "REPLAY 4 AWARDS",
+    "FREISPIEL 4",
+    "PARTIES GRAT. 4",
+    "4 PARTIDAS GRATUITAS",
+    "REPLAY 4 RAGGIUNTO",
+    ""
+   ],
+   "addr": "0x0cd3d8"
+  },
+  {
+   "audit": 21,
+   "name_en": "SUMME DER FREISPIELE",
+   "langs": [
+    "TOTAL REPLAYS",
+    "SUMME DER FREISPIELE",
+    "PARTIES GRAT.",
+    "TOTAL DE GRATUITAS",
+    "REPLAY TOTALI",
+    ""
+   ],
+   "addr": "0x0cd3f0"
+  },
+  {
+   "audit": 22,
+   "name_en": "POURCENTAGE PARTIES GRAT.",
+   "langs": [
+    "REPLAY PERCENTAGE",
+    "FREISPIELE PROZENTSATZ",
+    "POURCENTAGE PARTIES GRAT.",
+    "PORCENT. GRATUITAS",
+    "PERCENTUALE REPLAY",
+    ""
+   ],
+   "addr": "0x0cd408"
+  },
+  {
+   "audit": 23,
+   "name_en": "TOTAL DE ESPECIALES",
+   "langs": [
+    "TOTAL SPECIALS",
+    "SUMME DER SPEZIAL",
+    "TOTAL SPECIAUX",
+    "TOTAL DE ESPECIALES",
+    "SPECIAL TOTALI",
+    ""
+   ],
+   "addr": "0x0cd420"
+  },
+  {
+   "audit": 24,
+   "name_en": "PROZENTSATZ DER SPEZIAL",
+   "langs": [
+    "SPECIAL PERCENTAGE",
+    "PROZENTSATZ DER SPEZIAL",
+    "POURCENT. SPECIAUX",
+    "PORCENT. ESPECIALES",
+    "PERCENTUALE SPECIAL",
+    ""
+   ],
+   "addr": "0x0cd438"
+  },
+  {
+   "audit": 25,
+   "name_en": "ENDZAHL GESAMT",
+   "langs": [
+    "TOTAL MATCHES",
+    "ENDZAHL GESAMT",
+    "TOTAL LOTERIE",
+    "TOTAL DE MATCH",
+    "MATCH TOTALI",
+    ""
+   ],
+   "addr": "0x0cd450"
+  },
+  {
+   "audit": 26,
+   "name_en": "KREDITE DURCH HOCHSTE PUNKT.",
+   "langs": [
+    "HIGH SCORE AWARDS",
+    "KREDITE DURCH HOCHSTE PUNKT.",
+    "GAINS PLUS HAUT SCORE",
+    "PREMIOS PUNT. MAXIMA",
+    "VINCITE PUNTEGGI RECORD",
+    ""
+   ],
+   "addr": "0x0cd468"
+  },
+  {
+   "audit": 27,
+   "name_en": "PROZENTSATZ DER HOCHSTEN PUNKT.",
+   "langs": [
+    "HIGH SCORE PERCENT",
+    "PROZENTSATZ DER HOCHSTEN PUNKT.",
+    "POURCENTAGE PLUS HAUT SCORE",
+    "PORCENT PUNT. MAXIMA",
+    "PERCENTUALE PUNTEGGI RECORD",
+    ""
+   ],
+   "addr": "0x0cd480"
+  },
+  {
+   "audit": 28,
+   "name_en": "TOTAL PARTIES GRATUIT",
+   "langs": [
+    "TOTAL FREE PLAYS",
+    "KOSTENLOSE SPIELE",
+    "TOTAL PARTIES GRATUIT",
+    "TOTAL PARTIDAS GRAT.",
+    "TOTALE PARTITE VINTE",
+    ""
+   ],
+   "addr": "0x0cd498"
+  },
+  {
+   "audit": 29,
+   "name_en": "TOTALE PARTITE GIOCATE",
+   "langs": [
+    "TOTAL PLAYS",
+    "SUMME ALLER SPIELE",
+    "TOTAL PARTIES",
+    "TOTAL DE PARTIDAS",
+    "TOTALE PARTITE GIOCATE",
+    ""
+   ],
+   "addr": "0x0cd4b0"
+  },
+  {
+   "audit": 30,
+   "name_en": "PUNTEGGI DA 0.0M A 1.99M",
+   "langs": [
+    "0.0M-1.99M SCORES",
+    "0.0M-1.99M SCORES",
+    "0.0M-1.99M SCORES",
+    "0.0M-1.99M SCORES",
+    "PUNTEGGI DA 0.0M A 1.99M",
+    ""
+   ],
+   "addr": "0x0cd4c8"
+  },
+  {
+   "audit": 31,
+   "name_en": "PUNTEGGI DA 2.0M A 3.99M",
+   "langs": [
+    "2.0M-3.99M SCORES",
+    "2.0M-3.99M SCORES",
+    "2.0M-3.99M SCORES",
+    "2.0M-3.99M SCORES",
+    "PUNTEGGI DA 2.0M A 3.99M",
+    ""
+   ],
+   "addr": "0x0cd4e0"
+  },
+  {
+   "audit": 32,
+   "name_en": "PUNTEGGI DA 4.0M A 5.99M",
+   "langs": [
+    "4.0M-5.99M SCORES",
+    "4.0M-5.99M SCORES",
+    "4.0M-5.99M SCORES",
+    "4.0M-5.99M SCORES",
+    "PUNTEGGI DA 4.0M A 5.99M",
+    ""
+   ],
+   "addr": "0x0cd4f8"
+  },
+  {
+   "audit": 33,
+   "name_en": "PUNTEGGI DA 6.0M A 7.99M",
+   "langs": [
+    "6.0M-7.99M SCORES",
+    "6.0M-7.99M SCORES",
+    "6.0M-7.99M SCORES",
+    "6.0M-7.99M SCORES",
+    "PUNTEGGI DA 6.0M A 7.99M",
+    ""
+   ],
+   "addr": "0x0cd510"
+  },
+  {
+   "audit": 34,
+   "name_en": "PUNTEGGI DA 8.0M A 9.99M",
+   "langs": [
+    "8.0M-9.99M SCORES",
+    "8.0M-9.99M SCORES",
+    "8.0M-9.99M SCORES",
+    "8.0M-9.99M SCORES",
+    "PUNTEGGI DA 8.0M A 9.99M",
+    ""
+   ],
+   "addr": "0x0cd528"
+  },
+  {
+   "audit": 35,
+   "name_en": "PUNTEGGI DA 10.0M A 12.49M",
+   "langs": [
+    "10.0M-12.49M SCORES",
+    "10.0M-12.49M SCORES",
+    "10.0M-12.49M SCORES",
+    "10.0M-12.49M SCORES",
+    "PUNTEGGI DA 10.0M A 12.49M",
+    ""
+   ],
+   "addr": "0x0cd540"
+  },
+  {
+   "audit": 36,
+   "name_en": "PUNTEGGI DA 12.5M A 14.99M",
+   "langs": [
+    "12.5M-14.99M SCORES",
+    "12.5M-14.99M SCORES",
+    "12.5M-14.99M SCORES",
+    "12.5M-14.99M SCORES",
+    "PUNTEGGI DA 12.5M A 14.99M",
+    ""
+   ],
+   "addr": "0x0cd558"
+  },
+  {
+   "audit": 37,
+   "name_en": "PUNTEGGI DA 15.0M A 17.49M",
+   "langs": [
+    "15.0M-17.49M SCORES",
+    "15.0M-17.49M SCORES",
+    "15.0M-17.49M SCORES",
+    "15.0M-17.49M SCORES",
+    "PUNTEGGI DA 15.0M A 17.49M",
+    ""
+   ],
+   "addr": "0x0cd570"
+  },
+  {
+   "audit": 38,
+   "name_en": "PUNTEGGI DA 17.5M A 19.99M",
+   "langs": [
+    "17.5M-19.99M SCORES",
+    "17.5M-19.99M SCORES",
+    "17.5M-19.99M SCORES",
+    "17.5M-19.99M SCORES",
+    "PUNTEGGI DA 17.5M A 19.99M",
+    ""
+   ],
+   "addr": "0x0cd588"
+  },
+  {
+   "audit": 39,
+   "name_en": "PUNTEGGI DA 20.0M A 24.99M",
+   "langs": [
+    "20.0M-24.99M SCORES",
+    "20.0M-24.99M SCORES",
+    "20.0M-24.99M SCORES",
+    "20.0M-24.99M SCORES",
+    "PUNTEGGI DA 20.0M A 24.99M",
+    ""
+   ],
+   "addr": "0x0cd5a0"
+  },
+  {
+   "audit": 40,
+   "name_en": "PUNTEGGI DA 25.0M A 29.99M",
+   "langs": [
+    "25.0M-29.99M SCORES",
+    "25.0M-29.99M SCORES",
+    "25.0M-29.99M SCORES",
+    "25.0M-29.99M SCORES",
+    "PUNTEGGI DA 25.0M A 29.99M",
+    ""
+   ],
+   "addr": "0x0cd5b8"
+  },
+  {
+   "audit": 41,
+   "name_en": "PUNTEGGI DA 30.0M A 39.99M",
+   "langs": [
+    "30.0M-39.99M SCORES",
+    "30.0M-39.99M SCORES",
+    "30.0M-39.99M SCORES",
+    "30.0M-39.99M SCORES",
+    "PUNTEGGI DA 30.0M A 39.99M",
+    ""
+   ],
+   "addr": "0x0cd5d0"
+  },
+  {
+   "audit": 42,
+   "name_en": "PUNTEGGI DA 40.0M A 49.99M",
+   "langs": [
+    "40.0M-49.99M SCORES",
+    "40.0M-49.99M SCORES",
+    "40.0M-49.99M SCORES",
+    "40.0M-49.99M SCORES",
+    "PUNTEGGI DA 40.0M A 49.99M",
+    ""
+   ],
+   "addr": "0x0cd5e8"
+  },
+  {
+   "audit": 43,
+   "name_en": "PUNTEGGI DA 50.0M A 74.99M",
+   "langs": [
+    "50.0M-74.99M SCORES",
+    "50.0M-74.99M SCORES",
+    "50.0M-74.99M SCORES",
+    "50.0M-74.99M SCORES",
+    "PUNTEGGI DA 50.0M A 74.99M",
+    ""
+   ],
+   "addr": "0x0cd600"
+  },
+  {
+   "audit": 44,
+   "name_en": "PUNTEGGI DA 75.0M A 99.99M",
+   "langs": [
+    "75.0M-99.99M SCORES",
+    "75.0M-99.99M SCORES",
+    "75.0M-99.99M SCORES",
+    "75.0M-99.99M SCORES",
+    "PUNTEGGI DA 75.0M A 99.99M",
+    ""
+   ],
+   "addr": "0x0cd618"
+  },
+  {
+   "audit": 45,
+   "name_en": "PUNTEGGI DA 100.0M A 149.99M",
+   "langs": [
+    "100.0M-149.99M SCORES",
+    "100.0M-149.99M SCORES",
+    "100.0M-149.99M SCORES",
+    "100.0M-149.99M SCORES",
+    "PUNTEGGI DA 100.0M A 149.99M",
+    ""
+   ],
+   "addr": "0x0cd630"
+  },
+  {
+   "audit": 46,
+   "name_en": "PUNTEGGI DA 150.0M IN SU'",
+   "langs": [
+    "150.0+M SCORES",
+    "150.0+M SCORES",
+    "150.0+M SCORES",
+    "150.0+M SCORES",
+    "PUNTEGGI DA 150.0M IN SU'",
+    ""
+   ],
+   "addr": "0x0cd648"
+  },
+  {
+   "audit": 47,
+   "name_en": "DURCHSCHNITTLICHE PUNKTZAHLEN",
+   "langs": [
+    "AVERAGE SCORES",
+    "DURCHSCHNITTLICHE PUNKTZAHLEN",
+    "MOYENNE SCORES",
+    "MEDIA DE PUNTUACIONES",
+    "PUNTEGGIO MEDIO",
+    ""
+   ],
+   "addr": "0x0cd660"
+  },
+  {
+   "audit": 48,
+   "name_en": "SERVICIO DE CREDITO",
+   "langs": [
+    "SERVICE CREDITS",
+    "SERVICEKREDITE",
+    "CREDITS DE SERVICE",
+    "SERVICIO DE CREDITO",
+    "CREDITI DI SERVIZIO",
+    ""
+   ],
+   "addr": "0x0cd678"
+  },
+  {
+   "audit": 49,
+   "name_en": "RECHERCHE BILLE DEBUTEE",
+   "langs": [
+    "BALL SEARCH STARTED",
+    "BALLSUCHE GESTARTET",
+    "RECHERCHE BILLE DEBUTEE",
+    "EMPIEZA BUSCA BOLA",
+    "RICERCA PALLA INIZIATA",
+    ""
+   ],
+   "addr": "0x0cd690"
+  },
+  {
+   "audit": 50,
+   "name_en": "PERDIDO BOLA REEMPLAZO",
+   "langs": [
+    "LOST BALL FEEDS",
+    "BALL DAZU",
+    "BILLE PERDUE REDONNEE",
+    "PERDIDO BOLA REEMPLAZO",
+    "PALLE PERSE IGNORATE",
+    ""
+   ],
+   "addr": "0x0cd6a8"
+  },
+  {
+   "audit": 51,
+   "name_en": "PARTITE CON PALLA PERSA IGNORATA",
+   "langs": [
+    "LOST BALL GAME STARTS",
+    "SPIEL OHNE BALL GESTARTET",
+    "JEU DEBUTE AVEC BILLE PERDUE",
+    "PERDIDO BOLA JUEGO INICIO",
+    "PARTITE CON PALLA PERSA IGNORATA",
+    ""
+   ],
+   "addr": "0x0cd6c0"
+  },
+  {
+   "audit": 52,
+   "name_en": "PALLE PERSE CORSIA SINISTRIA",
+   "langs": [
+    "LEFT DRAINS",
+    "BALLE ABGANG LINKS",
+    "BILLES SORTIE GAUCHE",
+    "BOLAS COLAOAS POR LA IZQ",
+    "PALLE PERSE CORSIA SINISTRIA",
+    ""
+   ],
+   "addr": "0x0cd6d8"
+  },
+  {
+   "audit": 53,
+   "name_en": "PALLE PERSE CORSIE CENTRALI",
+   "langs": [
+    "CENTER DRAINS",
+    "BALLE ABGANG MITTE",
+    "BILLES SORTIE CENTRE",
+    "BOLAS COLAOAS POR EL CEN",
+    "PALLE PERSE CORSIE CENTRALI",
+    ""
+   ],
+   "addr": "0x0cd6f0"
+  },
+  {
+   "audit": 54,
+   "name_en": "PALLE PERSE CORSIE DESTRA",
+   "langs": [
+    "RIGHT DRAINS",
+    "BALL ABGANG RECHTS",
+    "BILLES SORTIE DROIT",
+    "BOLAS COLAOAS POR LA DER",
+    "PALLE PERSE CORSIE DESTRA",
+    ""
+   ],
+   "addr": "0x0cd708"
+  },
+  {
+   "audit": 55,
+   "name_en": "TILTS",
+   "langs": [
+    "TILTS",
+    "TILTS",
+    "TILTS",
+    "TILTS",
+    "TILT",
+    ""
+   ],
+   "addr": "0x0cd720"
+  },
+  {
+   "audit": 56,
+   "name_en": "SUMME DER GERETTETEN BALLE",
+   "langs": [
+    "TOTAL BALLS SAVED",
+    "SUMME DER GERETTETEN BALLE",
+    "TOTAL BILLES GARDEES",
+    "TOTAL BOLAS SALV.",
+    "TOTALE PALLINE SALVATE",
+    ""
+   ],
+   "addr": "0x0cd738"
+  },
+  {
+   "audit": 57,
+   "name_en": "FLIPPER LINKS BENUTZT",
+   "langs": [
+    "LEFT FLIPPER USED",
+    "FLIPPER LINKS BENUTZT",
+    "FLIPPER GAUCHE",
+    "FLIPPER IZQ",
+    "FLIPPER SINISTRO",
+    ""
+   ],
+   "addr": "0x0cd750"
+  },
+  {
+   "audit": 58,
+   "name_en": "FLIPPER RECHTS BENUTZT",
+   "langs": [
+    "RIGHT FLIPPER USED",
+    "FLIPPER RECHTS BENUTZT",
+    "FLIPPER DROIT",
+    "FLIPPER DER",
+    "FLIPPER DESTRO",
+    ""
+   ],
+   "addr": "0x0cd768"
+  },
+  {
+   "audit": 59,
+   "name_en": "0 - 1 MINUTI DI GIOCO",
+   "langs": [
+    "0 - 1 MINUTE GAMES",
+    "0 - 1 SPIEL MINUTE",
+    "0 - 1 JEUX MINUTE",
+    "0 - 1 JUEGO MINUTOS",
+    "0 - 1 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd780"
+  },
+  {
+   "audit": 60,
+   "name_en": "1 - 1,5 MINUTI DI GIOCO",
+   "langs": [
+    "1 - 1.5 MINUTE GAMES",
+    "1 - 1.5 SPIEL MINUTE",
+    "1 - 1,5 JEUX MINUTE",
+    "1 - 1,5 JUEGO MINUTOS",
+    "1 - 1,5 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd798"
+  },
+  {
+   "audit": 61,
+   "name_en": "1,5 - 2 MINUTI DI GIOCO",
+   "langs": [
+    "1.5 - 2 MINUTE GAMES",
+    "1.5 - 2 SPIEL MINUTE",
+    "1,5 - 2 JEUX MINUTE",
+    "1,5 - 2 JUEGO MINUTOS",
+    "1,5 - 2 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd7b0"
+  },
+  {
+   "audit": 62,
+   "name_en": "2 - 2,5 MINUTI DI GIOCO",
+   "langs": [
+    "2 - 2.5 MINUTE GAMES",
+    "2 - 2.5 SPIEL MINUTE",
+    "2 - 2,5 JEUX MINUTE",
+    "2 - 2,5 JUEGO MINUTOS",
+    "2 - 2,5 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd7c8"
+  },
+  {
+   "audit": 63,
+   "name_en": "2,5 - 3 MINUTI DI GIOCO",
+   "langs": [
+    "2.5 - 3 MINUTE GAMES",
+    "2.5 - 3 SPIEL MINUTE",
+    "2,5 - 3 JEUX MINUTE",
+    "2,5 - 3 JUEGO MINUTOS",
+    "2,5 - 3 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd7e0"
+  },
+  {
+   "audit": 64,
+   "name_en": "3 - 3,5 MINUTI DI GIOCO",
+   "langs": [
+    "3 - 3.5 MINUTE GAMES",
+    "3 - 3.5 SPIEL MINUTE",
+    "3 - 3,5 JEUX MINUTE",
+    "3 - 3,5 JUEGO MINUTOS",
+    "3 - 3,5 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd7f8"
+  },
+  {
+   "audit": 65,
+   "name_en": "3,5 - 4 MINUTI DI GIOCO",
+   "langs": [
+    "3.5 - 4 MINUTE GAMES",
+    "3.5 - 4 SPIEL MINUTE",
+    "3,5 - 4 JEUX MINUTE",
+    "3,5 - 4 JUEGO MINUTOS",
+    "3,5 - 4 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd810"
+  },
+  {
+   "audit": 66,
+   "name_en": "4 - 5 MINUTI DI GIOCO",
+   "langs": [
+    "4 - 5 MINUTE GAMES",
+    "4 - 5 SPIEL MINUTE",
+    "4 - 5 JEUX MINUTE",
+    "4 - 5 JUEGO MINUTOS",
+    "4 - 5 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd828"
+  },
+  {
+   "audit": 67,
+   "name_en": "5 - 6 MINUTI DI GIOCO",
+   "langs": [
+    "5 - 6 MINUTE GAMES",
+    "5 - 6 SPIEL MINUTE",
+    "5 - 6 JEUX MINUTE",
+    "5 - 6 JUEGO MINUTOS",
+    "5 - 6 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd840"
+  },
+  {
+   "audit": 68,
+   "name_en": "6 - 8 MINUTI DI GIOCO",
+   "langs": [
+    "6 - 8 MINUTE GAMES",
+    "6 - 8 SPIEL MINUTE",
+    "6 - 8 JEUX MINUTE",
+    "6 - 8 JUEGO MINUTOS",
+    "6 - 8 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd858"
+  },
+  {
+   "audit": 69,
+   "name_en": "8 - 10 MINUTI DI GIOCO",
+   "langs": [
+    "8 - 10 MINUTE GAMES",
+    "8 - 10 SPIEL MINUTE",
+    "8 - 10 JEUX MINUTE",
+    "8 - 10 JUEGO MINUTOS",
+    "8 - 10 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd870"
+  },
+  {
+   "audit": 70,
+   "name_en": "10 - 15 MINUTI DI GIOCO",
+   "langs": [
+    "10 - 15 MINUTE GAMES",
+    "10 - 15 SPIEL MINUTE",
+    "10 - 15 JEUX MINUTE",
+    "10 - 15 JUEGO MINUTOS",
+    "10 - 15 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd888"
+  },
+  {
+   "audit": 71,
+   "name_en": "PIU' DI 15 MINUTI DI GIOCO",
+   "langs": [
+    "15+ MINUTE GAMES",
+    "15+ SPIEL MINUTE",
+    "15+ JEUX MINUTE",
+    "15+ JUEGO MINUTOS",
+    "PIU' DI 15 MINUTI DI GIOCO",
+    ""
+   ],
+   "addr": "0x0cd8a0"
+  },
+  {
+   "audit": 72,
+   "name_en": "PORCENT. PART. GRATIS RECIENTES",
+   "langs": [
+    "RECENT REPLAY PERCENT",
+    "KURZL. FREISPIELPROZENTE",
+    "POURCENT. DE REPETITION RECENT",
+    "PORCENT. PART. GRATIS RECIENTES",
+    "PERCENTUALE REPLAY RECENTI",
+    ""
+   ],
+   "addr": "0x0cd8b8"
+  },
+  {
+   "audit": 73,
+   "name_en": "GREEN WITH ENVY STARTED",
+   "langs": [
+    "GREEN WITH ENVY STARTED",
+    "GREEN WITH ENVY STARTED",
+    "GREEN WITH ENVY STARTED",
+    "GREEN WITH ENVY STARTED",
+    "GREEN WITH ENVY STARTED",
+    ""
+   ],
+   "addr": "0x0cd8d0"
+  },
+  {
+   "audit": 74,
+   "name_en": "GREEN WITH ENVY COMPLETED",
+   "langs": [
+    "GREEN WITH ENVY COMPLETED",
+    "GREEN WITH ENVY COMPLETED",
+    "GREEN WITH ENVY COMPLETED",
+    "GREEN WITH ENVY COMPLETED",
+    "GREEN WITH ENVY COMPLETED",
+    ""
+   ],
+   "addr": "0x0cd8e8"
+  },
+  {
+   "audit": 75,
+   "name_en": "FIRE FIGHTING STARTED",
+   "langs": [
+    "FIRE FIGHTING STARTED",
+    "FIRE FIGHTING STARTED",
+    "FIRE FIGHTING STARTED",
+    "FIRE FIGHTING STARTED",
+    "FIRE FIGHTING STARTED",
+    ""
+   ],
+   "addr": "0x0cd900"
+  },
+  {
+   "audit": 76,
+   "name_en": "FIRE FIGHTING COMPLETED",
+   "langs": [
+    "FIRE FIGHTING COMPLETED",
+    "FIRE FIGHTING COMPLETED",
+    "FIRE FIGHTING COMPLETED",
+    "FIRE FIGHTING COMPLETED",
+    "FIRE FIGHTING COMPLETED",
+    ""
+   ],
+   "addr": "0x0cd918"
+  },
+  {
+   "audit": 77,
+   "name_en": "SPIDEY FALLS FOR MJ STARTED",
+   "langs": [
+    "SPIDEY FALLS FOR MJ STARTED",
+    "SPIDEY FALLS FOR MJ STARTED",
+    "SPIDEY FALLS FOR MJ STARTED",
+    "SPIDEY FALLS FOR MJ STARTED",
+    "SPIDEY FALLS FOR MJ STARTED",
+    ""
+   ],
+   "addr": "0x0cd930"
+  },
+  {
+   "audit": 78,
+   "name_en": "SPIDEY FALLS FOR MJ COMPLETED",
+   "langs": [
+    "SPIDEY FALLS FOR MJ COMPLETED",
+    "SPIDEY FALLS FOR MJ COMPLETED",
+    "SPIDEY FALLS FOR MJ COMPLETED",
+    "SPIDEY FALLS FOR MJ COMPLETED",
+    "SPIDEY FALLS FOR MJ COMPLETED",
+    ""
+   ],
+   "addr": "0x0cd948"
+  },
+  {
+   "audit": 79,
+   "name_en": "LEND ME A HAND STARTED",
+   "langs": [
+    "LEND ME A HAND STARTED",
+    "LEND ME A HAND STARTED",
+    "LEND ME A HAND STARTED",
+    "LEND ME A HAND STARTED",
+    "LEND ME A HAND STARTED",
+    ""
+   ],
+   "addr": "0x0cd960"
+  },
+  {
+   "audit": 80,
+   "name_en": "LEND ME A HAND COMPLETED",
+   "langs": [
+    "LEND ME A HAND COMPLETED",
+    "LEND ME A HAND COMPLETED",
+    "LEND ME A HAND COMPLETED",
+    "LEND ME A HAND COMPLETED",
+    "LEND ME A HAND COMPLETED",
+    ""
+   ],
+   "addr": "0x0cd978"
+  },
+  {
+   "audit": 81,
+   "name_en": "OCK'S OSCORP OUTING STARTED",
+   "langs": [
+    "OCK'S OSCORP OUTING STARTED",
+    "OCK'S OSCORP OUTING STARTED",
+    "OCK'S OSCORP OUTING STARTED",
+    "OCK'S OSCORP OUTING STARTED",
+    "OCK'S OSCORP OUTING STARTED",
+    ""
+   ],
+   "addr": "0x0cd990"
+  },
+  {
+   "audit": 82,
+   "name_en": "OCK'S OSCORP OUTING COMPLETED",
+   "langs": [
+    "OCK'S OSCORP OUTING COMPLETED",
+    "OCK'S OSCORP OUTING COMPLETED",
+    "OCK'S OSCORP OUTING COMPLETED",
+    "OCK'S OSCORP OUTING COMPLETED",
+    "OCK'S OSCORP OUTING COMPLETED",
+    ""
+   ],
+   "addr": "0x0cd9a8"
+  },
+  {
+   "audit": 83,
+   "name_en": "BATTLE ON THE BRIDGE STARTED",
+   "langs": [
+    "BATTLE ON THE BRIDGE STARTED",
+    "BATTLE ON THE BRIDGE STARTED",
+    "BATTLE ON THE BRIDGE STARTED",
+    "BATTLE ON THE BRIDGE STARTED",
+    "BATTLE ON THE BRIDGE STARTED",
+    ""
+   ],
+   "addr": "0x0cd9c0"
+  },
+  {
+   "audit": 84,
+   "name_en": "BATTLE ON THE BRIDGE COMPLETED",
+   "langs": [
+    "BATTLE ON THE BRIDGE COMPLETED",
+    "BATTLE ON THE BRIDGE COMPLETED",
+    "BATTLE ON THE BRIDGE COMPLETED",
+    "BATTLE ON THE BRIDGE COMPLETED",
+    "BATTLE ON THE BRIDGE COMPLETED",
+    ""
+   ],
+   "addr": "0x0cd9d8"
+  },
+  {
+   "audit": 85,
+   "name_en": "OUT OF THE SLAMMER STARTED",
+   "langs": [
+    "OUT OF THE SLAMMER STARTED",
+    "OUT OF THE SLAMMER STARTED",
+    "OUT OF THE SLAMMER STARTED",
+    "OUT OF THE SLAMMER STARTED",
+    "OUT OF THE SLAMMER STARTED",
+    ""
+   ],
+   "addr": "0x0cd9f0"
+  },
+  {
+   "audit": 86,
+   "name_en": "OUT OF THE SLAMMER COMPLETED",
+   "langs": [
+    "OUT OF THE SLAMMER COMPLETED",
+    "OUT OF THE SLAMMER COMPLETED",
+    "OUT OF THE SLAMMER COMPLETED",
+    "OUT OF THE SLAMMER COMPLETED",
+    "OUT OF THE SLAMMER COMPLETED",
+    ""
+   ],
+   "addr": "0x0cda08"
+  },
+  {
+   "audit": 87,
+   "name_en": "TIME IS MONEY STARTED",
+   "langs": [
+    "TIME IS MONEY STARTED",
+    "TIME IS MONEY STARTED",
+    "TIME IS MONEY STARTED",
+    "TIME IS MONEY STARTED",
+    "TIME IS MONEY STARTED",
+    ""
+   ],
+   "addr": "0x0cda20"
+  },
+  {
+   "audit": 88,
+   "name_en": "TIME IS MONEY COMPLETED",
+   "langs": [
+    "TIME IS MONEY COMPLETED",
+    "TIME IS MONEY COMPLETED",
+    "TIME IS MONEY COMPLETED",
+    "TIME IS MONEY COMPLETED",
+    "TIME IS MONEY COMPLETED",
+    ""
+   ],
+   "addr": "0x0cda38"
+  },
+  {
+   "audit": 89,
+   "name_en": "CONCRETE ENDING STARTED",
+   "langs": [
+    "CONCRETE ENDING STARTED",
+    "CONCRETE ENDING STARTED",
+    "CONCRETE ENDING STARTED",
+    "CONCRETE ENDING STARTED",
+    "CONCRETE ENDING STARTED",
+    ""
+   ],
+   "addr": "0x0cda50"
+  },
+  {
+   "audit": 90,
+   "name_en": "CONCRETE ENDING COMPLETED",
+   "langs": [
+    "CONCRETE ENDING COMPLETED",
+    "CONCRETE ENDING COMPLETED",
+    "CONCRETE ENDING COMPLETED",
+    "CONCRETE ENDING COMPLETED",
+    "CONCRETE ENDING COMPLETED",
+    ""
+   ],
+   "addr": "0x0cda68"
+  },
+  {
+   "audit": 91,
+   "name_en": "GOO ON YOU STARTED",
+   "langs": [
+    "GOO ON YOU STARTED",
+    "GOO ON YOU STARTED",
+    "GOO ON YOU STARTED",
+    "GOO ON YOU STARTED",
+    "GOO ON YOU STARTED",
+    ""
+   ],
+   "addr": "0x0cda80"
+  },
+  {
+   "audit": 92,
+   "name_en": "GOO ON YOU COMPLETED",
+   "langs": [
+    "GOO ON YOU COMPLETED",
+    "GOO ON YOU COMPLETED",
+    "GOO ON YOU COMPLETED",
+    "GOO ON YOU COMPLETED",
+    "GOO ON YOU COMPLETED",
+    ""
+   ],
+   "addr": "0x0cda98"
+  },
+  {
+   "audit": 93,
+   "name_en": "SYMBIOTE STALKER STARTED",
+   "langs": [
+    "SYMBIOTE STALKER STARTED",
+    "SYMBIOTE STALKER STARTED",
+    "SYMBIOTE STALKER STARTED",
+    "SYMBIOTE STALKER STARTED",
+    "SYMBIOTE STALKER STARTED",
+    ""
+   ],
+   "addr": "0x0cdab0"
+  },
+  {
+   "audit": 94,
+   "name_en": "SYMBIOTE STALKER COMPLETED",
+   "langs": [
+    "SYMBIOTE STALKER COMPLETED",
+    "SYMBIOTE STALKER COMPLETED",
+    "SYMBIOTE STALKER COMPLETED",
+    "SYMBIOTE STALKER COMPLETED",
+    "SYMBIOTE STALKER COMPLETED",
+    ""
+   ],
+   "addr": "0x0cdac8"
+  },
+  {
+   "audit": 95,
+   "name_en": "VENOM STRIKES TWICE STARTED",
+   "langs": [
+    "VENOM STRIKES TWICE STARTED",
+    "VENOM STRIKES TWICE STARTED",
+    "VENOM STRIKES TWICE STARTED",
+    "VENOM STRIKES TWICE STARTED",
+    "VENOM STRIKES TWICE STARTED",
+    ""
+   ],
+   "addr": "0x0cdae0"
+  },
+  {
+   "audit": 96,
+   "name_en": "VENOM STRIKES TWICE COMPLETED",
+   "langs": [
+    "VENOM STRIKES TWICE COMPLETED",
+    "VENOM STRIKES TWICE COMPLETED",
+    "VENOM STRIKES TWICE COMPLETED",
+    "VENOM STRIKES TWICE COMPLETED",
+    "VENOM STRIKES TWICE COMPLETED",
+    ""
+   ],
+   "addr": "0x0cdaf8"
+  },
+  {
+   "audit": 97,
+   "name_en": "'ELECTRO' STARTED",
+   "langs": [
+    "'ELECTRO' STARTED",
+    "'ELECTRO' STARTED",
+    "'ELECTRO' STARTED",
+    "'ELECTRO' STARTED",
+    "'ELECTRO' STARTED",
+    ""
+   ],
+   "addr": "0x0cdb10"
+  },
+  {
+   "audit": 98,
+   "name_en": "'ELECTRO' HALF-WAY",
+   "langs": [
+    "'ELECTRO' HALF-WAY",
+    "'ELECTRO' HALF-WAY",
+    "'ELECTRO' HALF-WAY",
+    "'ELECTRO' HALF-WAY",
+    "'ELECTRO' HALF-WAY",
+    ""
+   ],
+   "addr": "0x0cdb28"
+  },
+  {
+   "audit": 99,
+   "name_en": "'ELECTRO' COMPLETED",
+   "langs": [
+    "'ELECTRO' COMPLETED",
+    "'ELECTRO' COMPLETED",
+    "'ELECTRO' COMPLETED",
+    "'ELECTRO' COMPLETED",
+    "'ELECTRO' COMPLETED",
+    ""
+   ],
+   "addr": "0x0cdb40"
+  },
+  {
+   "audit": 100,
+   "name_en": "'DAILY BUGLE' STARTED",
+   "langs": [
+    "'DAILY BUGLE' STARTED",
+    "'DAILY BUGLE' STARTED",
+    "'DAILY BUGLE' STARTED",
+    "'DAILY BUGLE' STARTED",
+    "'DAILY BUGLE' STARTED",
+    ""
+   ],
+   "addr": "0x0cdb58"
+  },
+  {
+   "audit": 101,
+   "name_en": "'DAILY BUGLE' HALF-WAY",
+   "langs": [
+    "'DAILY BUGLE' HALF-WAY",
+    "'DAILY BUGLE' HALF-WAY",
+    "'DAILY BUGLE' HALF-WAY",
+    "'DAILY BUGLE' HALF-WAY",
+    "'DAILY BUGLE' HALF-WAY",
+    ""
+   ],
+   "addr": "0x0cdb70"
+  },
+  {
+   "audit": 102,
+   "name_en": "'DAILY BUGLE' COMPLETED",
+   "langs": [
+    "'DAILY BUGLE' COMPLETED",
+    "'DAILY BUGLE' COMPLETED",
+    "'DAILY BUGLE' COMPLETED",
+    "'DAILY BUGLE' COMPLETED",
+    "'DAILY BUGLE' COMPLETED",
+    ""
+   ],
+   "addr": "0x0cdb88"
+  },
+  {
+   "audit": 103,
+   "name_en": "'JACK O'LANTERN' STARTED",
+   "langs": [
+    "'JACK O'LANTERN' STARTED",
+    "'JACK O'LANTERN' STARTED",
+    "'JACK O'LANTERN' STARTED",
+    "'JACK O'LANTERN' STARTED",
+    "'JACK O'LANTERN' STARTED",
+    ""
+   ],
+   "addr": "0x0cdba0"
+  },
+  {
+   "audit": 104,
+   "name_en": "'JACK O'LANTERN' HALF-WAY",
+   "langs": [
+    "'JACK O'LANTERN' HALF-WAY",
+    "'JACK O'LANTERN' HALF-WAY",
+    "'JACK O'LANTERN' HALF-WAY",
+    "'JACK O'LANTERN' HALF-WAY",
+    "'JACK O'LANTERN' HALF-WAY",
+    ""
+   ],
+   "addr": "0x0cdbb8"
+  },
+  {
+   "audit": 105,
+   "name_en": "'JACK O'LANTERN' COMPLETED",
+   "langs": [
+    "'JACK O'LANTERN' COMPLETED",
+    "'JACK O'LANTERN' COMPLETED",
+    "'JACK O'LANTERN' COMPLETED",
+    "'JACK O'LANTERN' COMPLETED",
+    "'JACK O'LANTERN' COMPLETED",
+    ""
+   ],
+   "addr": "0x0cdbd0"
+  },
+  {
+   "audit": 106,
+   "name_en": "'TELL MJ' STARTED",
+   "langs": [
+    "'TELL MJ' STARTED",
+    "'TELL MJ' STARTED",
+    "'TELL MJ' STARTED",
+    "'TELL MJ' STARTED",
+    "'TELL MJ' STARTED",
+    ""
+   ],
+   "addr": "0x0cdbe8"
+  },
+  {
+   "audit": 107,
+   "name_en": "'TELL MJ' HALF-WAY",
+   "langs": [
+    "'TELL MJ' HALF-WAY",
+    "'TELL MJ' HALF-WAY",
+    "'TELL MJ' HALF-WAY",
+    "'TELL MJ' HALF-WAY",
+    "'TELL MJ' HALF-WAY",
+    ""
+   ],
+   "addr": "0x0cdc00"
+  },
+  {
+   "audit": 108,
+   "name_en": "'TELL MJ' COMPLETED",
+   "langs": [
+    "'TELL MJ' COMPLETED",
+    "'TELL MJ' COMPLETED",
+    "'TELL MJ' COMPLETED",
+    "'TELL MJ' COMPLETED",
+    "'TELL MJ' COMPLETED",
+    ""
+   ],
+   "addr": "0x0cdc18"
+  },
+  {
+   "audit": 109,
+   "name_en": "'AMAZING SPIDER-MAN' STARTED",
+   "langs": [
+    "'AMAZING SPIDER-MAN' STARTED",
+    "'AMAZING SPIDER-MAN' STARTED",
+    "'AMAZING SPIDER-MAN' STARTED",
+    "'AMAZING SPIDER-MAN' STARTED",
+    "'AMAZING SPIDER-MAN' STARTED",
+    ""
+   ],
+   "addr": "0x0cdc30"
+  },
+  {
+   "audit": 110,
+   "name_en": "'AMAZING SPIDER-MAN' HALF-WAY",
+   "langs": [
+    "'AMAZING SPIDER-MAN' HALF-WAY",
+    "'AMAZING SPIDER-MAN' HALF-WAY",
+    "'AMAZING SPIDER-MAN' HALF-WAY",
+    "'AMAZING SPIDER-MAN' HALF-WAY",
+    "'AMAZING SPIDER-MAN' HALF-WAY",
+    ""
+   ],
+   "addr": "0x0cdc48"
+  },
+  {
+   "audit": 111,
+   "name_en": "'AMAZING SPIDER-MAN' COMPLETED",
+   "langs": [
+    "'AMAZING SPIDER-MAN' COMPLETED",
+    "'AMAZING SPIDER-MAN' COMPLETED",
+    "'AMAZING SPIDER-MAN' COMPLETED",
+    "'AMAZING SPIDER-MAN' COMPLETED",
+    "'AMAZING SPIDER-MAN' COMPLETED",
+    ""
+   ],
+   "addr": "0x0cdc60"
+  },
+  {
+   "audit": 112,
+   "name_en": "COMBO AWARDS",
+   "langs": [
+    "COMBO AWARDS",
+    "COMBO AWARDS",
+    "COMBO AWARDS",
+    "COMBO AWARDS",
+    "COMBO AWARDS",
+    ""
+   ],
+   "addr": "0x0cdc78"
+  },
+  {
+   "audit": 113,
+   "name_en": "SUPER COMBOS STARTED",
+   "langs": [
+    "SUPER COMBOS STARTED",
+    "SUPER COMBOS STARTED",
+    "SUPER COMBOS STARTED",
+    "SUPER COMBOS STARTED",
+    "SUPER COMBOS STARTED",
+    ""
+   ],
+   "addr": "0x0cdc90"
+  },
+  {
+   "audit": 114,
+   "name_en": "SUPER LOOPS STARTED",
+   "langs": [
+    "SUPER LOOPS STARTED",
+    "SUPER LOOPS STARTED",
+    "SUPER LOOPS STARTED",
+    "SUPER LOOPS STARTED",
+    "SUPER LOOPS STARTED",
+    ""
+   ],
+   "addr": "0x0cdca8"
+  },
+  {
+   "audit": 115,
+   "name_en": "COMBO MULTIBALL STARTED",
+   "langs": [
+    "COMBO MULTIBALL STARTED",
+    "COMBO MULTIBALL STARTED",
+    "COMBO MULTIBALL STARTED",
+    "COMBO MULTIBALL STARTED",
+    "COMBO MULTIBALL STARTED",
+    ""
+   ],
+   "addr": "0x0cdcc0"
+  },
+  {
+   "audit": 116,
+   "name_en": "COMBO MULTIBALL COMBO SHOTS",
+   "langs": [
+    "COMBO MULTIBALL COMBO SHOTS",
+    "COMBO MULTIBALL COMBO SHOTS",
+    "COMBO MULTIBALL COMBO SHOTS",
+    "COMBO MULTIBALL COMBO SHOTS",
+    "COMBO MULTIBALL COMBO SHOTS",
+    ""
+   ],
+   "addr": "0x0cdcd8"
+  },
+  {
+   "audit": 117,
+   "name_en": "B.S.M.B. LOCKS LIT",
+   "langs": [
+    "B.S.M.B. LOCKS LIT",
+    "B.S.M.B. LOCKS LIT",
+    "B.S.M.B. LOCKS LIT",
+    "B.S.M.B. LOCKS LIT",
+    "B.S.M.B. LOCKS LIT",
+    ""
+   ],
+   "addr": "0x0cdcf0"
+  },
+  {
+   "audit": 118,
+   "name_en": "B.S.M.B. BALLS LOCKED",
+   "langs": [
+    "B.S.M.B. BALLS LOCKED",
+    "B.S.M.B. BALLS LOCKED",
+    "B.S.M.B. BALLS LOCKED",
+    "B.S.M.B. BALLS LOCKED",
+    "B.S.M.B. BALLS LOCKED",
+    ""
+   ],
+   "addr": "0x0cdd08"
+  },
+  {
+   "audit": 119,
+   "name_en": "B.S.M.B. STARTED",
+   "langs": [
+    "B.S.M.B. STARTED",
+    "B.S.M.B. STARTED",
+    "B.S.M.B. STARTED",
+    "B.S.M.B. STARTED",
+    "B.S.M.B. STARTED",
+    ""
+   ],
+   "addr": "0x0cdd20"
+  },
+  {
+   "audit": 120,
+   "name_en": "B.S.M.B. JACKPOT AWARDS",
+   "langs": [
+    "B.S.M.B. JACKPOT AWARDS",
+    "B.S.M.B. JACKPOT AWARDS",
+    "B.S.M.B. JACKPOT AWARDS",
+    "B.S.M.B. JACKPOT AWARDS",
+    "B.S.M.B. JACKPOT AWARDS",
+    ""
+   ],
+   "addr": "0x0cdd38"
+  },
+  {
+   "audit": 121,
+   "name_en": "B.S.M.B. JACKPOT STAGE COMPLETED",
+   "langs": [
+    "B.S.M.B. JACKPOT STAGE COMPLETED",
+    "B.S.M.B. JACKPOT STAGE COMPLETED",
+    "B.S.M.B. JACKPOT STAGE COMPLETED",
+    "B.S.M.B. JACKPOT STAGE COMPLETED",
+    "B.S.M.B. JACKPOT STAGE COMPLETED",
+    ""
+   ],
+   "addr": "0x0cdd50"
+  },
+  {
+   "audit": 122,
+   "name_en": "B.S.M.B. SUPER JP. AWARDS",
+   "langs": [
+    "B.S.M.B. SUPER JP. AWARDS",
+    "B.S.M.B. SUPER JP. AWARDS",
+    "B.S.M.B. SUPER JP. AWARDS",
+    "B.S.M.B. SUPER JP. AWARDS",
+    "B.S.M.B. SUPER JP. AWARDS",
+    ""
+   ],
+   "addr": "0x0cdd68"
+  },
+  {
+   "audit": 123,
+   "name_en": "B.S.M.B. SUPER JP. STAGE COMPLETED",
+   "langs": [
+    "B.S.M.B. SUPER JP. STAGE COMPLETED",
+    "B.S.M.B. SUPER JP. STAGE COMPLETED",
+    "B.S.M.B. SUPER JP. STAGE COMPLETED",
+    "B.S.M.B. SUPER JP. STAGE COMPLETED",
+    "B.S.M.B. SUPER JP. STAGE COMPLETED",
+    ""
+   ],
+   "addr": "0x0cdd80"
+  },
+  {
+   "audit": 124,
+   "name_en": "EXTRA BALLS LIT",
+   "langs": [
+    "EXTRA BALLS LIT",
+    "EXTRA BALLS LIT",
+    "EXTRA BALLS LIT",
+    "EXTRA BALLS LIT",
+    "EXTRA BALLS LIT",
+    ""
+   ],
+   "addr": "0x0cdd98"
+  }
+ ]
+}
