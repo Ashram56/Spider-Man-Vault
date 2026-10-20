@@ -85,10 +85,11 @@ def main():
                     "default_pulse_ms", "wireA", "wireB", "coilid"])
         for i in range(COIL_N):
             w7 = struct.unpack_from("<7I", ROM, fo + i * COIL_STRIDE)
-            flags, fn, nameptr, pulse, wa, wb, tail = w7[0], w7[1], w7[3], w7[4], (w7[5] >> 8), (w7[5] & 0xff), w7[6]
+            # word5 packs two byte wire-colour message ids: byte2 = A, byte0 = B (bytes: 52 00 3f 00)
+            flags, fn, nameptr, pulse, wa, wb, tail = w7[0], w7[1], w7[3], w7[4], ((w7[5] >> 16) & 0xff), (w7[5] & 0xff), w7[6]
             hint = FLAG_HINTS.get(flags & 0xffffff, "")
             w.writerow([i, names.get(i, ""), "%08x" % flags, hint,
-                        "%08x" % fn if flags >> 16 else "",
+                        "%08x" % fn if fn else "",
                         pulse, "%02x" % wa, "%02x" % wb, "%02x" % (tail & 0xff)])
             out.append((i, names.get(i, ""), flags, hint, pulse))
     print("wrote io/coils_hardware.csv")
