@@ -53,3 +53,24 @@ full image/font/animation dump, catalogs.  Open (agent follow-ups):
 coil/flasher timing via emulator, matrix switch ordering from the driver,
 Ghidra decompile of the game code (needs Java, not present in the build
 environment).
+
+## Agent B: VPX extraction (2026-10-19, added by openhands)
+
+From `Spider-Man Classic (Stern 2007) VPW Mod 2.1.vpx` (VLM baked-lightmap
+mod).  Outputs: `game/monitor/` (playfield.jpg = brightened `VLM.Nestmap0`
+4352x8192, monitor.yaml, switches.csv, lights.csv) and `docs/vpx/` (items.json,
+switches_all.csv, lights_all.csv, table_script.vbs, overlay_small.png,
+README.md).
+
+- The playfield is a **baked Primitive mesh**: GameData IMAG and
+  `Playfield_Insert_Text_Benji_Updated` are black placeholders (~3 mean);
+  the real art is mesh texture `VLM.Nestmap0`, picked via
+  `--image VLM.Nestmap0` (no extension).
+- `monitor.yaml`: 56 switches, 74 lamps, 4 flasher-dome coils (21/27/29/30 ->
+  Flasherlight 4/3/1/2) auto-discovered by vpx_map; nFozzy flasher-as-lamp
+  coils 23/25/26/28/31 are lamps 123/125/126/128/131.
+- Switch names are ROM-name slugs (`s_`, `l_`, `c_`).  MOTOR/opto sims
+  (52/53/56/57/58/62), trough, shooter, coin/mech sit on the cabinet strip.
+- Feeding back to Stern-SAM-Decryption: branch
+  `knowledge/spider-man-vpx-extraction` pushed + issue #38 (PR-create 403s
+  for the agent token).
