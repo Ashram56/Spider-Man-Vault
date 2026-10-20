@@ -1,0 +1,410 @@
+# MPF Monitor layout (x/y: fractions of playfield.jpg) from vpx_extract.py + vpx_map.py
+# Playfield image: VLM.Nestmap0 (4352x8192) from the VPX table's baked lightmap via --image.
+# Switch/lamp names are slugs of the ROM English names (see docs/vpx README); Agent C renames to
+# the machine config's devices. Flasher domes (coils 21/27/29/30) are the coil: section.
+device_size: 0.035
+light:
+  l_shoot_again:   # light 3 (l3)
+    x: 0.4555
+    y: 0.8643
+  l_battle_royale:   # light 4 (l4)
+    x: 0.6094
+    y: 0.621
+  l_jack_o_lantern:   # light 5 (l5)
+    x: 0.5144
+    y: 0.6298
+  l_sandman:   # light 6 (l6)
+    x: 0.4584
+    y: 0.5932
+  l_daily_bugle:   # light 7 (l7)
+    x: 0.5873
+    y: 0.6652
+  l_doc_ock:   # light 8 (l8)
+    x: 0.5644
+    y: 0.5709
+  l_the_amazing_spider_man:   # light 9 (l9)
+    x: 0.339
+    y: 0.7085
+  l_green_goblin:   # light 10 (l10)
+    x: 0.3102
+    y: 0.6216
+  l_electro:   # light 11 (l11)
+    x: 0.3321
+    y: 0.6618
+  l_venom:   # light 12 (l12)
+    x: 0.5538
+    y: 0.768
+  l_tell_mj:   # light 13 (l13)
+    x: 0.4047
+    y: 0.6268
+  l_super_hero:   # light 14 (l14)
+    x: 0.4758
+    y: 0.8039
+  l_lock_r_loop:   # light 15 (l15)
+    x: 0.8305
+    y: 0.3914
+  l_r_loop_arrow_wht_mid:   # light 16 (l16)
+    x: 0.865
+    y: 0.3434
+  l_goblin_5_top:   # light 17 (l17)
+    x: 0.196
+    y: 0.4794
+  l_goblin_4:   # light 18 (l18)
+    x: 0.1912
+    y: 0.5069
+  l_goblin_3:   # light 19 (l19)
+    x: 0.1892
+    y: 0.534
+  l_goblin_2:   # light 20 (l20)
+    x: 0.1851
+    y: 0.5611
+  l_goblin_1_bot:   # light 21 (l21)
+    x: 0.181
+    y: 0.5884
+  l_spidey_falls_for_mj:   # light 22 (l22)
+    x: 0.3703
+    y: 0.5203
+  l_fire_fighting:   # light 23 (l23)
+    x: 0.3911
+    y: 0.5547
+  l_green_with_envy:   # light 24 (l24)
+    x: 0.3309
+    y: 0.5785
+  l_l_loop_arrow_red_top:   # light 25 (l25)
+    x: 0.1189
+    y: 0.2998
+  l_l_loop_arrow_wht_mid:   # light 26 (l26)
+    x: 0.1412
+    y: 0.3457
+  l_lock_l_loop:   # light 27 (l27)
+    x: 0.1696
+    y: 0.3914
+  l_light_lock:   # light 28 (l28)
+    x: 0.2856
+    y: 0.4152
+  l_c_ramp_arrow_red_top:   # light 29 (l29)
+    x: 0.3547
+    y: 0.3425
+  l_c_ramp_arrow_wht_mid:   # light 30 (l30)
+    x: 0.3778
+    y: 0.3995
+  l_venom_c_ramp:   # light 31 (l31)
+    x: 0.3929
+    y: 0.4419
+  l_extra_ball:   # light 32 (l32)
+    x: 0.1974
+    y: 0.4384
+  l_r_ramp_arrow_red_top:   # light 33 (l33)
+    x: 0.6315
+    y: 0.3498
+  l_r_ramp_arrow_wht_mid:   # light 34 (l34)
+    x: 0.6155
+    y: 0.3996
+  l_royale_jackpot:   # light 35 (l35)
+    x: 0.5813
+    y: 0.5142
+  l_doc_ock_arrow_red_top:   # light 36 (l36)
+    x: 0.7675
+    y: 0.3215
+  l_doc_ock_arrow_wht_bot:   # light 37 (l37)
+    x: 0.7339
+    y: 0.3633
+  l_battle_on_the_bridge:   # light 38 (l38)
+    x: 0.7034
+    y: 0.4776
+  l_ock_s_oscorp_outing:   # light 39 (l39)
+    x: 0.6491
+    y: 0.5002
+  l_lend_me_a_hand:   # light 40 (l40)
+    x: 0.6823
+    y: 0.5295
+  l_h_ero:   # light 41 (l41)
+    x: 0.0596
+    y: 0.6889
+  l_h_e_ro:   # light 42 (l42)
+    x: 0.137
+    y: 0.6795
+  l_he_r_o:   # light 43 (l43)
+    x: 0.7671
+    y: 0.6795
+  l_her_o:   # light 44 (l44)
+    x: 0.8487
+    y: 0.6889
+  l_l_ramp_arrow_red_top:   # light 45 (l45)
+    x: 0.457
+    y: 0.3991
+  l_l_ramp_arrow_wht_mid:   # light 46 (l46)
+    x: 0.5435
+    y: 0.4198
+  l_venom_l_ramp:   # light 47 (l47)
+    x: 0.626
+    y: 0.4412
+  l_r_3_bank_1_top:   # light 48 (l48)
+    x: 0.7341
+    y: 0.5508
+  l_sandman_arrow_1_l:   # light 49 (l49)
+    x: 0.4341
+    y: 0.2512
+  l_sandman_arrow_2_c:   # light 50 (l50)
+    x: 0.4681
+    y: 0.218
+  l_sandman_arrow_3_r:   # light 51 (l51)
+    x: 0.5392
+    y: 0.2514
+  l_sandman_3_bank_1_l:   # light 52 (l52)
+    x: 0.4402
+    y: 0.3483
+  l_sandman_3_bank_2_c:   # light 53 (l53)
+    x: 0.4984
+    y: 0.3486
+  l_sandman_3_bank_3_r:   # light 54 (l54)
+    x: 0.5551
+    y: 0.35
+  l_w_eb:   # light 57 (l57)
+    x: 0.6287
+    y: 0.0466
+  l_w_e_b:   # light 58 (l58)
+    x: 0.7179
+    y: 0.0435
+  l_we_b:   # light 59 (l59)
+    x: 0.8062
+    y: 0.0415
+  l_left_bumper:   # light 60 (l60)
+    x: 0.6359
+    y: 0.154
+  l_right_bumper:   # light 61 (l61)
+    x: 0.8407
+    y: 0.1618
+  l_bottom_bumper:   # light 62 (l62)
+    x: 0.7272
+    y: 0.2456
+  l_r_3_bank_2_mid:   # light 63 (l63)
+    x: 0.729
+    y: 0.5729
+  l_r_3_bank_3_bot:   # light 64 (l64)
+    x: 0.7244
+    y: 0.5995
+  l_special:   # light 65 (l65)
+    x: 0.303
+    y: 0.4491
+  l_venom_strikes_twice:   # light 66 (MissioneVenom3)
+    x: 0.05
+    y: 0.925
+  l_symbiote_stalker:   # light 67 (MissioneVenom2)
+    x: 0.15
+    y: 0.925
+  l_goo_on_you:   # light 68 (MissioneVenom1)
+    x: 0.25
+    y: 0.925
+  l_concrete_ending:   # light 69 (MissioneSandman3)
+    x: 0.35
+    y: 0.925
+  l_time_is_money:   # light 70 (MissioneSandman2)
+    x: 0.45
+    y: 0.925
+  l_out_of_the_slammer:   # light 71 (MissioneSandman1)
+    x: 0.55
+    y: 0.925
+  l_spider_sense:   # light 72 (l72)
+    x: 0.8645
+    y: 0.5069
+  l_r_loop_arrow_red_top:   # light 78 (l78)
+    x: 0.8968
+    y: 0.2977
+  l_123_f23:   # light 123 (F23)
+    x: 0.6096
+    y: 0.2033
+  l_125_f25:   # light 125 (F25)
+    x: 0.2963
+    y: 0.0397
+  l_126_f26:   # light 126 (F26)
+    x: 0.5067
+    y: 0.2168
+  l_128_flashergoblin:   # light 128 (FlasherGoblin)
+    x: 0.0821
+    y: 0.5928
+  l_131_flasherbumpers:   # light 131 (FlasherBumpers)
+    x: 0.9382
+    y: 0.2229
+coil:   # flasher domes mapped from FlashSol<sol> subs -> Flasherlight1..4 (ROM coils 21/27/29/30)
+  c_doc_ock_flasher:   # flasher coil 21 -> Flasherlight4
+    x: 0.7038
+    y: 0.282
+  c_sandman_dome_flasher:   # flasher coil 27 -> Flasherlight3
+    x: 0.4916
+    y: 0.0598
+  c_back_panel_l_flasher:   # flasher coil 29 -> Flasherlight1
+    x: 0.1765
+    y: 0.0418
+  c_back_panel_r_flasher:   # flasher coil 30 -> Flasherlight2
+    x: 0.7626
+    y: 0.0371
+switch:
+  s_goblin_2:   # switch 1 (sw1)
+    x: 0.1415
+    y: 0.5832
+  s_goblin_3:   # switch 2 (sw2)
+    x: 0.1438
+    y: 0.5579
+  s_goblin_4:   # switch 3 (sw3)
+    x: 0.1464
+    y: 0.5324
+  s_goblin_5_top:   # switch 4 (sw4)
+    x: 0.1493
+    y: 0.5074
+  s_left_standup:   # switch 5 (sw5)
+    x: 0.1519
+    y: 0.4818
+  s_l_loop_spinner:   # switch 6 (sw6)
+    x: 0.2713
+    y: 0.3937
+  s_left_loop:   # switch 7 (sw7)
+    x: 0.1695
+    y: 0.411
+  s_sandman_3_bank_l:   # switch 8 (sw8)
+    x: 0.0644
+    y: 0.1534
+  s_sandman_3_bank_c:   # switch 9 (sw9)
+    x: 0.443
+    y: 0.3183
+  s_sandman_3_bank_r:   # switch 10 (sw10)
+    x: 0.5018
+    y: 0.3195
+  s_sandman_s_u_l:   # switch 11 (sw11)
+    x: 0.5595
+    y: 0.3206
+  s_sandman_s_u_r:   # switch 12 (sw12)
+    x: 0.4183
+    y: 0.2157
+  s_lower_l_10_point:   # switch 13 (sw13)
+    x: 0.5537
+    y: 0.2165
+  s_trough_3:   # switch 18 (Trough1)
+    x: 0.5658
+    y: 0.9418
+  s_trough_2:   # switch 19 (Trough2)
+    x: 0.6619
+    y: 0.9152
+  s_trough_1_r:   # switch 20 (Trough3)
+    x: 0.758
+    y: 0.8897
+  s_trough_jam:   # switch 21 (Trough4)
+    x: 0.8567
+    y: 0.8642
+  s_left_outlane:   # switch 23 (sw23)
+    x: 0.937
+    y: 0.8844
+  s_left_return_lane:   # switch 24 (sw24)
+    x: 0.0619
+    y: 0.7582
+  s_left_slingshot:   # switch 25 (sw25)
+    x: 0.1329
+    y: 0.7395
+  s_right_slingshot:   # switch 26 (Leftslingshot)
+    x: 0.228
+    y: 0.7284
+  s_right_return_lane:   # switch 27 (Rightslingshot)
+    x: 0.6774
+    y: 0.7287
+  s_right_outlane:   # switch 28 (sw28)
+    x: 0.7719
+    y: 0.7395
+  s_left_bumper:   # switch 29 (sw29)
+    x: 0.8455
+    y: 0.7583
+  s_right_bumper:   # switch 30 (Bumper1)
+    x: 0.6236
+    y: 0.1706
+  s_bottom_bumper:   # switch 31 (Bumper2)
+    x: 0.8096
+    y: 0.1515
+  s_left_top_lane:   # switch 32 (Bumper3)
+    x: 0.761
+    y: 0.2372
+  s_center_top_lane:   # switch 33 (sw33)
+    x: 0.6282
+    y: 0.0851
+  s_right_top_lane:   # switch 34 (sw34)
+    x: 0.7175
+    y: 0.0824
+  s_doc_ock_vuk:   # switch 35 (sw35)
+    x: 0.808
+    y: 0.0815
+  s_right_loop_low:   # switch 37 (sw37)
+    x: 0.938
+    y: 0.096
+  s_r_3_bank_top:   # switch 38 (sw38)
+    x: 0.9385
+    y: 0.1637
+  s_r_3_bank_mid:   # switch 39 (sw39)
+    x: 0.7851
+    y: 0.5397
+  s_r_3_bank_bot:   # switch 40 (sw40)
+    x: 0.7798
+    y: 0.5662
+  s_sandman_opto:   # switch 41 (sw41)
+    x: 0.7741
+    y: 0.5915
+  s_l_ramp_opto:   # switch 42 (S42)
+    x: 0.4953
+    y: 0.2001
+  s_r_ramp_entrance:   # switch 43 (sw43)
+    x: 0.1403
+    y: 0.0959
+  s_r_ramp_exit:   # switch 44 (sw44)
+    x: 0.6334
+    y: 0.2416
+  s_u_flipper_lane:   # switch 45 (sw45)
+    x: 0.9401
+    y: 0.1898
+  s_c_ramp_entrance:   # switch 46 (sw46)
+    x: 0.8721
+    y: 0.5608
+  s_c_ramp_exit:   # switch 47 (sw47)
+    x: 0.3178
+    y: 0.2147
+  s_3_bank_motor_dn:   # switch 48 (sw48)
+    x: 0.0502
+    y: 0.2872
+  s_3_bank_motor_up:   # switch 49 (PallaBloccata)
+    x: 0.4392
+    y: 0.2801
+  s_63_s63:   # switch 63 (S63)
+    x: 0.7558
+    y: 0.349
+  s_goblin_1_bot:   # switch 0 ()
+    x: 0.05
+    y: 0.985
+  s_tournament_start:   # switch 14 ()
+    x: 0.15
+    y: 0.985
+  s_start_button:   # switch 15 ()
+    x: 0.25
+    y: 0.985
+  s_trough_4_l:   # switch 17 ()
+    x: 0.35
+    y: 0.985
+  s_shooter_lane:   # switch 22 ()
+    x: 0.45
+    y: 0.985
+  s_right_loop_high:   # switch 36 ()
+    x: 0.55
+    y: 0.985
+  s_sandman_motor_dn:   # switch 52 ()
+    x: 0.65
+    y: 0.985
+  s_sandman_motor_up:   # switch 53 ()
+    x: 0.75
+    y: 0.985
+  s_doc_ock_motor_dn:   # switch 56 ()
+    x: 0.85
+    y: 0.985
+  s_doc_ock_motor_up:   # switch 57 ()
+    x: 0.05
+    y: 0.955
+  s_sandman_vuk:   # switch 58 ()
+    x: 0.15
+    y: 0.955
+  s_doc_ock_opto:   # switch 62 ()
+    x: 0.25
+    y: 0.955

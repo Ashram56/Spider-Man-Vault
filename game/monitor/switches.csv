@@ -1,0 +1,57 @@
+number,mpf_name,vpx,type,x,y,nx,ny,note
+1,s_goblin_2,sw1,Wall,134.7,1233.4,0.1415,0.5832,hit
+2,s_goblin_3,sw2,Wall,136.9,1180.0,0.1438,0.5579,hit
+3,s_goblin_4,sw3,Wall,139.4,1126.1,0.1464,0.5324,hit
+4,s_goblin_5_top,sw4,Wall,142.1,1073.2,0.1493,0.5074,hit
+5,s_left_standup,sw5,Wall,144.6,1019.0,0.1519,0.4818,hit
+6,s_l_loop_spinner,sw6,Wall,258.3,832.6,0.2713,0.3937,hit
+7,s_left_loop,sw7,Spinner,161.4,869.2,0.1695,0.411,spin
+8,s_sandman_3_bank_l,sw8,Trigger,61.3,324.5,0.0644,0.1534,hit
+9,s_sandman_3_bank_c,sw9,Wall,421.7,673.1,0.443,0.3183,hit
+10,s_sandman_3_bank_r,sw10,Wall,477.7,675.7,0.5018,0.3195,hit
+11,s_sandman_s_u_l,sw11,Wall,532.6,678.0,0.5595,0.3206,hit
+12,s_sandman_s_u_r,sw12,Wall,398.3,456.2,0.4183,0.2157,hit
+13,s_lower_l_10_point,sw13,Wall,527.1,458.0,0.5537,0.2165,hit
+18,s_trough_3,Trough1,Kicker,538.7,1991.8,0.5658,0.9418,hit
+19,s_trough_2,Trough2,Kicker,630.1,1935.7,0.6619,0.9152,hit
+20,s_trough_1_r,Trough3,Kicker,721.6,1881.7,0.758,0.8897,hit
+21,s_trough_jam,Trough4,Kicker,815.6,1827.9,0.8567,0.8642,hit
+23,s_left_outlane,sw23,Trigger,892.1,1870.4,0.937,0.8844,hit
+24,s_left_return_lane,sw24,Trigger,58.9,1603.6,0.0619,0.7582,hit
+25,s_left_slingshot,sw25,Trigger,126.5,1564.1,0.1329,0.7395,hit
+26,s_right_slingshot,Leftslingshot,Wall,217.1,1540.5,0.228,0.7284,slingshot
+27,s_right_return_lane,Rightslingshot,Wall,644.9,1541.1,0.6774,0.7287,slingshot
+28,s_right_outlane,sw28,Trigger,734.9,1564.1,0.7719,0.7395,hit
+29,s_left_bumper,sw29,Trigger,804.9,1603.8,0.8455,0.7583,hit
+30,s_right_bumper,Bumper1,Bumper,598.8,345.4,0.6236,0.1706,hit
+31,s_bottom_bumper,Bumper2,Bumper,784.8,330.8,0.8096,0.1515,hit
+32,s_left_top_lane,Bumper3,Bumper,709.5,509.8,0.761,0.2372,hit
+33,s_center_top_lane,sw33,Trigger,598.0,180.1,0.6282,0.0851,hit
+34,s_right_top_lane,sw34,Trigger,683.0,174.2,0.7175,0.0824,hit
+35,s_doc_ock_vuk,sw35,Trigger,769.2,172.5,0.808,0.0815,hit
+37,s_right_loop_low,sw37,Trigger,893.0,202.9,0.938,0.096,hit
+38,s_r_3_bank_top,sw38,Trigger,893.5,346.3,0.9385,0.1637,hit
+39,s_r_3_bank_mid,sw39,Wall,747.4,1141.4,0.7851,0.5397,hit
+40,s_r_3_bank_bot,sw40,Wall,742.4,1197.5,0.7798,0.5662,hit
+41,s_sandman_opto,sw41,Wall,737.0,1251.1,0.7741,0.5915,hit
+42,s_l_ramp_opto,S42,Trigger,470.2,428.5,0.4953,0.2001,hit
+43,s_r_ramp_entrance,sw43,Trigger,133.6,202.8,0.1403,0.0959,hit
+44,s_r_ramp_exit,sw44,Trigger,603.0,511.0,0.6334,0.2416,hit
+45,s_u_flipper_lane,sw45,Trigger,895.0,401.5,0.9401,0.1898,hit
+46,s_c_ramp_entrance,sw46,Trigger,830.2,1186.1,0.8721,0.5608,hit
+47,s_c_ramp_exit,sw47,Trigger,302.5,454.0,0.3178,0.2147,hit
+48,s_3_bank_motor_dn,sw48,Trigger,47.8,607.5,0.0502,0.2872,hit
+49,s_3_bank_motor_up,PallaBloccata,Trigger,418.1,592.5,0.4392,0.2801,hit
+63,s_63_s63,S63,Trigger,719.0,738.8,0.7558,0.349,hit
+0,s_goblin_1_bot,,cabinet,,,0.05,0.985,no playfield object: cabinet strip
+14,s_tournament_start,,cabinet,,,0.15,0.985,no playfield object: cabinet strip
+15,s_start_button,,cabinet,,,0.25,0.985,no playfield object: cabinet strip
+17,s_trough_4_l,,cabinet,,,0.35,0.985,no playfield object: cabinet strip
+22,s_shooter_lane,,cabinet,,,0.45,0.985,no playfield object: cabinet strip
+36,s_right_loop_high,,cabinet,,,0.55,0.985,no playfield object: cabinet strip
+52,s_sandman_motor_dn,,cabinet,,,0.65,0.985,no playfield object: cabinet strip
+53,s_sandman_motor_up,,cabinet,,,0.75,0.985,no playfield object: cabinet strip
+56,s_doc_ock_motor_dn,,cabinet,,,0.85,0.985,no playfield object: cabinet strip
+57,s_doc_ock_motor_up,,cabinet,,,0.05,0.955,no playfield object: cabinet strip
+58,s_sandman_vuk,,cabinet,,,0.15,0.955,no playfield object: cabinet strip
+62,s_doc_ock_opto,,cabinet,,,0.25,0.955,no playfield object: cabinet strip

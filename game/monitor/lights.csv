@@ -1,0 +1,75 @@
+number,mpf_name,vpx,kind,type,x,y,nx,ny,note
+3,l_shoot_again,l3,lamp,Light,433.7,1828.1,0.4555,0.8643,
+4,l_battle_royale,l4,lamp,Light,580.2,1313.3,0.6094,0.621,
+5,l_jack_o_lantern,l5,lamp,Light,489.7,1332.0,0.5144,0.6298,
+6,l_sandman,l6,lamp,Light,436.4,1254.5,0.4584,0.5932,
+7,l_daily_bugle,l7,lamp,Light,559.1,1407.0,0.5873,0.6652,
+8,l_doc_ock,l8,lamp,Light,537.3,1207.4,0.5644,0.5709,
+9,l_the_amazing_spider_man,l9,lamp,Light,322.7,1498.4,0.339,0.7085,
+10,l_green_goblin,l10,lamp,Light,295.4,1314.8,0.3102,0.6216,
+11,l_electro,l11,lamp,Light,316.1,1399.7,0.3321,0.6618,
+12,l_venom,l12,lamp,Light,527.2,1624.3,0.5538,0.768,
+13,l_tell_mj,l13,lamp,Light,385.3,1325.8,0.4047,0.6268,
+14,l_super_hero,l14,lamp,Light,453.0,1700.2,0.4758,0.8039,
+15,l_lock_r_loop,l15,lamp,Light,790.6,827.8,0.8305,0.3914,
+16,l_r_loop_arrow_wht_mid,l16,lamp,Light,823.5,726.4,0.865,0.3434,
+17,l_goblin_5_top,l17,lamp,Light,186.6,1014.0,0.196,0.4794,also: l17r
+18,l_goblin_4,l18,lamp,Light,182.0,1072.2,0.1912,0.5069,also: l18r
+19,l_goblin_3,l19,lamp,Light,180.1,1129.4,0.1892,0.534,also: l19r
+20,l_goblin_2,l20,lamp,Light,176.2,1186.7,0.1851,0.5611,also: l20r
+21,l_goblin_1_bot,l21,lamp,Light,172.3,1244.4,0.181,0.5884,also: l21r
+22,l_spidey_falls_for_mj,l22,lamp,Light,352.5,1100.5,0.3703,0.5203,
+23,l_fire_fighting,l23,lamp,Light,372.4,1173.1,0.3911,0.5547,
+24,l_green_with_envy,l24,lamp,Light,315.0,1223.5,0.3309,0.5785,
+25,l_l_loop_arrow_red_top,l25,lamp,Light,113.2,634.1,0.1189,0.2998,
+26,l_l_loop_arrow_wht_mid,l26,lamp,Light,134.4,731.1,0.1412,0.3457,
+27,l_lock_l_loop,l27,lamp,Light,161.4,827.8,0.1696,0.3914,
+28,l_light_lock,l28,lamp,Light,271.9,878.2,0.2856,0.4152,also: l28r
+29,l_c_ramp_arrow_red_top,l29,lamp,Light,337.7,724.4,0.3547,0.3425,
+30,l_c_ramp_arrow_wht_mid,l30,lamp,Light,359.7,845.0,0.3778,0.3995,
+31,l_venom_c_ramp,l31,lamp,Light,374.1,934.7,0.3929,0.4419,
+32,l_extra_ball,l32,lamp,Light,188.0,927.1,0.1974,0.4384,
+33,l_r_ramp_arrow_red_top,l33,lamp,Light,601.2,739.7,0.6315,0.3498,
+34,l_r_ramp_arrow_wht_mid,l34,lamp,Light,586.0,845.1,0.6155,0.3996,
+35,l_royale_jackpot,l35,lamp,Light,553.4,1087.6,0.5813,0.5142,
+36,l_doc_ock_arrow_red_top,l36,lamp,Light,730.7,680.0,0.7675,0.3215,
+37,l_doc_ock_arrow_wht_bot,l37,lamp,Light,699.1,767.8,0.7339,0.3633,
+38,l_battle_on_the_bridge,l38,lamp,Light,669.6,1010.0,0.7034,0.4776,
+39,l_ock_s_oscorp_outing,l39,lamp,Light,618.0,1057.8,0.6491,0.5002,
+40,l_lend_me_a_hand,l40,lamp,Light,649.5,1119.9,0.6823,0.5295,
+41,l_h_ero,l41,lamp,Light,56.7,1456.9,0.0596,0.6889,also: l41r
+42,l_h_e_ro,l42,lamp,Light,130.5,1437.2,0.137,0.6795,
+43,l_he_r_o,l43,lamp,Light,730.3,1437.1,0.7671,0.6795,
+44,l_her_o,l44,lamp,Light,808.0,1456.9,0.8487,0.6889,also: l44r
+45,l_l_ramp_arrow_red_top,l45,lamp,Light,435.1,844.1,0.457,0.3991,
+46,l_l_ramp_arrow_wht_mid,l46,lamp,Light,517.4,887.8,0.5435,0.4198,
+47,l_venom_l_ramp,l47,lamp,Light,595.9,933.2,0.626,0.4412,
+48,l_r_3_bank_1_top,l48,lamp,Light,698.9,1164.9,0.7341,0.5508,
+49,l_sandman_arrow_1_l,l49,lamp,Light,413.2,531.3,0.4341,0.2512,
+50,l_sandman_arrow_2_c,l50,lamp,Light,463.8,455.3,0.4681,0.218,
+51,l_sandman_arrow_3_r,l51,lamp,Light,513.4,531.8,0.5392,0.2514,
+52,l_sandman_3_bank_1_l,l52,lamp,Light,419.0,736.7,0.4402,0.3483,also: l52r
+53,l_sandman_3_bank_2_c,l53,lamp,Light,474.5,737.3,0.4984,0.3486,also: l53r
+54,l_sandman_3_bank_3_r,l54,lamp,Light,528.5,740.3,0.5551,0.35,also: l54r
+57,l_w_eb,l57,lamp,Light,598.5,98.6,0.6287,0.0466,
+58,l_w_e_b,l58,lamp,Light,683.5,92.0,0.7179,0.0435,
+59,l_we_b,l59,lamp,Light,767.5,87.7,0.8062,0.0415,
+60,l_left_bumper,l60,lamp,Light,600.2,341.2,0.6359,0.154,
+61,l_right_bumper,l61,lamp,Light,786.2,331.8,0.8407,0.1618,
+62,l_bottom_bumper,l62,lamp,Light,707.2,511.2,0.7272,0.2456,
+63,l_r_3_bank_2_mid,l63,lamp,Light,694.0,1211.7,0.729,0.5729,also: l63r
+64,l_r_3_bank_3_bot,l64,lamp,Light,689.6,1268.0,0.7244,0.5995,
+65,l_special,l65,lamp,Light,288.4,949.9,0.303,0.4491,
+66,l_venom_strikes_twice,MissioneVenom3,lamp,Flasher,228.4,-111.6,0.05,0.925,off the picture (ny -0.0528): cabinet strip
+67,l_symbiote_stalker,MissioneVenom2,lamp,Flasher,288.7,-110.9,0.15,0.925,off the picture (ny -0.0524): cabinet strip
+68,l_goo_on_you,MissioneVenom1,lamp,Flasher,351.4,-108.8,0.25,0.925,off the picture (ny -0.0514): cabinet strip
+69,l_concrete_ending,MissioneSandman3,lamp,Flasher,679.6,-109.7,0.35,0.925,off the picture (ny -0.0519): cabinet strip
+70,l_time_is_money,MissioneSandman2,lamp,Flasher,623.3,-109.3,0.45,0.925,off the picture (ny -0.0517): cabinet strip
+71,l_out_of_the_slammer,MissioneSandman1,lamp,Flasher,560.4,-111.3,0.55,0.925,off the picture (ny -0.0526): cabinet strip
+72,l_spider_sense,l72,lamp,Light,823.0,1072.0,0.8645,0.5069,also: l72r
+78,l_r_loop_arrow_red_top,l78,lamp,Light,853.7,629.6,0.8968,0.2977,
+123,l_123_f23,F23,lamp,Light,580.4,429.9,0.6096,0.2033,also: f23a
+125,l_125_f25,F25,lamp,Light,282.1,83.9,0.2963,0.0397,also: f25a
+126,l_126_f26,F26,lamp,Light,465.4,458.9,0.5067,0.2168,
+128,l_128_flashergoblin,FlasherGoblin,lamp,Flasher,78.2,1253.8,0.0821,0.5928,
+131,l_131_flasherbumpers,FlasherBumpers,lamp,Flasher,893.2,471.4,0.9382,0.2229,
