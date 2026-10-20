@@ -54,6 +54,19 @@ coil/flasher timing via emulator, matrix switch ordering from the driver,
 Ghidra decompile of the game code (needs Java, not present in the build
 environment).
 
+Agent A follow-up progress (2026-10-19, added by openhands):
+- **OS table registry found** at file 0x31324 (Transformers recipe, section 5.2).
+  See `rom_data/README.md` for the full table list (adjustments, audits, coils,
+  deffs, pricing candidates...). `rom_data/hunt_hardware.py` scans for it and
+  dumps records (`--records`).
+- **Coil descriptor table decoded**: 0x040cea08, 36 x 28 B
+  (flags, per-coil fn for motors, name ptr, default pulse ms, wire colours) ->
+  `io/coils_hardware.csv` via `rom_data/decode_hardware.py`. Cross-validated
+  with agent B: coils 21/27/29/30 flashers = the 4 playfield domes.
+- **Still open / next**: switch descriptor table (search only the data-bank
+  window, not the whole file - naive scan is quadratic), deff table decode,
+  emulator-based coil timing, rules (Ghidra+emulator). See rom_data/README.md.
+
 ## Agent B: VPX extraction (2026-10-19, added by openhands)
 
 From `Spider-Man Classic (Stern 2007) VPW Mod 2.1.vpx` (VLM baked-lightmap
